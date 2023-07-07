@@ -2,6 +2,7 @@
 created: 2023-07-07 22:07
 tags: [tiny-d6]
 ---
+
 > [!abstract] Character
 > - **Name:** Okan Ladang
 > - **Homeland:** The mountains of the south
