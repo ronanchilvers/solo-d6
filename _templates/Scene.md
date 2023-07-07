@@ -1,0 +1,6 @@
+---
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+> [!scene] <% tp.file.cursor(1) %>
+> **Scene roll:** <% tp.file.cursor(2) %>
+> <% tp.file.cursor(3) %>

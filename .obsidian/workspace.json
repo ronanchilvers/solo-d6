@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "c794c624ca936195",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8bf5ceb150aba59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23c529e44faea666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Snippets/Snippet - Dice Roll.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a47b4debf6c05c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "448c66bc9614446d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37d7a1996994e1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58cfa0b3156d15ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Death Dog",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1af5a0858f4f634f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e7f54f68752636d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.50271224975586
+  },
+  "right": {
+    "id": "cf3acb3083bf7fd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4829d649dfc7209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef3667ce303b428",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_templates/Snippets/Snippet - Dice Roll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98ab090627e0b489",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_templates/Snippets/Snippet - Dice Roll.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59db9f5a4eda1d76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffdd6728cb960dce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_templates/Snippets/Snippet - Dice Roll.md"
+              }
+            }
+          },
+          {
+            "id": "80c595990cca37b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e37d7a1996994e1e",
+  "lastOpenFiles": [
+    "_assets/characters",
+    "_assets/maps",
+    "_templates/Snippets/Snippet - Oracle Decision.md",
+    "_templates/Snippets/Snippet - Scene Description.md",
+    "_templates/Snippets/Snippet - Twist.md",
+    "Almanac/Engines/Tiny Solitary Soldiers.md",
+    "_templates/Snippets/Snippet - Dice Roll.md",
+    "_templates/Scene.md",
+    "_templates/Snippets",
+    "Almanac/Engines/Untitled",
+    "Almanac/Engines",
+    "Almanac",
+    "Scenes",
+    "_templates",
+    "_assets",
+    "Threads.md",
+    "World Map.md",
+    "Characters.md",
+    "Almanac/Players/Fate/Nicholas.md",
+    "Scenes/37 - Orc fight!!.md",
+    "Almanac/Players/Fate/Kalista.md",
+    "_templates/Snippets/Snippet - Boost.md",
+    "_templates/Snippets/Fate/Action - Defend.md",
+    "Almanac/Engine/Tiny Solitary Soldiers.md",
+    "Scenes/36 - Trapped!.md",
+    "_templates/Snippets/Fate/Action - Attack.md",
+    "Almanac/Bestiary/Orc.md",
+    "Almanac/Places/Bascay.md",
+    "Almanac/Bestiary/Death Dog.md",
+    "_assets/characters/nicholas-token.png",
+    "_assets/characters/nicholas-of-wilton.jpg",
+    "_assets/characters/kalista.jpg",
+    "_assets/characters/kalista-token.png",
+    "_assets/characters",
+    "Miscellaneous/The Lost Key.md",
+    "Miscellaneous/Tiny Dungeon Home Rules.md",
+    "Miscellaneous",
+    "_templates/Snippets/Snippet - Aspect.md",
+    "_templates/Snippets/Snippet - Situation Aspects.md",
+    "Scenes/34 - Shadows.md",
+    "_assets/maps/bascay.png",
+    "_assets/maps/barat - faymouth.png",
+    "_assets/mythic/chaos-fate-chart.png",
+    "_assets/mythic/event-focus.png",
+    "_assets/mythic/no-chaos-fate-chart.png",
+    "_assets/event-focus.png"
+  ]
+}

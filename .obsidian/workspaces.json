@@ -1,0 +1,501 @@
+{
+  "workspaces": {
+    "Gameplay Layout": {
+      "main": {
+        "id": "c794c624ca936195",
+        "type": "split",
+        "children": [
+          {
+            "id": "78ea6348d2ae721f",
+            "type": "tabs",
+            "dimension": 52.66040688575901,
+            "children": [
+              {
+                "id": "4ddaaa574e17bd1d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scenes/14 - Where to next?.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "db2562bce8d34222",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Threads.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "01b5d5c3e0b64110",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "4886d0da4f5beb2b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Almanac/Engine/Dice.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "e020ddba9cab8f2f",
+            "type": "tabs",
+            "dimension": 47.339593114241,
+            "children": [
+              {
+                "id": "004ed3a03b227d7b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Almanac/Engine/Charts.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "e6cff2417745f8df",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Almanac/Players/Kalista.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3a47b4debf6c05c7",
+        "type": "split",
+        "children": [
+          {
+            "id": "448c66bc9614446d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e37d7a1996994e1e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "58cfa0b3156d15ac",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1af5a0858f4f634f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 235.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "cf3acb3083bf7fd2",
+        "type": "split",
+        "children": [
+          {
+            "id": "a4829d649dfc7209",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cef3667ce303b428",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Scenes/14 - Where to next?.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "98ab090627e0b489",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Scenes/14 - Where to next?.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "59db9f5a4eda1d76",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ffdd6728cb960dce",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Scenes/14 - Where to next?.md"
+                  }
+                }
+              },
+              {
+                "id": "1e7f54f68752636d",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "80c595990cca37b8",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 438.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "4ddaaa574e17bd1d"
+    },
+    "Mobile Gameplay": {
+      "main": {
+        "id": "f46183961cd2a19b",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f311a0eae9d48fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8e6eff6b31d9515",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Threads.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1040eed4b37b2f46",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NPCs.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "36546e7c4e5eaec7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Almanac/Players/Kalista.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "92a78027630eceeb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Almanac/Engine/Charts.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "675f057a840894f9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Almanac/Engine/Dice.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "d2f5d2a2507847c8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scenes/14 - Where to next?.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 5,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "dc9fdda9387945b7",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "d7970a034f5e74a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3737950dd6d41ea5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2484f0e18665d36f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0972a60b4e47c7d2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "77092ec9ea19b91d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "97354c62b3d62e03",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "653752c53dc67275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scenes/14 - Where to next?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2c262eaadfcdbcf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scenes/14 - Where to next?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00cbd0030c181d47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scenes/14 - Where to next?.md"
+              }
+            }
+          },
+          {
+            "id": "3197da85c0a6afe7",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "24eec8cd07afce1d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6048d0982bb85221",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "d2f5d2a2507847c8"
+    }
+  },
+  "active": "Gameplay Layout"
+}

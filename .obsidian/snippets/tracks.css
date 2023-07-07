@@ -1,0 +1,42 @@
+.track {
+    --background-modifier-border: #464646;
+}
+
+.track ul {
+    padding: 0;
+    margin-top: 0;
+}
+
+.track li {
+    list-style: none;
+    text-indent: 0;
+    display: inline-block;
+    margin-right: 0.5rem !important;
+}
+.track-title {
+    margin-bottom: 0;
+}
+.track .list-bullet {
+    display: none;
+}
+
+.track .task-list-item-checkbox {
+    margin: 0 0.25rem;
+    width: 16px;
+    height: 16px;
+    font-size: 16px;
+}
+
+/* .is-mobile .track .task-list-item-checkbox {
+    width: 40px;
+} */
+
+.track .contains-task-list li {
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+.track ul>li.task-list-item .task-list-item-checkbox {
+    margin-left: 0;
+}

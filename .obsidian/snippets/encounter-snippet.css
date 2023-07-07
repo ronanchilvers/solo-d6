@@ -1,0 +1,103 @@
+.block-language-encounter {
+    display: inline;
+    width: auto;
+}
+.encounter-container {
+    border-radius: 4px;
+    background-color: rgba(0,191,188, 0.1);
+    width: auto !important;
+    overflow: hidden;
+    margin: 1rem 0;
+}
+.encounter-container .clickable-icon {
+    color: black !important;
+}
+.encounter-container .encounter-name {
+    color: rgba(40,183,181,1);
+    background-color: rgba(0,191,188, 0.1);
+    padding: 1rem;
+}
+.encounter-container .encounter-name h3 {
+    font-size: 1.3rem;
+    margin-right: 0.5rem !important;
+    text-transform: capitalize;
+}
+.encounter-container .creatures-container h4 {
+    font-size: 1.1rem;
+    margin: 0;
+}
+.encounter-container .creatures-container ul {
+    margin-bottom: 0;
+}
+.encounter-container .encounter-creatures {
+    padding: 1rem;
+}
+.encounter-container .encounter-creatures {
+    padding-bottom: 0;
+}
+.encounter-container .encounter-creatures ul {
+    list-style: none;
+    padding: 0;
+}
+.encounter-container .encounter-creatures li {
+    display: inline;
+    margin-right: 0.25rem;
+}
+.encounter-container .encounter-creatures li > strong:after {
+    content: " x";
+}
+.encounter-container .encounter-creatures li > span:last-child:after {
+    content: ", ";
+}
+.encounter-container .encounter-creatures li:last-child > span:after {
+    content: "";
+}
+.encounter-container .encounter-xp {
+    background-color: rgba(0,191,188, 0.1);
+    width: auto !important;
+    margin-top: 1rem;
+}
+.encounter-container .encounter-xp > span {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    padding: 1rem;
+}
+.encounter-container .encounter-xp span strong {
+    color: inherit !important;
+}
+.encounter-container .encounter-xp span .paren {
+    display: none;
+}
+.encounter-container .encounter-xp span.easy {
+    background-color: rgba(0,200,0, 0.25);
+}
+.encounter-container .encounter-xp span.medium {
+    background-color: rgba(200,200,50, 0.25);
+}
+.encounter-container .encounter-xp span.hard {
+    background-color: rgba(255,150,0, 0.5);
+}
+.encounter-container .encounter-xp span.deadly {
+    background-color: rgba(255,0,0, 0.25);
+}
+
+.initiative-tracker-encounter-line {
+    border-radius: 4px;
+    background-color: rgba(0,191,188, 0.2);
+    padding: 0.0rem 0.5rem;
+}
+.initiative-tracker-encounter-line .encounter-line {
+    gap: 0.5rem !important;
+}
+.initiative-tracker-encounter-line .encounter-line strong {
+    font-weight: normal !important;
+}
+.initiative-tracker-encounter-line .encounter-line strong:after {
+    content: " x";
+}
+.initiative-tracker-encounter-line .clickable-icon {
+    padding: 4px 2px;
+}

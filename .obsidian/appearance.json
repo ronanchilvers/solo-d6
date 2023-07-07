@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "metadata-snippet",
+    "image-snippet",
+    "encounter-snippet",
+    "callouts-snippet",
+    "tracks"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 14,
+  "cssTheme": "Big Sur Aesthetic"
+}
