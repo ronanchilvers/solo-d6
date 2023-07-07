@@ -44,6 +44,7 @@ tags: [tiny-d6,character]
 
 `class: track`
 > [!abstract] Weapon Proficiencies
+> - [ ] Unarmed
 > - [ ] Light
 > - [ ] Heavy
 > - [ ] Ranged

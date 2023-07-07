@@ -10,12 +10,12 @@ tags: [tiny-d6,character]
 
 > [!abstract] Heritage
 > **Name:**  Human
-> **Trait:** Alchemist
+> **Trait:** Alchemist - Provided the right reagents and recipes, you can mix potions, elixirs, and poisons. You also gain Advantage when identifying unknown liquids.
 
 > [!abstract] Traits
-> - Healer
-> - Spell Reader
-> - 
+> - Healer - Test 2d6 to heal a creature. 2 HP healed on success.
+> - Spell Reader - You have spent years learning the sacred language of the arcane, allowing you to read power- laced words from magic scrolls.
+> - Insightful - You gain Advantage when Testing to discern whether or not someone is telling the truth or lying.
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
@@ -44,11 +44,12 @@ tags: [tiny-d6,character]
 
 `class: track`
 > [!abstract] Weapon Proficiencies
-> - [ ] Light
+> - [ ] Unarmed
+> - [x] Light
 > - [ ] Heavy
 > - [ ] Ranged
 >
-> **Mastered Weapons:** 
+> **Mastered Weapons:** Dagger
 
 > [!help]- Spending Experience
 > - 1xp = Investment Windfall 200 NC  
