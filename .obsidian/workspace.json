@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Character - NAME.md",
+                "file": "Almanac/Characters/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Character - NAME.md",
+                "file": "Almanac/Characters/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Character - NAME.md",
+                "file": "Almanac/Characters/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Character - NAME.md"
+                "file": "Almanac/Characters/Untitled.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "bdd74a84f7d32957",
   "lastOpenFiles": [
-    "_templates/Scene - NUMBER - TITLE.md",
     "_templates/Character - NAME.md",
+    "Almanac/Characters/Untitled.md",
+    "_templates/Scene - NUMBER - TITLE.md",
     "_templates/Snippets/Snippet - Dice Roll.md",
     "Almanac/Characters",
     "_assets/characters",
@@ -207,7 +208,6 @@
     "Miscellaneous/Tiny Dungeon Home Rules.md",
     "_templates/Snippets/Snippet - Aspect.md",
     "_templates/Snippets/Snippet - Situation Aspects.md",
-    "Scenes/34 - Shadows.md",
     "_assets/maps/bascay.png",
     "_assets/maps/barat - faymouth.png",
     "_assets/mythic/chaos-fate-chart.png",

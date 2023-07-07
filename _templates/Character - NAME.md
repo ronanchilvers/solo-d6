@@ -12,4 +12,27 @@ tags: [tiny-d6]
 > **Name:**  
 > **Trait:**
 
-> [!a]
+`class: track`
+> [!abstract] Health
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> 
+> (Add / remove HP boxes as required)
+
+`class: track`
+> [!abstract] Weapon Proficiencies
+> - [ ] Light
+> - [ ] Heavy
+> - [ ] Ranged
+>
+> **Mastered Weapons:** 
+
+> [!abstract] Experience
+> 
+> | Remaining | Spent | Total |
+> | -- | -- | -- |
+> | 0 | 0 | 0 |
