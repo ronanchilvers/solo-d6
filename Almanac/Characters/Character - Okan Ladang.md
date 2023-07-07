@@ -15,9 +15,9 @@ tags: [tiny-d6]
 > **Trait:** Goblin Agility - When attacked test 1d6 to evade
 
 > [!abstract] Traits
-> - Trait 1
-> - Trait 2
-> - Trait 3
+> - Lucky - Re-roll 1 test per session
+> - Perceptive - Advantage on Testing to gain information even when asleep
+> - Quick Shot - Reload and fire ranged weapons in 1 round
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP

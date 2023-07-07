@@ -10,16 +10,33 @@
           {
             "id": "4490a8d6d4395103",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Almanac/Characters/Character - Sakari Vinha.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d9d9791bd4e013c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Almanac/Characters/Character - Okan Ladang.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Almanac/Characters/Character - Sakari Vinha.md",
+                "file": "Almanac/Characters/Character - Okan Ladang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Almanac/Characters/Character - Sakari Vinha.md",
+                "file": "Almanac/Characters/Character - Okan Ladang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Almanac/Characters/Character - Sakari Vinha.md"
+                "file": "Almanac/Characters/Character - Okan Ladang.md"
               }
             }
           },
@@ -165,11 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4490a8d6d4395103",
+  "active": "d9d9791bd4e013c9",
   "lastOpenFiles": [
+    "Almanac/Characters/Character - Sakari Vinha.md",
     "Almanac/Characters/Character - Okan Ladang.md",
     "_templates/Character.md",
-    "Almanac/Characters/Character - Sakari Vinha.md",
     "_assets/characters/Sakari Vinha.jpg",
     "_assets/characters/Okan Ladang.jpg",
     "_templates/Scene.md",

@@ -31,6 +31,9 @@ tags: [tiny-d6,character]
 > - [ ] 
 > - [ ] 
 > - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
 > 
 > (Add / remove HP boxes as required)
 
@@ -47,10 +50,10 @@ tags: [tiny-d6,character]
 `class: track`
 > [!abstract] Weapon Proficiencies
 > - [ ] Light
-> - [ ] Heavy
+> - [x] Heavy
 > - [ ] Ranged
 >
-> **Mastered Weapons:** 
+> **Mastered Weapons:** Claws, War Axe
 
 > [!help]- Spending Experience
 > - 1xp = Investment Windfall 200 NC  
