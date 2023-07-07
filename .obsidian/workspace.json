@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b83f3ca0cf5e85f7",
+            "id": "4490a8d6d4395103",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4490a8d6d4395103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Almanac/Characters/Character - Okan Ladang.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Almanac/Characters/Character - Okan Ladang.md",
+                "file": "_templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Almanac/Characters/Character - Okan Ladang.md",
+                "file": "_templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Almanac/Characters/Character - Okan Ladang.md"
+                "file": "_templates/Character.md"
               }
             }
           },
@@ -163,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +167,8 @@
   },
   "active": "4490a8d6d4395103",
   "lastOpenFiles": [
-    "_templates/Character.md",
     "Almanac/Characters/Character - Okan Ladang.md",
+    "_templates/Character.md",
     "_templates/Scene.md",
     "_templates/Snippets/Snippet - Dice Roll.md",
     "Almanac/Characters",
