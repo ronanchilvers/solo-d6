@@ -1,6 +1,6 @@
 ---
 created: 2023-07-07 22:07
-tags: [tiny-d6]
+tags: [tiny-d6,character]
 ---
 ![[Okan Ladang.jpg|250]]
 
