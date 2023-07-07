@@ -12,6 +12,10 @@ tags: [tiny-d6]
 > **Name:**  Goblin
 > **Trait:** Goblin Agility - When attacked test 1d6 to evade
 
+> [!help]- Health / Hit Points
+> - 6 hour rest restores all lost HP
+> - Otherwise 1 hour rest restores 1 HP
+
 `class: track`
 > [!abstract] Health
 > - [ ] 
@@ -21,10 +25,15 @@ tags: [tiny-d6]
 > 
 > (Add / remove HP boxes as required)
 
-> [!help] Combat
-> - Not proficient - Disadvantage
-> - Proficient - Normal
-> - Mastered - Advantage
+> [!help]- Combat
+> - Test to determine attack outcome
+> - Roll a 5 or 6 to succeed
+> - All weapons inflict 1 HP damage
+> - **Critical Miss:** All 1s
+> - **Critical Hit:** All 6s then +1 damage
+> - **Not proficient:** Disadvantage
+> - **Proficient:** Normal
+> - **Mastered:** Advantage
 
 `class: track`
 > [!abstract] Weapon Proficiencies
