@@ -2,7 +2,7 @@
 created: 2023-07-07 22:07
 tags: [tiny-d6]
 ---
-![[Okan Ladang.jpg|200]]
+![[Okan Ladang.jpg|250]]
 
 > [!abstract] Character
 > - **Name:** Okan Ladang
@@ -13,6 +13,11 @@ tags: [tiny-d6]
 > [!abstract] Heritage
 > **Name:**  Goblin
 > **Trait:** Goblin Agility - When attacked test 1d6 to evade
+
+> [!abstract] Traits
+> - Trait 1
+> - Trait 2
+> - Trait 3
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP

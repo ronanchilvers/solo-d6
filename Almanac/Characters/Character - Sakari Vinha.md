@@ -1,21 +1,23 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2023-07-07 22:28
 tags: [tiny-d6,character]
 ---
+![[Sakari Vinha.jpg|400]]
+
 > [!abstract] Character
-> - **Name:** NAME
-> - **Homeland:** 
-> - **Family Trade:** 
-> - **Belief:**
+> - **Name:** Sakari Vinha
+> - **Homeland:** Northern Forests
+> - **Family Trade:** Warriors
+> - **Belief:** My armour is my soul
 
 > [!abstract] Heritage
-> **Name:**  
-> **Trait:**
+> **Name:** Black kahru
+> **Trait:** Powerful Claws - Claw as mastered weapon. Cannot use Ranged weapons.
 
 > [!abstract] Traits
-> - Trait 1
-> - Trait 2
-> - Trait 3
+> - Cleave - When enemy is at 0 HP, make another attack with disadvantage
+> - Strong - Advantage for brute force tests
+> - Tough - Additional 2 HP
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
