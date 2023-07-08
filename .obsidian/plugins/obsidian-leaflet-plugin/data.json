@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688852763467,
+      "lastAccessed": 1688853021303,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -375,6 +375,23 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_896b787918d9",
+          "type": "default",
+          "loc": [
+            -2.240234375,
+            4.435136469815708
+          ],
+          "link": "Ss'thar'tiss'ssun",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -450,7 +467,7 @@
     "id": "the-sword-coast-region",
     "filterTag": []
   },
-  "enableDraw": true,
+  "enableDraw": false,
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

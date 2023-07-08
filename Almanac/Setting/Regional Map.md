@@ -8,5 +8,6 @@ image: The Sword Coast.jpg
 lat: 53
 long: 60
 defaultZoom: 9
-height: 800px
+height: 700px
+draw: false
 ```
