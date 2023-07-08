@@ -27,6 +27,13 @@ Sort file.name
 
 # Places
 
+```dataview
+List 
+From -"_templates"
+Where contains(file.tags, "place")
+Sort file.name
+```
+
 # Scenes
 
 ```dataview

@@ -3,7 +3,7 @@
     {
       "id": "sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688847412139,
+      "lastAccessed": 1688847934309,
       "markers": [
         {
           "id": "ID_9929dbdbf839",
@@ -12,6 +12,7 @@
             -2.040946662425995,
             4.514251291751862
           ],
+          "link": "Marsh of Chelimber",
           "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
           "mutable": true,
           "command": false,
@@ -19,7 +20,7 @@
             0.643456754280889,
             0.44964057278920366
           ],
-          "description": "Marsh of Chelimber",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
@@ -87,6 +88,33 @@
       "files": [
         "Almanac/Setting/Regional Map.md"
       ]
+    },
+    {
+      "id": "the-sword-coast-region",
+      "lastAccessed": 1688847979447,
+      "markers": [
+        {
+          "id": "ID_1ba86b78287b",
+          "type": "default",
+          "loc": [
+            -1.9894162714481354,
+            4.515681624412537
+          ],
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Regional Map.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -128,11 +156,11 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "height": "500px",
-    "image": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
+    "image": "The Sword Coast.jpg",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg"
+      "The Sword Coast.jpg"
     ],
     "linksFrom": [],
     "linksTo": [],
