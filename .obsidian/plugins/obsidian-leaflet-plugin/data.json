@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688850552904,
+      "lastAccessed": 1688850981338,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -217,6 +217,26 @@
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e90bd8c80afb",
+          "type": "default",
+          "loc": [
+            -2.4630579948425293,
+            4.064786634402484
+          ],
+          "link": "Boareskyr Bridge",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5793905224983497,
+            0.5426358405160822
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
