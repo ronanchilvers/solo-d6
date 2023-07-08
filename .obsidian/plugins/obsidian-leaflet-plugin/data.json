@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688851528736,
+      "lastAccessed": 1688851874910,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -246,16 +246,16 @@
           "id": "ID_08094939785a",
           "type": "default",
           "loc": [
-            -2.7380123138427734,
-            3.8876143040592983
+            -2.738870620727539,
+            3.895058104633012
           ],
           "link": "The Fields of the Dead",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5541365600440871,
-            0.6032109744782702
+            0.5551975917516988,
+            0.6034000679055508
           ],
           "description": null,
           "minZoom": null,
@@ -266,14 +266,56 @@
           "id": "ID_392958db4beb",
           "type": "default",
           "loc": [
-            -2.8299334049224854,
-            4.176452985271437
+            -2.828738808631897,
+            4.169528953954346
           ],
           "link": "Elturel",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5943203854188823,
+            0.6231989113681288
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bfad968d9ba",
+          "type": "default",
+          "loc": [
+            -2.8682477474212646,
+            4.096262800746896
+          ],
+          "link": "Fort Morninglord",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5838771030017847,
+            0.6319031181926367
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e86a9b0aa8ca",
+          "type": "default",
+          "loc": [
+            -2.580747961997986,
+            4.39056558835683
+          ],
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6258267208348266,
+            0.5685640948980072
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
