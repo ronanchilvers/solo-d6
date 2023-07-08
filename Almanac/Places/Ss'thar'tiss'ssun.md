@@ -2,6 +2,7 @@
 created: 2023-07-08 22:48
 tags: [tiny-d6,place]
 ---
+![[Najara.jpg]]
 Ss'thar'tiss'ssun, or the City of Fountains, was once a sarrukh realm and later the capital city of the ancient serpent empire known as Najara.
 
 ## Geography

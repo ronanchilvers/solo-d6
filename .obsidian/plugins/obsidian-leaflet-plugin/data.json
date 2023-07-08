@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688853021303,
+      "lastAccessed": 1688853356764,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -439,7 +439,7 @@
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "800px",
+    "height": "700px",
     "image": "The Sword Coast.jpg",
     "imageOverlay": [],
     "isMapView": false,
@@ -465,6 +465,9 @@
     "zoomDelta": 1,
     "zoomFeatures": false,
     "id": "the-sword-coast-region",
+    "lat": 53,
+    "long": 60,
+    "draw": false,
     "filterTag": []
   },
   "enableDraw": false,
