@@ -1,9 +1,40 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "sword-coast-region",
+      "lastAccessed": 1688846747973,
+      "markers": [
+        {
+          "id": "ID_9929dbdbf839",
+          "type": "default",
+          "loc": [
+            -1.965973138809204,
+            4.5119030475616455
+          ],
+          "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6431220379597891,
+            0.43312316999583156
+          ],
+          "description": "Marsh of Chelimber",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Regional Map.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#2d8000",
     "transform": {
       "size": 6,
       "x": 0,

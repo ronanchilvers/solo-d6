@@ -8,6 +8,6 @@ tags: [tiny-d6,setting]
 id: sword-coast-region
 image: Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg
 defaultZoom: 8
-lat: 40
+lat: 52
 long: 60
 ```
