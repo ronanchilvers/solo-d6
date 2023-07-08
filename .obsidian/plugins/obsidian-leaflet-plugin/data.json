@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688853652519,
+      "lastAccessed": 1688853973633,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -363,14 +363,17 @@
           "id": "ID_c9abab488969",
           "type": "default",
           "loc": [
-            -2.6264873147010803,
-            4.506465452603542
+            -2.626563310623169,
+            4.503680083655588
           ],
           "link": "Hardbuckler",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6419499451090371,
+            0.5786576656794589
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -394,11 +397,11 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_08b9fa68fa28",
+          "id": "ID_99aaa899299b",
           "type": "default",
           "loc": [
-            -2.5060267448425293,
-            4.758425940245216
+            -2.439720571041107,
+            4.833534079751105
           ],
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,

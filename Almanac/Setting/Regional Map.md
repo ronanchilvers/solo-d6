@@ -10,4 +10,5 @@ long: 60
 defaultZoom: 9
 height: 700px
 draw: false
+scale: 400
 ```
