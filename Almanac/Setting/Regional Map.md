@@ -5,6 +5,8 @@ tags: [tiny-d6,setting]
 ```leaflet
 id: the-sword-coast-region
 image: The Sword Coast.jpg
+lat: 53
+long: 60
 defaultZoom: 9
 height: 800px
 ```

@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688850379226,
+      "lastAccessed": 1688850552904,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -200,6 +200,23 @@
             0.6600779510022272,
             0.45654044750430295
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a98b999fa9b",
+          "type": "default",
+          "loc": [
+            -2.42578125,
+            4.280786443980365
+          ],
+          "link": "Forest Of Wyrms",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
