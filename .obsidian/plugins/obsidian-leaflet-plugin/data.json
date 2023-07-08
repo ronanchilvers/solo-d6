@@ -3,7 +3,7 @@
     {
       "id": "sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688847080734,
+      "lastAccessed": 1688847381625,
       "markers": [
         {
           "id": "ID_9929dbdbf839",
@@ -22,7 +22,7 @@
           "description": "Marsh of Chelimber",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         },
         {
           "id": "ID_5ba93a1b992a",
@@ -41,7 +41,7 @@
           "description": "Baldur's Gate",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         },
         {
           "id": "ID_dac96819f99b",
@@ -60,26 +60,26 @@
           "description": "Forest of Wyrms",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         },
         {
           "id": "ID_3878ebb84b8b",
           "type": "default",
           "loc": [
-            -1.6892857551574707,
-            3.184821367263794
+            -1.682142734527588,
+            3.1666290760040283
           ],
           "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.453961174843837,
-            0.37216622488839285
+            0.4513680642856521,
+            0.3705925473658025
           ],
-          "description": null,
+          "description": "Waterdeep",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         }
       ],
       "overlays": [],
@@ -114,7 +114,7 @@
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
-  "displayMarkerTooltips": "hover",
+  "displayMarkerTooltips": "always",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
@@ -153,8 +153,7 @@
     "zoomDelta": 1,
     "zoomFeatures": false,
     "id": "sword-coast-region",
-    "lat": 52,
-    "long": 60,
+    "unit": "meters",
     "filterTag": []
   },
   "enableDraw": true,
