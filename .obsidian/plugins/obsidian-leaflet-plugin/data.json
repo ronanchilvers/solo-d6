@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688850009208,
+      "lastAccessed": 1688850379226,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -132,26 +132,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_39a9f9c91a69",
-          "type": "default",
-          "loc": [
-            -1.6796875,
-            3.166015625
-          ],
-          "link": "Waterdeep",
-          "layer": "The%20Sword%20Coast.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4512806236080178,
-            0.37005163511187605
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_db6af97aab88",
           "type": "default",
           "loc": [
@@ -179,23 +159,6 @@
             4.565259470267827
           ],
           "link": "Yarthrain",
-          "layer": "The%20Sword%20Coast.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8abbab5b3a2a",
-          "type": "default",
-          "loc": [
-            -1.9659376442432404,
-            4.575982223573817
-          ],
-          "link": "Dunkapple Castle",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
