@@ -25,6 +25,8 @@ Where contains(file.tags, "character")
 Sort file.name
 ```
 
+# Places
+
 # Scenes
 
 ```dataview
