@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-git",
   "custom-classes",
-  "dataview"
+  "dataview",
+  "obsidian-leaflet-plugin"
 ]
