@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688848277669,
+      "lastAccessed": 1688848578654,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -150,6 +150,26 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
+        },
+        {
+          "id": "ID_db6af97aab88",
+          "type": "default",
+          "loc": [
+            -2.3781829476356506,
+            4.613767277319761
+          ],
+          "link": "Thelarns Tomb",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.657641660909721,
+            0.5239370349352208
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
         }
       ],
       "overlays": [],
@@ -190,14 +210,14 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 5,
+    "defaultZoom": 9,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "500px",
+    "height": "800px",
     "image": "The Sword Coast.jpg",
     "imageOverlay": [],
     "isMapView": false,
