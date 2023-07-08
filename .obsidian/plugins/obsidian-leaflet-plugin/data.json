@@ -2,23 +2,81 @@
   "mapMarkers": [
     {
       "id": "sword-coast-region",
-      "lastAccessed": 1688846747973,
+      "locked": false,
+      "lastAccessed": 1688847080734,
       "markers": [
         {
           "id": "ID_9929dbdbf839",
           "type": "default",
           "loc": [
-            -1.965973138809204,
-            4.5119030475616455
+            -2.040946662425995,
+            4.514251291751862
           ],
           "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6431220379597891,
-            0.43312316999583156
+            0.643456754280889,
+            0.44964057278920366
           ],
           "description": "Marsh of Chelimber",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ba93a1b992a",
+          "type": "default",
+          "loc": [
+            -2.933482050895691,
+            3.6799105405807495
+          ],
+          "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5245306783901291,
+            0.6462748752403588
+          ],
+          "description": "Baldur's Gate",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dac96819f99b",
+          "type": "default",
+          "loc": [
+            -2.4019380807876587,
+            4.265437960624695
+          ],
+          "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6079911569710033,
+            0.5291705238224101
+          ],
+          "description": "Forest of Wyrms",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3878ebb84b8b",
+          "type": "default",
+          "loc": [
+            -1.6892857551574707,
+            3.184821367263794
+          ],
+          "layer": "Dungeons_Dragons_Sword_Coast_Adventure_s_Guide_Faerun_Map_3596x2324.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.453961174843837,
+            0.37216622488839285
+          ],
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -33,13 +91,14 @@
   ],
   "defaultMarker": {
     "type": "default",
-    "iconName": "map-marker",
-    "color": "#2d8000",
+    "iconName": "map-marker-alt",
+    "color": "#ffffff",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
   "markerIcons": [],
   "color": "#dddddd",
@@ -94,6 +153,8 @@
     "zoomDelta": 1,
     "zoomFeatures": false,
     "id": "sword-coast-region",
+    "lat": 52,
+    "long": 60,
     "filterTag": []
   },
   "enableDraw": true,
