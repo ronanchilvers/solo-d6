@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688853973633,
+      "lastAccessed": 1688854264654,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -403,6 +403,24 @@
             -2.439720571041107,
             4.833534079751105
           ],
+          "link": "Battle of Bones",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f958991a291b",
+          "type": "default",
+          "loc": [
+            -2.103515625,
+            4.837618815664829
+          ],
+          "link": "Evereska",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
