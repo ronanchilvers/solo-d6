@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688854264654,
+      "lastAccessed": 1688856798416,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -326,16 +326,16 @@
           "id": "ID_09eb2acb78ab",
           "type": "default",
           "loc": [
-            -2.7899553775787354,
-            4.340790487428062
+            -2.777669310569763,
+            4.342447936534882
           ],
           "link": "Triel",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6187318289429754,
-            0.614654541015625
+            0.6189680800406068,
+            0.611947799918984
           ],
           "description": null,
           "minZoom": null,
@@ -429,6 +429,40 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aca781b29bb",
+          "type": "default",
+          "loc": [
+            -3.059532940387726,
+            4.051984488964081
+          ],
+          "link": "The Wood of Sharp Teeth",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db2b58ebb989",
+          "type": "default",
+          "loc": [
+            -3.1143534779548645,
+            3.6233460009098053
+          ],
+          "link": "The Cloak Wood",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -495,7 +529,7 @@
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 1,
+    "scale": 400,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
