@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688851169191,
+      "lastAccessed": 1688851528736,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -237,6 +237,43 @@
             0.5793905224983497,
             0.5426358405160822
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08094939785a",
+          "type": "default",
+          "loc": [
+            -2.7380123138427734,
+            3.8876143040592983
+          ],
+          "link": "The Fields of the Dead",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5541365600440871,
+            0.6032109744782702
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_392958db4beb",
+          "type": "default",
+          "loc": [
+            -2.8299334049224854,
+            4.176452985271437
+          ],
+          "link": "Elturel",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
