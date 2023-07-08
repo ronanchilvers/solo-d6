@@ -2,6 +2,7 @@
 created: 2023-07-08 22:39
 tags: [tiny-d6,place]
 ---
+![[Reaching Woods.jpg]]
 The Reaching Woods was a large forest in the Western Heartlands.
 
 ## Geography

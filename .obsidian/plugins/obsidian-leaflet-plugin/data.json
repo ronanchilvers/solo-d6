@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688852394938,
+      "lastAccessed": 1688852763467,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -350,6 +350,23 @@
             4.52696496619876
           ],
           "link": "The Reaching Woods",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9abab488969",
+          "type": "default",
+          "loc": [
+            -2.6264873147010803,
+            4.506465452603542
+          ],
+          "link": "Hardbuckler",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
