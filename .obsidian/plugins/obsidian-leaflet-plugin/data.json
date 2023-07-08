@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688848982663,
+      "lastAccessed": 1688849261121,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -135,16 +135,16 @@
           "id": "ID_39a9f9c91a69",
           "type": "default",
           "loc": [
-            -1.6791293621063232,
-            3.166517734527588
+            -1.6796875,
+            3.166015625
           ],
           "link": "Waterdeep",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.45135219378566954,
-            0.36992867185819167
+            0.4512806236080178,
+            0.37005163511187605
           ],
           "description": null,
           "minZoom": null,
@@ -265,7 +265,7 @@
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
-  "notePreview": false,
+  "notePreview": true,
   "layerMarkers": true,
   "previousVersion": "5.7.1",
   "version": {
