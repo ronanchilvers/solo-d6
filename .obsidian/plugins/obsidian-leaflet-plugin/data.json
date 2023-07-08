@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688851874910,
+      "lastAccessed": 1688852156862,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -309,12 +309,33 @@
             -2.580747961997986,
             4.39056558835683
           ],
+          "link": "Trielta Hills",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
           "percent": [
             0.6258267208348266,
             0.5685640948980072
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09eb2acb78ab",
+          "type": "default",
+          "loc": [
+            -2.7899553775787354,
+            4.340790487428062
+          ],
+          "link": "Triel",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6187318289429754,
+            0.614654541015625
           ],
           "description": null,
           "minZoom": null,
