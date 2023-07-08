@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688853356764,
+      "lastAccessed": 1688853652519,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -384,6 +384,22 @@
             4.435136469815708
           ],
           "link": "Ss'thar'tiss'ssun",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08b9fa68fa28",
+          "type": "default",
+          "loc": [
+            -2.5060267448425293,
+            4.758425940245216
+          ],
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
