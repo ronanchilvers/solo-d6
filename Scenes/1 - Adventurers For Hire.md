@@ -20,4 +20,4 @@ tags: [tiny-d6,scene]
 
 "I'm fine - don't mind me!" [[Kaapo]]'s smile is not convincing.
 
-They enter the 
+They cross the High Road, having walked up Snail Street from the lodgins i
