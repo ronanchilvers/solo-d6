@@ -20,4 +20,10 @@ tags: [tiny-d6,scene]
 
 "I'm fine - don't mind me!" [[Kaapo]]'s smile is not convincing.
 
-They cross the High Road, having walked up Snail Street from the lodgins i
+They cross the High Road, having walked up Snail Street from the lodgings at the Splintered Stair inn in the Dock Ward, and follow the Street of Tusks up to the turn into Vellar's Lane.
+
+"Here we are!" [[Okan]] sounds pleased with himself. "Right on time too!" A distant bell chimes the hour.
+
+They are standing outside a moderately well appointed town house - nothing too fancy but well kept. [[Okan]] confidently walks up to the front door and raises his hand. Then he pauses.
+
+"Saki - it might be worth you hanging around out here. Just in case. Don't want them to get intimidated by you!" He
