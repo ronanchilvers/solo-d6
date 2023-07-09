@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688892795421,
+      "lastAccessed": 1688893893340,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -445,6 +445,23 @@
             0.4515234728432976,
             0.37094644096755325
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8e8588b2ad8",
+          "type": "default",
+          "loc": [
+            -1.8358770608901978,
+            3.396280985129507
+          ],
+          "link": "Daggerford",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
