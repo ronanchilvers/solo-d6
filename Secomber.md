@@ -2,9 +2,9 @@
 created: 2023-07-09 10:36
 tags: [tiny-d6,place]
 ---
+![[Secomber.jpg]]
 Secomber was a small, peaceful town that acted as the de facto border town between the relatively peaceful Western Heartlands and the more savage North along the Sword Coast. The town contained a number of colorful gardens.
 
-![[Secomber.jpg|right|400]]
 ## Geography
 It sat atop three stone hills on the northern banks of the southern-running Unicorn Run river and the western-running River Delimbiyr. Directly south of the town was the dangerous High Moor. To the north, along the Secomber Trail, was Uluvin.
 
