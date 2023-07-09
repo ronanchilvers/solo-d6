@@ -5,12 +5,12 @@ created: 2023-07-07 11:29
 
 # Adventure seed
 
-An artifact has been stolen from a merchant in the Trade Ward. They have two leads:
+An artifact has been stolen from a merchant in the Trade Ward. Their potential employer, a human merchant named [[Lina Devdan]] has asked to meet them to discuss the matter. They have two leads:
 
 - A sack made from the skin of some unknown creature
 - A small wooden box (with a secret compartment)
 
-These were found after the robbery took place. Their employer, a human merchant named [[Lina Devdan]] asked to meet them to discuss the matter.
+These were found after the robbery took place.
 
 # Characters
 ```dataview

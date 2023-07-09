@@ -26,4 +26,8 @@ They cross the High Road, having walked up Snail Street from the lodgings at the
 
 They are standing outside a moderately well appointed town house - nothing too fancy but well kept. [[Okan]] confidently walks up to the front door and raises his hand. Then he pauses.
 
-"Saki - it might be worth you hanging around out here. Just in case. Don't want them to get intimidated by you!" He
+"Saki - it might be worth you hanging around out here. Just in case. Don't want them to get intimidated by you!" He grins then mutters to [[Kaapo]] as he turns back and raps on the door - "Besides, the big lump might try to eat the furniture!"
+
+[[Sakari]] shrugs his massive shoulders - "Fine by me. I'm going to get some food." He turns and stomps off along the street.
+
+The door swings open, revealing 
