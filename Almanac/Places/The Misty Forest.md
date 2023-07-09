@@ -2,6 +2,7 @@
 created: 2023-07-09 10:47
 tags: [tiny-d6,place]
 ---
+![[Misty Forest.png]]
 The Misty Forest was located just west of the High Moor, and south of the river Delimbiyr.[1]
 
 ## Description
