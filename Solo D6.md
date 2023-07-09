@@ -5,7 +5,9 @@ created: 2023-07-07 11:29
 
 # Adventure seed
 
-The adventurers are hired to retrieve a stolen artifact. The artifact was apparently taken from a house in 
+The adventurers are hired to retrieve a stolen artifact. The artifact was apparently taken from a house in the North Ward. They have two leads:
+
+- 
 
 # Characters
 ```dataview
