@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688895927154,
+      "lastAccessed": 1688896043182,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -534,6 +534,23 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bc928784b58",
+          "type": "default",
+          "loc": [
+            -1.8977246284484863,
+            3.5648924112319946
+          ],
+          "link": "The Misty Forest",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -554,24 +571,7 @@
     },
     "isImage": false
   },
-  "markerIcons": [
-    {
-      "type": "Home",
-      "iconName": "home",
-      "color": "#ff0000",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    }
-  ],
+  "markerIcons": [],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
