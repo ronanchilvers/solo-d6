@@ -9,7 +9,7 @@ It was a favorite location for traders along the Dusk Road, owing to the gnomes'
 
 The major industry was secure, private storage for any type of goods. The storage facilities were made secure through the work of a wizard named Aldiber Inchtawurn, who created powerful wards protecting the walls and storage facilities of Hardbuckler.
 
-Additionally the gnomes exported elaborate locks, sturdy wooden crates, and a distinctive green seam-sealing wax sold in cloth rolls.
+Additionally the gnomes exported elaborate locks and sturdy wooden crates. In the 14th century DR, Hardbuckler gnomes produced a unique type of green seam-sealing wax. It was exported and sold in rolls of cloth. This type sold for 1 sp per tube. Later, an improved model was created, which functioned as long as oil was worked into it once per year. The green wax tube would turn purple if one tried to enchant it.
 
 ## History
 It was named for a dwarf adventurer who won a battle on the site of the town.
