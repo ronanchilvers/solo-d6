@@ -75,8 +75,5 @@ In the early 1360s DR, there was a rumor in circulation that the Red Wizards of 
 
 ## Maps
 
-### City Map
 ![[Waterdeep - Large Map.jpg]]
-
-### Sewer Map
 ![[Waterdeep - Sewer Map.jpg]]
