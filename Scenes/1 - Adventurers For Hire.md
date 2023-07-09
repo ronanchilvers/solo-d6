@@ -45,3 +45,22 @@ After a few minutes the door opens, wider this time, and the steward looks out a
 
 [[Okan]] makes a point both of hurrying ostentatiously into the hall and scuffing a little mud onto the floor once he's in, seemingly inadvertently. [[Kaapo]] follows, apologising for being slow and then apologising for apologising.
 
+> [!roll] Perilous Wilds - Roll for NPC details
+> **Result:** 8 - notable nose, 10 - easygoing, relaxed, peaceful 
+
+They are led into a large room, well furnished but not too opulent. A woman is seated at the far side of the room. She is elderly, maybe mid 70s, but her eyes have a sharpness to them. She has a singularly long nose. She smiles as they enter the room.
+
+"Welcome gentlemen. Please come in and seat yourselves. Ranjeet - wine for our guests."
+
+The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] again does his politest bow.
+
+"My lady - it is a delight to meet you and yes, a small glass of wine would be most welcome. The day is hot and the streets are dusty. Ones throat becomes parched, I find."
+
+[[Lady Devdan]] smiles and indicates a couple of chairs opposite her. 
+
+"Please, sit."
+
+[[Okan]] and [[Kaapo]] oblige her and sit down. Lady Devdan says
+
+"Thank you for coming to see me - I am most grateful. This is a sorry business and I am most willing to pay a suitable amount to someone who can discover the truth of it for me."
+
