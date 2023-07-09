@@ -37,4 +37,11 @@ The door swings open, revealing a steward dressed in smart uniform.
 
 "Yes?" His tone is curt and he looks them up and down with distaste. [[Okan]]'s manner is a lesson in politeness as he sweeps a bow and says
 
-"We are here to meet the most no"
+"We are here to meet the most esteemed Lina Devdan. We understand she has had a little trouble and desires our assisstance in setting matters right?"
+
+The man frowns - "Wait." - and closes the door. [[Kaapo]] smiles weakly at [[Okan]] - "He seems a little out of sorts." [[Okan]] nods - "That, my friend, is the understatement of the year!"
+
+After a few minutes the door opens, wider this time, and the steward looks out at them - "Enter. Quickly please - my lady is very busy."
+
+[[Okan]] makes a point both of hurrying ostentatiously into the hall and scuffing a little mud onto the floor once he's in, seemingly inadvertently. [[Kaapo]] follows, apologising for being slow and then apologising for apologising.
+
