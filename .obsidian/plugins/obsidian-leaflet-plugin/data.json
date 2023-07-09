@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688894418087,
+      "lastAccessed": 1688894436813,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -474,7 +474,7 @@
             -1.448026418685913,
             3.0360148522096564
           ],
-          "link": "Sword Mountain",
+          "link": "Sword Mountains",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
