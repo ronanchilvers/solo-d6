@@ -1,3 +1,4 @@
+/* Image position */
 img[alt*="right"] {
     float: right;
     clear: right;
@@ -9,4 +10,21 @@ img[alt*="left"] {
     clear: left;
     margin: 0 1rem 1rem 0;
     box-shadow: none;
+}
+
+/* Zoom images */
+.markdown-preview-view img {
+  display: block;
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  margin-left: auto;
+  margin-right: auto;
+/*  width: 50%;  /* experiment with values */*/
+  transition:transform 0.25s ease;
+}
+
+.markdown-preview-view img:hover {
+    -webkit-transform:scale(1.8); /* experiment with values */
+/*    transform:scale(2);*/
+    width: 100%;
 }

@@ -13,7 +13,7 @@ It was one of if not the most powerful and influential member-states of the Lord
 > it profits everyone to always remember that part of their business is watching what is unfolding around them, without seeming 
 > to, in hopes of seizing on the next big thing, the next road to riches. Even if only to sneer, Waterdeep always watches.
 
-![[Waterdeep - Map.jpg|right|400]]
+![[Waterdeep - Map.jpg|right|300]]
 ## Description
 The original farming community of humans that developed into a settlement known as Bloodhand Hold before being conquered and renamed Nimoar's Hold. The name of "Waterdeep" was originally used by the sea captains docking at the port to trade, a moniker that originated from the city's outstanding natural deep-water harbor.
 
