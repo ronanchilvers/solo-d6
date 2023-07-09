@@ -30,4 +30,11 @@ They are standing outside a moderately well appointed town house - nothing too f
 
 [[Sakari]] shrugs his massive shoulders - "Fine by me. I'm going to get some food." He turns and stomps off along the street.
 
-The door swings open, revealing 
+> [!roll] UNE - Roll for the steward who opens the door
+> **Result:** 78 - depress, 29 - academia, 80 - Ranjeet
+
+The door swings open, revealing a steward dressed in smart uniform.
+
+"Yes?" His tone is curt and he looks them up and down with distaste. [[Okan]]'s manner is a lesson in politeness as he sweeps a bow and says
+
+"We are here to meet the most no"
