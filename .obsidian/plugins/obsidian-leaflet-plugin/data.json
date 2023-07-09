@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688894436813,
+      "lastAccessed": 1688895218022,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -475,6 +475,40 @@
             3.0360148522096564
           ],
           "link": "Sword Mountains",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a69a96869bb",
+          "type": "default",
+          "loc": [
+            -1.52609783411026,
+            3.181195557117462
+          ],
+          "link": "Amphail",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d82afb7b7a5b",
+          "type": "default",
+          "loc": [
+            -1.999161884188652,
+            3.923156440258026
+          ],
+          "link": "The High Moor",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
