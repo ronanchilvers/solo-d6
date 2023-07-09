@@ -18,6 +18,25 @@ The original farming community of humans that developed into a settlement known 
 
 As of the late 14th century DR more than 100,000 people made their home in the city proper of Waterdeep.
 
+## History
+
+![[Waterdeep - Map.jpg|right|400]]
+The region that would later be called Waterdeep was originally a trading stop utilized by the local tribesmen of the North and merchants that came up from the cities to the south. Early accounts of permanent farms being established in the area varied slightly, with some sages stating that they were first observed as early as the Year of the Thundering Horde, 52 DR, while others noted their appearance circa to mid–4th century DR.
+
+The actual name "Waterdeep" was first used circa the 10th by sea captains to refer to the warlord-controlled town at whose port they docked. It did not become a true city until the Year of the Nightmaidens, 1032 DR, the year Ahghairon became the first Lord of Waterdeep, and the date from which Northreckoning is counted.
+
+Its size and population grew at a tremendous pace. By the mid–13th century Waterdeep's famous guilds had taken root in the city and construction of the City of the Dead graveyard had been completed. Waterdeep's guild masters seized control of the the City of Splendors shortly after the Year of the Cockatrice, 1248 DR, beginning an era of great turmoil and political conflict referred to as the Guildwars. This dark period ended after a couple decades, and the more modern form of governance was put in place in the Year of the Wagon, 1273 DR. The secretive Lords of Waterdeep took power, aided by the diligent and astute Blackcloaks.
+
+People from all across Faerûn and beyond traveled to Waterdeep to take their chance at earning wealth and renown. They were afforded their chances by the city's stable and fair system of government, its stalwart defenders of the City Guard and vigilant members of the Watch. By the 14th century, Waterdeep earned the reputation as a place of tolerance for the myriad of different cultures, lifestyles, and religions that were associated with the people of the Realms.
+
+When the Time of Troubles came upon Toril in the Year of Shadows, 1358 DR, Waterdeep became the battleground of the gods. The goddess Shar orchestrated the abduction of Luna, the avatar of moon-goddess Selûne, and masqueraded as her in the city. Selûne was freed by the efforts of Luna's adventuring companions and proceeded to defeat Shar and prevent any great destruction from befalling Waterdeep. That same year saw the avatar or Myrkul and his legion of night riders invade the city in pursuit of the mortal Midnight, who possessed one of the Tablets of Fate. The Lord of the Dead was disintegrated atop Blackstaff Tower by Midnight in a great battle that led to the opening of the Celestial Staircase atop Mount Waterdeep, and the ascension of three mortals to deific status: Cyric, Kelemvor, and the restored Mystra.
+
+While Waterdeep did not face ruin as some other cities did when the Spellplague struck the Realms in the Year of Blue Fire, 1385 DR, the magical network that wound through its infrastructure was greatly altered. The cataclysm "awakened" the remaining Walking Statues that previously only existed on the Ethereal Plane and brought them back to Waterdeep on the Prime Material plane. They each ran rampant in the city, causing some extent of destruction before they were stopped by various means.
+
+Waterdeep was struck with another catastrophic event in the Year of Silent Death, 1395 DR, when the Putrescent Anathema spread throughout its region of the North. The plague hit Goldenfields particularly hard, destroying much of the city's primary grain supply. The catastrophe reduced the city's population greatly, hitting its poorer citizens particularly hard.
+
+In the Year of Three Ships Sailing, 1492 DR, a number of agents and organizations including the shady Xanathar's Thieves' Guild, the greedy Zhentarim, the enigmatic Harpers, and even the stalwart Lords' Alliance sought to recover a cache of 500,000 gold dragons that was hidden somewhere within the city, a sum that was embezzled by the ousted former Open Lord of the city, Dagult Neverember.
+
 ## Notable Locations
 
 Since the mid−11th century, Waterdeep had been divided into a number of city wards. Like ancient cities of old, such as those found near the Sea of Fallen Stars, each ward was originally protected by its own walls and guardsmen; the need for greater urban development led to many of these barriers being broken down. Eventually, only the walls around the City of the Dead remained.

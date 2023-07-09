@@ -7,7 +7,7 @@ id: the-sword-coast-region
 image: The Sword Coast.jpg
 lat: 53
 long: 60
-defaultZoom: 9
+defaultZoom: 8
 height: 700px
 draw: false
 scale: 400

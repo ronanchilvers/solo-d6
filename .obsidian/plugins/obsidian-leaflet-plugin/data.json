@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688890561801,
+      "lastAccessed": 1688892795421,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -434,16 +434,16 @@
           "id": "ID_fba8eaaa4b68",
           "type": "default",
           "loc": [
-            -1.6845983266830444,
-            3.167354941368103
+            -1.6837490797042847,
+            3.1677193641662598
           ],
           "link": "Waterdeep",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4514715283909991,
-            0.3711335384086569
+            0.4515234728432976,
+            0.37094644096755325
           ],
           "description": null,
           "minZoom": null,
@@ -489,7 +489,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 9,
+    "defaultZoom": 8,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -515,7 +515,7 @@
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 1,
+    "scale": 400,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
