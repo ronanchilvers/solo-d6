@@ -15,6 +15,8 @@ Baldur's Gate was located to the south of the great city-state of Waterdeep, nor
 
 As the minstrels of the 14th century described it, the city was a crescent moon that wrapped around the great harbor, though in the century that followed it grew well beyond that form. While the terrain of the Upper City was flat and level, the Lower City was built over steep bluffs that overlooked the Gray Harbor.
 
+![[Baldurs Gate - Map.jpg]]
+
 ### Weather
 The region surrounding Baldur's Gate received an abundance of drizzling rain and sleet with frequent-occurring fog that rolled through the city's streets. This excessive precipitation was well-mitigated with an advanced water system where underground basins collected the run off rainwater, maneuvering it through subterranean aqueducts that emptied it into massive cistern beneath the Temples District.
 
@@ -44,7 +46,7 @@ In addition to the myriad of religious groups that flocked to the city's temples
 People and things from Baldur's Gate were known as "Baldurian". The term "Balduran" was never used—misusing the founder's name even like this was a grave insult to his memory and the city alike.
 
 ### Heraldry
-
+![[Baldurs Gate - Coat of Arms.webp|right|200]]
 The city's coat-of-arms was a single ship, with raised sails, floating across still waters in front of a clear blue sky. While the ship represented both the city's role as a trading hub and its founder, Balduran, the calm sea signified its peaceful neutrality and the sky its promising future.
 
 ## Government
@@ -75,6 +77,7 @@ Anyone caught in the act of breaking the law were immediately apprehended and pu
 
 The city of Baldur's Gate issued hostelry licenses to proprietors of inns and taverns within the city walls. Lodging business could not legally operate without said license.
 
+![[Baldurs Gate - Criminals.webp|right|200]]
 ### Crime
 Throughout its history, various thieves guilds had risen and fallen in Baldur's Gate, including the one led by Alatos Thuibuld, Xantam's Guild and the Hands of Glory. Since the fall of these groups in the late 14th century, the Guild, led by Nine-Fingers emerged as the predominant thieves' organization in Baldur's Gate. Nearly all of the smaller gangs of the Outer and Lower City regions owed at least some obedience to this influential organization.
 
@@ -137,6 +140,7 @@ It had six districts: Seatower, Bloomridge, the Steeps, Heapside, Eastway and Br
 - Low Lantern: A converted three-mast ship used as a festhall, tavern, and gambling house.
 - Splurging Sturgeon: Located a bit south from the Blushing Mermaid, this formerly-failing tavern was since transformed into a beloved restaurant.
 
+![[Baldurs Gate - Baldurs Gate.webp|right|300]]
 #### Gates
 - Sea Gate
 - Manor Gate
