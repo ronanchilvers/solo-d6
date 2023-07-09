@@ -2,6 +2,7 @@
 created: 2023-07-09 10:34
 tags: [tiny-d6,place]
 ---
+![[High Moor - Dragonspear.webp]]
 The High Moor was a large, monster-infested, open moorland in western Faerûn, bordered on the east by the Serpent Hills and on the west by the Misty Forest.
 
 ## History

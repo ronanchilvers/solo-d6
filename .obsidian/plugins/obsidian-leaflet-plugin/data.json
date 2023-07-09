@@ -92,7 +92,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1688895218022,
+      "lastAccessed": 1688895626341,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -509,6 +509,23 @@
             3.923156440258026
           ],
           "link": "The High Moor",
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3baa8859ab39",
+          "type": "default",
+          "loc": [
+            -1.7239801585674286,
+            3.6825780272483826
+          ],
+          "link": "Secomber",
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
