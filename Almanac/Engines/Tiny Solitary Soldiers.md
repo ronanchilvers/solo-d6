@@ -19,7 +19,7 @@ Extremely Likely: `dice: 3d6kh1`
 
 `dice: 1d6`
 
-| Roll | Result          |
+| Roll | Subject          |
 | ---- | --------------- |
 | 1    | NPC             |
 | 2    | PC              |
@@ -30,7 +30,7 @@ Extremely Likely: `dice: 3d6kh1`
 
 `dice: 1d6`
 
-| Roll | Result              |
+| Roll | Action              |
 | ---- | ------------------- |
 | 1    | Appears             |
 | 2    | Alters the location |
