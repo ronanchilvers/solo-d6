@@ -1,7 +1,7 @@
 ---
 created: 2023-07-07 22:28
 tags: [tiny-d6,character]
-aliases: Sakari Vinha
+aliases: Sakari Vinha, Saki
 ---
 ![[Sakari Vinha.jpg|400]]
 
