@@ -13,6 +13,7 @@ It was one of if not the most powerful and influential member-states of the Lord
 > it profits everyone to always remember that part of their business is watching what is unfolding around them, without seeming 
 > to, in hopes of seizing on the next big thing, the next road to riches. Even if only to sneer, Waterdeep always watches.
 
+![[Waterdeep - Map.jpg|right|400]]
 ## Description
 The original farming community of humans that developed into a settlement known as Bloodhand Hold before being conquered and renamed Nimoar's Hold. The name of "Waterdeep" was originally used by the sea captains docking at the port to trade, a moniker that originated from the city's outstanding natural deep-water harbor.
 
@@ -20,7 +21,6 @@ As of the late 14th century DR more than 100,000 people made their home in the c
 
 ## History
 
-![[Waterdeep - Map.jpg|right|400]]
 The region that would later be called Waterdeep was originally a trading stop utilized by the local tribesmen of the North and merchants that came up from the cities to the south. Early accounts of permanent farms being established in the area varied slightly, with some sages stating that they were first observed as early as the Year of the Thundering Horde, 52 DR, while others noted their appearance circa to mid–4th century DR.
 
 The actual name "Waterdeep" was first used circa the 10th by sea captains to refer to the warlord-controlled town at whose port they docked. It did not become a true city until the Year of the Nightmaidens, 1032 DR, the year Ahghairon became the first Lord of Waterdeep, and the date from which Northreckoning is counted.
@@ -72,3 +72,11 @@ A large host of adventurers flooded the city at any given time, some of whom est
 
 ## Rumors & Legends
 In the early 1360s DR, there was a rumor in circulation that the Red Wizards of Thay wanted to open a public teleport gate between the cities of Suzail and Waterdeep, but the project was shut down by a merchants' guild in one of the two cities.
+
+## Maps
+
+### City Map
+![[Waterdeep - Large Map.jpg]]
+
+### Sewer Map
+![[Waterdeep - Sewer Map.jpg]]
