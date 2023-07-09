@@ -31,14 +31,13 @@ Where contains(file.tags, "setting")
 Sort file.name
 ```
 
-## Places
+# Places
 ```dataview
 List 
 From -"_templates"
 Where contains(file.tags, "place")
 Sort file.name
 ```
-
 
 # Mechanics
 ```dataview
