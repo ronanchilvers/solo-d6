@@ -7,7 +7,8 @@ created: 2023-07-07 11:29
 
 The adventurers are hired to retrieve a stolen artifact. The artifact was apparently taken from a house in the North Ward. They have two leads:
 
-- 
+- A sack made from the skin of some unknown creature
+- A small wooden box (with a secret compartment)
 
 # Characters
 ```dataview
