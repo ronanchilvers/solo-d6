@@ -5,7 +5,7 @@ tags: [tiny-d6,place]
 ![[Boareskyr Bridge.webp]]
 Boareskyr Bridge (pronounced: /ˈbɔːrrɛskɪər/ BOAR-reh-skeer) was the crossing over the Winding Water connecting Soubar, Triel, and Scornubel to Waterdeep and the Trade Way.
 
-The bridge was built by the adventurer Boareskyr. During the Time of Troubles in 1358 DR, the gods Cyric and Bhaal fought a battle on the bridge. The resulting destruction of Bhaal poisoned the water in the vicinity of the bridge and further downstream. Because of this, an oft-heard curse was "Go drink from the west side of the bridge!"
+The bridge was built by the adventurer Boareskyr. During the Time of Troubles in 1358 DR, the gods Cyric and Bhaal fought a battle on the bridge. The resulting destruction of Bhaal poisoned the water in the vicinity of the bridge and further downstream. Because of this, an oft-heard curse was "*Go drink from the west side of the bridge!*"
 
 Circa 1450 DR, during a crisis of leadership in Elturgard over the position of High Observer, the likely successor, the Companion paladin Tamal Thent, and her whole retinue and caravan vanished at a caravanserai near Boareskyr Bridge. Despite an investigation, no trace of any of them could be found. Soon thereafter, the post of High Observer fell to a priest of Torm named Thavius Kreeg, incidentally a rival of Thent's. One of Kreeg's first decrees was to rebuild Bridgefort and name it Fort Tamal in Thent's honor. Unable to explain the disappearance, the paladins undertook frequent patrols of the area and constructed Fort Tamal.
 
