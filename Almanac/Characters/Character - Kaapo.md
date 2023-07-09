@@ -1,23 +1,24 @@
 ---
-created: 2023-07-07 22:07
+created: 2023-07-07 22:37
 tags: [tiny-d6,character]
+aliases: Kaapo Torni
 ---
-![[Okan Ladang.jpg|250]]
+![[Kaapo Torni.webp|250]]
 
 > [!abstract] Character
-> - **Name:** Okan Ladang
-> - **Homeland:** The mountains of the south
-> - **Family Trade:** Trade? What trade?
-> - **Belief:** He who dares, gets the best pickings
+> - **Name:** Kaapo Torni
+> - **Homeland:** Waterdeep
+> - **Family Trade:** Weaponsmiths
+> - **Belief:** Weapons are vulgar
 
 > [!abstract] Heritage
-> **Name:**  Goblin
-> **Trait:** Goblin Agility - When attacked test 1d6 to evade
+> **Name:**  Human
+> **Trait:** Alchemist - Provided the right reagents and recipes, you can mix potions, elixirs, and poisons. You also gain Advantage when identifying unknown liquids.
 
 > [!abstract] Traits
-> - Lucky - Re-roll 1 test per session
-> - Perceptive - Advantage on Testing to gain information even when asleep
-> - Quick Shot - Reload and fire ranged weapons in 1 round
+> - Healer - Test 2d6 to heal a creature. 2 HP healed on success.
+> - Spell Reader - You have spent years learning the sacred language of the arcane, allowing you to read power- laced words from magic scrolls.
+> - Insightful - You gain Advantage when Testing to discern whether or not someone is telling the truth or lying.
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
@@ -25,6 +26,8 @@ tags: [tiny-d6,character]
 
 `class: track`
 > [!abstract] Health
+> - [ ] 
+> - [ ] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
@@ -45,11 +48,11 @@ tags: [tiny-d6,character]
 `class: track`
 > [!abstract] Weapon Proficiencies
 > - [ ] Unarmed
-> - [ ] Light
+> - [x] Light
 > - [ ] Heavy
-> - [x] Ranged
+> - [ ] Ranged
 >
-> **Mastered Weapons:** Short bow
+> **Mastered Weapons:** Dagger
 
 > [!help]- Spending Experience
 > - 1xp = Investment Windfall 200 NC  

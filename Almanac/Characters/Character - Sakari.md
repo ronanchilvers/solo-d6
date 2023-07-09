@@ -1,23 +1,24 @@
 ---
-created: 2023-07-07 22:37
+created: 2023-07-07 22:28
 tags: [tiny-d6,character]
+aliases: Sakari Vinha
 ---
-![[Kaapo Torni.webp|250]]
+![[Sakari Vinha.jpg|400]]
 
 > [!abstract] Character
-> - **Name:** Kaapo Torni
-> - **Homeland:** Waterdeep
-> - **Family Trade:** Weaponsmiths
-> - **Belief:** Weapons are vulgar
+> - **Name:** Sakari Vinha
+> - **Homeland:** Northern Forests
+> - **Family Trade:** Warriors
+> - **Belief:** My armour is my soul
 
 > [!abstract] Heritage
-> **Name:**  Human
-> **Trait:** Alchemist - Provided the right reagents and recipes, you can mix potions, elixirs, and poisons. You also gain Advantage when identifying unknown liquids.
+> **Name:** Black kahru
+> **Trait:** Powerful Claws - Claw as mastered weapon. Cannot use Ranged weapons.
 
 > [!abstract] Traits
-> - Healer - Test 2d6 to heal a creature. 2 HP healed on success.
-> - Spell Reader - You have spent years learning the sacred language of the arcane, allowing you to read power- laced words from magic scrolls.
-> - Insightful - You gain Advantage when Testing to discern whether or not someone is telling the truth or lying.
+> - Cleave - When enemy is at 0 HP, make another attack with disadvantage
+> - Strong - Advantage for brute force tests
+> - Tough - Additional 2 HP
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
@@ -25,6 +26,9 @@ tags: [tiny-d6,character]
 
 `class: track`
 > [!abstract] Health
+> - [ ] 
+> - [ ] 
+> - [ ] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
@@ -47,11 +51,11 @@ tags: [tiny-d6,character]
 `class: track`
 > [!abstract] Weapon Proficiencies
 > - [ ] Unarmed
-> - [x] Light
-> - [ ] Heavy
+> - [ ] Light
+> - [x] Heavy
 > - [ ] Ranged
 >
-> **Mastered Weapons:** Dagger
+> **Mastered Weapons:** Claws, War Axe
 
 > [!help]- Spending Experience
 > - 1xp = Investment Windfall 200 NC  

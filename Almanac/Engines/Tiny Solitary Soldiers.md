@@ -19,32 +19,11 @@ Extremely Likely: `dice: 3d6kh1`
 
 `dice: 1d6`
 
-| Roll | Subject          |
-| ---- | --------------- |
-| 1    | NPC             |
-| 2    | PC              |
-| 3    | Organisation    |
-| 4    | Physical event  |
-| 5    | Emotional event |
-| 6    | Item            | 
-
-`dice: 1d6`
-
-| Roll | Action              |
-| ---- | ------------------- |
-| 1    | Appears             |
-| 2    | Alters the location |
-| 3    | Helps the hero      |
-| 4    | Hinders the hero    |
-| 5    | Changes the goal    |
-| 6    | Ends the scene      |
-
-# Next Scene
-
-`dice: 1d6`
-
-| Roll | Result         |
-| ---- | -------------- |
-| 1-3  | Dramatic scene |
-| 4-5  | Quiet scene    |
-| 6    | Meanwhile...   |
+| Roll | Next Scene | Twist Subject         | Twist Action              |
+| ---- | --- | --------------- | ------------------- |
+| 1    | Dramatic Scene | NPC             | Appears             |
+| 2    | Dramatic Scene | PC              | Alters the location |
+| 3    | Dramatic Scene | Organisation    | Helps the hero      |
+| 4    | Quiet Scene | Physical event  | Hinders the hero    |
+| 5    | Quiet Scene | Emotional event | Changes the goal    |
+| 6    | Meanwhile... | Item            |  Ends the scene      |

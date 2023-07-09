@@ -1,23 +1,24 @@
 ---
-created: 2023-07-07 22:28
+created: 2023-07-07 22:07
 tags: [tiny-d6,character]
+aliases: Okan Ladang
 ---
-![[Sakari Vinha.jpg|400]]
+![[Okan Ladang.jpg|250]]
 
 > [!abstract] Character
-> - **Name:** Sakari Vinha
-> - **Homeland:** Northern Forests
-> - **Family Trade:** Warriors
-> - **Belief:** My armour is my soul
+> - **Name:** Okan Ladang
+> - **Homeland:** The mountains of the south
+> - **Family Trade:** Trade? What trade?
+> - **Belief:** He who dares, gets the best pickings
 
 > [!abstract] Heritage
-> **Name:** Black kahru
-> **Trait:** Powerful Claws - Claw as mastered weapon. Cannot use Ranged weapons.
+> **Name:**  Goblin
+> **Trait:** Goblin Agility - When attacked test 1d6 to evade
 
 > [!abstract] Traits
-> - Cleave - When enemy is at 0 HP, make another attack with disadvantage
-> - Strong - Advantage for brute force tests
-> - Tough - Additional 2 HP
+> - Lucky - Re-roll 1 test per session
+> - Perceptive - Advantage on Testing to gain information even when asleep
+> - Quick Shot - Reload and fire ranged weapons in 1 round
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
@@ -25,11 +26,6 @@ tags: [tiny-d6,character]
 
 `class: track`
 > [!abstract] Health
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
@@ -51,10 +47,10 @@ tags: [tiny-d6,character]
 > [!abstract] Weapon Proficiencies
 > - [ ] Unarmed
 > - [ ] Light
-> - [x] Heavy
-> - [ ] Ranged
+> - [ ] Heavy
+> - [x] Ranged
 >
-> **Mastered Weapons:** Claws, War Axe
+> **Mastered Weapons:** Short bow
 
 > [!help]- Spending Experience
 > - 1xp = Investment Windfall 200 NC  
