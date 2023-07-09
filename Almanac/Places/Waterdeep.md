@@ -8,10 +8,10 @@ Waterdeep, also known as the City of Splendors or the Crown of the North, was th
 
 It was one of if not the most powerful and influential member-states of the Lords' Alliance, the coalition of nations and city-states that sought to maintain order along the Sword Coast and the North.
 
-“
-Though it may seem as if all Waterdeep rushes and bustles about with eyes and minds only for their own business at hand, it profits everyone to always remember that part of their business is watching what is unfolding around them, without seeming to, in hopes of seizing on the next big thing, the next road to riches. Even if only to sneer, Waterdeep always watches.
-”
-— Largreth the Good Knight, Chapter 5 of The Rise of Randral: A Chapbook Adventure by Sandreth Yendrel
+> [!quote] Largreth the Good Knight, Chapter 5 of The Rise of Randral: A Chapbook Adventure by Sandreth Yendrel
+> Though it may seem as if all Waterdeep rushes and bustles about with eyes and minds only for their own business at hand, 
+> it profits everyone to always remember that part of their business is watching what is unfolding around them, without seeming 
+> to, in hopes of seizing on the next big thing, the next road to riches. Even if only to sneer, Waterdeep always watches.
 
 ## Description
 The original farming community of humans that developed into a settlement known as Bloodhand Hold before being conquered and renamed Nimoar's Hold. The name of "Waterdeep" was originally used by the sea captains docking at the port to trade, a moniker that originated from the city's outstanding natural deep-water harbor.
@@ -43,7 +43,7 @@ It was said that the Lords ruled Waterdeep but did not always truly run it. This
 ### Nobility
 A second important Waterdhavian faction was the local nobility. It consisted of 76 families of varying degrees of power, most of whom could trace their lines to before the founding of Waterdeep itself. Many powerful names came out of Waterdeep, including the Amcathras (whose scion became Lord of Shadowdale); the Cassalanters, wealthy moneylenders; as well as the Wands, a family of powerful and noble wizards.
 
-
+![[Waterdeep - Jars.webp|right|250]]
 ### Merchants
 Third, a rising merchant class existed outside the standard guilds. These were caravan and coaster operators, and they used Waterdeep as a destination for their caravan goods. More shops offered a variety of different goods because of this growing group. The most notable of these new merchants was the retired wizardess Aurora, who established a magical retail organization to supply a wide number of patrons across the North with specialized items.
 
