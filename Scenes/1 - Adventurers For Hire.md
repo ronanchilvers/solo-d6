@@ -64,3 +64,17 @@ The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] 
 
 "Thank you for coming to see me - I am most grateful. This is a sorry business and I am most willing to pay a suitable amount to someone who can discover the truth of it for me."
 
+[[Okan]] bows again - "If we can help, it will be our pleasure."
+
+[[Lina Devdan]] tells them that a couple of tendays ago someone broke into her house and stole an item of great value.
+
+> [!roll] Perilous Wilds - Determine the item
+> **Result:** 6 - Utility Item, 4 - Decanter/vessel/cup
+
+> [!oracle] Is the item magical?
+> **Twist Roll:** 4
+> **Twist:** None
+> **Roll:** Extremely likely - 4
+> **Outcome:** Yes but...
+
+She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value.She also says that it has some magical power.
