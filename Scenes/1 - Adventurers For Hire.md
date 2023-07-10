@@ -93,3 +93,7 @@ He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in d
 
 [[Okan]] takes the box and lifts the lid. Lifting it to his nose, he sniffs.
 
+> [!roll] Okan tries to smell something in or on the box
+> **Result:** 4,6
+
+"That scent." - he sniffs again - "I know that scent."
