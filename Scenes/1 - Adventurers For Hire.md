@@ -96,4 +96,8 @@ He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in d
 > [!roll] Okan tries to smell something in or on the box
 > **Result:** 4,6
 
-"That scent." - he sniffs again - "I know that scent."
+"That scent." - he sniffs again - "Very familiar but I can't quite place it."
+
+He looks up at [[Lina Devdan|Lady Devdan]] - "What renumeration are you offering for help with this matter?"
+
+She looks at him seriously - "The return of the cup is of utmost importance to me. I am willing to pay "
