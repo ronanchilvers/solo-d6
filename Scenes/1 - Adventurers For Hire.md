@@ -77,7 +77,7 @@ The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] 
 > **Roll:** Extremely likely - 4
 > **Outcome:** Yes but...
 
-She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value. It seems that she had been out to the theatre and returned late. Upon arriving home, she went upstairs to her dressing room and found the place ransacked. A window had been forcedShe says that she desperately wants it found and although she doesn't know who took it, the thieves left a couple of clues behind them. The first is a small piece of cloth or sacking which was found stuck on a nail in the window which they broke in through. She brings it out and shows it to [[Okan]] and [[Kaapo]]. It seems to be made of some sort of animal skin.
+She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value. It seems that she had been out to the theatre and returned late. Upon arriving home, she went upstairs to her dressing room on the third floor and found the place ransacked. A window had been forced and was swinging open. A quick inspection seemed to suggest nothing had actually been taken, but when she checked the iron chest in which the cup was stored, she found it had been forced open and the cup was missing. She says that she desperately wants it found and although she doesn't know who took it, the thieves left a couple of clues behind them. The first is a small piece of cloth or sacking which was found stuck on a nail in the open window. She brings it out and shows it to [[Okan]] and [[Kaapo]]. It seems to be made of some sort of animal skin.
 
 > [!roll] To see if Kaapo recognises the animal skin
 > **Result:** 1,1,3
@@ -90,6 +90,8 @@ She describes the item as an heirloom which has been in her family for many hund
 He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in distaste.
 
 "There was also this." - [[Lina Devdan|Lady Devdan]] holds out er hand in which is a small wooden box, about the size of her palm. The wood is dark, fine grained and the workmanship is clearly excellent.
+
+"This was found on the floor next to the chest in which I kept the cup. The lid was open and it was empty with a rather unusual scent rising from it."
 
 [[Okan]] takes the box and lifts the lid. Lifting it to his nose, he sniffs.
 
