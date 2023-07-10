@@ -77,4 +77,4 @@ The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] 
 > **Roll:** Extremely likely - 4
 > **Outcome:** Yes but...
 
-She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value.She also says that it has some magical power.
+She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value. She says that she desperately wants it found 
