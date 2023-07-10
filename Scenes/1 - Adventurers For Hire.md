@@ -54,7 +54,7 @@ They are led into a large room, well furnished but not too opulent. A woman is s
 
 The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] again does his politest bow.
 
-"My lady - it is a delight to meet you and yes, a small glass of wine would be most welcome. The day is hot and the streets are dusty. Ones throat becomes parched, I find."
+"My lady - it is a delight to meet you and yes, a small glass of wine would be most welcome. The day is hot and the streets are dusty. Ones throat becomes parched, I find. My name is Okan Ladang and this is Kaapo Torni."
 
 [[Lady Devdan]] smiles and indicates a couple of chairs opposite her. 
 
@@ -106,6 +106,20 @@ She looks at him seriously - "The return of the cup is of utmost importance to m
 
 "50 each? I have two erstwhile companions."
 
-[[Lina Devdan|Lady Devdan]] nods. [[Okan]] pauses for dramatic effect before nodding.
+[[Lina Devdan|Lady Devdan]] cocks her head to one side.
 
-"We will invesi"
+"While I am entirely convinced of your probity Mr Ladang, I feel caution is only prudent. 50 dragons now and a further 50 dragons to go with the 200 when you return the item to me."
+
+"We have a third companion my lady - he is outside attempting to find something for breakfast."
+
+The lady inclines her head.
+
+"100 dragons in addition then."
+
+[[Okan]] pauses for dramatic effect before nodding.
+
+"We will investigate the matter for you."
+
+[[Lina Devdan|Lady Devdan]] smiles warmly and then leans forward slightly.
+
+"I expect results gentlemen. If you bring me back my cup,"
