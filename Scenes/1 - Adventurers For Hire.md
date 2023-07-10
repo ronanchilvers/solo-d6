@@ -124,4 +124,4 @@ The lady inclines her head.
 
 "I expect results gentlemen. Do not tarry."
 
-[[Okan]] and [[Kaapo]] bow their way out of her presence.
+[[Okan]] and [[Kaapo]] bow their way out of her presence. Ranjeet shows them to the door. [[Okan]] retains his composure for around 30 seconds before turning and impromptu cartwheel in the street!
