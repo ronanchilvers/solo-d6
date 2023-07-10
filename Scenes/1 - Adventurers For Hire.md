@@ -120,6 +120,8 @@ The lady inclines her head.
 
 "We will investigate the matter for you."
 
-[[Lina Devdan|Lady Devdan]] smiles warmly and then leans forward slightly.
+[[Lina Devdan|Lady Devdan]] smiles warmly and then leans forward slightly. She holds out a small leather bag which chinks. [[Okan]] takes it, a little too quickly! She pauses a moment before she releases it to him.
 
-"I expect results gentlemen. If you bring me back my cup,"
+"I expect results gentlemen. Do not tarry."
+
+[[Okan]] and [[Kaapo]] bow their way out of her presence.
