@@ -88,3 +88,8 @@ She describes the item as an heirloom which has been in her family for many hund
 > **Result:** 2,2
 
 He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in distaste.
+
+"There was also this." - [[Lina Devdan|Lady Devdan]] holds out er hand in which is a small wooden box, about the size of her palm. The wood is dark, fine grained and the workmanship is clearly excellent.
+
+[[Okan]] takes the box and lifts the lid. Lifting it to his nose, he sniffs.
+
