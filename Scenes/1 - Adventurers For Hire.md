@@ -79,5 +79,12 @@ The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] 
 
 She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value. She says that she desperately wants it found and although she doesn't know who took it, the thieves left a couple of clues behind them. The first is a small piece of cloth or sacking which was found stuck on a nail in the window which they broke in through. She brings it out and shows it to [[Okan]] and [[Kaapo]]. It seems to be made of some sort of animal skin.
 
-> [!roll] To see if Okan or Kaapo recognise the animal skin
-> **Result:** 
+> [!roll] To see if Kaapo recognises the animal skin
+> **Result:** 1,1,3
+
+[[Kaapo]] examines the fragment but shakes his head - "Not an animal that I'm aware of. Okan?" [[Okan]] takes the fragment and examines it.
+
+> [!roll] To see if Okan recognises the animal skin
+> **Result:** 2,2
+
+He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in distaste.
