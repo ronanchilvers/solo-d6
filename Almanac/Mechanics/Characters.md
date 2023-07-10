@@ -1,0 +1,2 @@
+- [[Lina Devdan|Lady Devdan]] - Merchant living in the Trade Ward, victim of the robbery.
+- [[Ranjeet]] 

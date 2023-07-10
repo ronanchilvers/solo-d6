@@ -77,7 +77,7 @@ The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] 
 > **Roll:** Extremely likely - 4
 > **Outcome:** Yes but...
 
-She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value. She says that she desperately wants it found and although she doesn't know who took it, the thieves left a couple of clues behind them. The first is a small piece of cloth or sacking which was found stuck on a nail in the window which they broke in through. She brings it out and shows it to [[Okan]] and [[Kaapo]]. It seems to be made of some sort of animal skin.
+She describes the item as an heirloom which has been in her family for many hundreds of years. It is a small, jewell encrusted cup of significant value. It seems that she had been out to the theatre and returned late. Upon arriving home, she went upstairs to her dressing room and found the place ransacked. A window had been forcedShe says that she desperately wants it found and although she doesn't know who took it, the thieves left a couple of clues behind them. The first is a small piece of cloth or sacking which was found stuck on a nail in the window which they broke in through. She brings it out and shows it to [[Okan]] and [[Kaapo]]. It seems to be made of some sort of animal skin.
 
 > [!roll] To see if Kaapo recognises the animal skin
 > **Result:** 1,1,3
@@ -122,6 +122,6 @@ The lady inclines her head.
 
 [[Lina Devdan|Lady Devdan]] smiles warmly and then leans forward slightly. She holds out a small leather bag which chinks. [[Okan]] takes it, a little too quickly! She pauses a moment before she releases it to him.
 
-"I expect results gentlemen. Do not tarry."
+"I expect results gentlemen. Do not tarry." - She hols their gaze for a few moments then says - "Ranjeet will give you full details of what happened."
 
 [[Okan]] and [[Kaapo]] bow their way out of her presence. Ranjeet shows them to the door. [[Okan]] retains his composure for around 30 seconds before turning and impromptu cartwheel in the street!
