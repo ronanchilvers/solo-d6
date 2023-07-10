@@ -36,15 +36,6 @@ Where contains(file.tags, "setting")
 Sort file.name
 ```
 
-# NPCs
-
-```dataview
-List 
-From -"_templates"
-Where contains(file.tags, "npc")
-Sort file.name
-```
-
 # Places
 ```dataview
 List 

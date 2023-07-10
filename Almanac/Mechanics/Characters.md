@@ -1,3 +1,5 @@
-- [[Lina Devdan]] - Merchant living in the Trade Ward, victim of the robbery.
-- [[Ranjeet]] - [[Lina Devdan]]'s steward, a rather gloomy man
-- 
+```dataview
+List summary
+From -"_templates"
+Where contains(file.tags, "npc")
+```
