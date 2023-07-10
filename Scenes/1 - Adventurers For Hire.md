@@ -100,4 +100,12 @@ He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in d
 
 He looks up at [[Lina Devdan|Lady Devdan]] - "What renumeration are you offering for help with this matter?"
 
-She looks at him seriously - "The return of the cup is of utmost importance to me. I am willing to pay "
+She looks at him seriously - "The return of the cup is of utmost importance to me. I am willing to pay a considerable sum, say... 50 dragons to make enquiries? And a bounty of 200 dragons upon its safe return?"
+
+[[Okan]] manages to school his features enough to not show his astonishment and excitement! [[Kaapo]] is less convincing and makes a noise somewhere between a cough and a gurgle. [[Okan]]'s voice is calm and cool as he says
+
+"50 each? I have two erstwhile companions."
+
+[[Lina Devdan|Lady Devdan]] nods. [[Okan]] pauses for dramatic effect before nodding.
+
+"We will invesi"
