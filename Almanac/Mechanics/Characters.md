@@ -1,2 +1,3 @@
 - [[Lina Devdan]] - Merchant living in the Trade Ward, victim of the robbery.
-- [[Ranjeet]] - [[Lina Devdan]]'s steward, a rather gloomy man - depress, 
+- [[Ranjeet]] - [[Lina Devdan]]'s steward, a rather gloomy man
+- 
