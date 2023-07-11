@@ -33,7 +33,7 @@ Sort file.name
 List
 From -"_templates"
 Where contains(file.tags, "scene") 
-Sort file.name
+Sort file.name desc
 ```
 
 # Mechanics
