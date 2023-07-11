@@ -89,6 +89,9 @@ She describes the item as an heirloom which has been in her family for many hund
 
 He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in distaste.
 
+> [!question] Thread
+> - [ ] #thread  What animal is the fragment of skin Lina Devdan gave them from?
+
 "There was also this." - [[Lina Devdan|Lady Devdan]] holds out her hand in which is a small wooden box, about the size of her palm. The wood is dark, fine grained and the workmanship is clearly excellent.
 
 "This was found on the floor next to the chest in which I kept the cup. The lid was open and it was empty with a rather unusual scent rising from it."
@@ -99,6 +102,9 @@ He shakes his head - "No idea. Smells funny though!" - He wrinkles his nose in d
 > **Result:** 4,6
 
 "That scent." - he sniffs again - "Very familiar but I can't quite place it."
+
+> [!question] Thread
+> - [ ] #thread  What is the smell in the box Lina Devdan gave them?
 
 He looks up at [[Lina Devdan|Lady Devdan]] - "What renumeration are you offering for help with this matter?"
 

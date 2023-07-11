@@ -28,4 +28,16 @@ tags: [tiny-d6,scene]
 
 [[Okan]] leans forward, speaking in low tones.
 
-"Before I arrived in Waterdeep, before I met you two, I spent some time down south in Baldur's Gate. I met a warrior there. He was named Fanir."
+"Before I arrived in Waterdeep, before I met you two, I spent some time down south in Baldur's Gate. I met a warrior there. He was named Fanir. He had worked with a group of warriors and thieves for a time and told me some of their secrets. It seems that when they had need of a little more luck or surety about their activities, they sometimes take a drug which gives them ... an advantage. He had a little with him - it had exactly that scent."
+
+[[Kaapo]]'s face has gone a little white - "Warriors? Thieves? Ad.. advantage? That sounds dangerous! We don't want that sort of trouble... do we?"
+
+[[Okan]] looks at him askance - "_We're_ thieves and warriors you idiot!" - he shakes his head - "Sometimes, I wonder if you're in the right trade Kaapo!"
+
+[[Sakari]] has been sniffing at the box.
+
+> [!roll] Does he notice the secret compartment?
+> **Result:** 3
+
+His voice is its usual low growl - "Smells weird to me." - He tosses it onto the table - "Food? I'm hungry" - [[Okan]] stares at him - "How is it that you can eat your body weight in meat and still be hungry 10 minutes later? Can't understand it..." - [[Sakari]] shrugs - "I like food." - [[Okan]] nods - "That you do, my massive friend! That you do!"
+
