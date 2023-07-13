@@ -2,6 +2,7 @@
 created: 2023-07-07 11:29
 ---
 ![[Tiny Dungeon 2e - Banner.jpg|tablet|full]]
+![[Waterdeep - Knight n Shadow.jpeg|desktop|full]]
 
 # Adventure seed
 

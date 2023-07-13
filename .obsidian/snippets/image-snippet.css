@@ -18,6 +18,17 @@ img[alt*="full"] {
 }
 @media screen and (max-width: 720px) {
     img[alt*="tablet"] {
+        display:inline;
+    }
+    img[alt*="desktop"] {
         display:none;
+    }
+}
+@media screen and (min-width: 721px) {
+    img[alt*="tablet"] {
+        display:none;
+    }
+    img[alt*="desktop"] {
+        display:inline;
     }
 }
