@@ -11,3 +11,8 @@ img[alt*="left"] {
     margin: 0 1rem 1rem 0;
     box-shadow: none;
 }
+img[alt*="full"] {
+    margin-bottom: 1rem;
+    box-shadow: none;
+    width: 100%;
+}
