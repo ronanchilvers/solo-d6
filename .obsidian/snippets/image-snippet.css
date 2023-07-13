@@ -16,3 +16,8 @@ img[alt*="full"] {
     box-shadow: none;
     width: 100%;
 }
+@media screen and (max-width: 780px) {
+    img[alt*="tablet"] {
+        display:none;
+    }
+}
