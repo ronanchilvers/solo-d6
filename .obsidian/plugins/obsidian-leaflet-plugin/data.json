@@ -558,6 +558,54 @@
       "files": [
         "Almanac/Setting/Regional Map.md"
       ]
+    },
+    {
+      "id": "waterdeep-city-map",
+      "lastAccessed": 1689359872516,
+      "markers": [
+        {
+          "id": "ID_9bcb3809f988",
+          "type": "default",
+          "loc": [
+            -5.145335674285889,
+            2.629007717999484
+          ],
+          "link": "The Splintered Stair",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5948086396887918,
+            0.6586029663085937
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d96bf83bb879",
+          "type": "default",
+          "loc": [
+            -5.242548286914825,
+            2.3884419627804316
+          ],
+          "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Waterdeep Map.md"
+      ]
     }
   ],
   "defaultMarker": {
