@@ -10,5 +10,6 @@ long: 65
 defaultZoom: 9
 height: 100%
 draw: false
-scale: 400
+scale: 3250
+unit: feet
 ```
