@@ -35,6 +35,9 @@ The huge man looks down at [[Okan]] with a steady gaze, his companion doing the 
 
 [[Okan]] nodded enthusiastically - "Yes I understand completely. Closed - of course. I was just wondering if a generous patron such as myself might be able gain entrance for... shall we say two dragons each to the good cause of you choice?"
 
+> [!warning] Test needed
+> Should have tested to convince the bouncers
+
 The bouncer looks down at him, his face impassive. Then he says
 
 "Make it three."
