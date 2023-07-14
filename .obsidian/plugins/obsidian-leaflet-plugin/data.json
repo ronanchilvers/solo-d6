@@ -561,7 +561,7 @@
     },
     {
       "id": "waterdeep-city-map",
-      "lastAccessed": 1689359872516,
+      "lastAccessed": 1689360031397,
       "markers": [
         {
           "id": "ID_9bcb3809f988",
@@ -591,6 +591,23 @@
             2.3884419627804316
           ],
           "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a93959d9f89b",
+          "type": "default",
+          "loc": [
+            -4.218148857355118,
+            3.0208414243236525
+          ],
+          "link": "Lina Devdan's House",
           "layer": "Waterdeep%20-%20Map.jpg",
           "mutable": true,
           "command": false,
