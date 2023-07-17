@@ -8,7 +8,7 @@ aliases: Kaapo Torni
 > [!abstract] Character
 > - **Name:** Kaapo Torni
 > - **Homeland:** Waterdeep
-> - **Family Trade:** Weaponsmiths
+> - **Family Trade:** Librarians
 > - **Belief:** Weapons are vulgar
 
 > [!abstract] Heritage

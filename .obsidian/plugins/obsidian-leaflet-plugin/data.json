@@ -562,7 +562,7 @@
     {
       "id": "waterdeep-city-map",
       "locked": true,
-      "lastAccessed": 1689376356063,
+      "lastAccessed": 1689626945031,
       "markers": [
         {
           "id": "ID_9bcb3809f988",
@@ -619,13 +619,13 @@
           "tooltip": "always"
         },
         {
-          "id": "ID_181bb80a0bf8",
+          "id": "ID_5bea6a2ae878",
           "type": "default",
           "loc": [
-            -5.788681447505951,
-            3.4481115639209747
+            -3.020826578140259,
+            2.3721231818199158
           ],
-          "link": "Sages House",
+          "link": "The Font of Knowledge",
           "layer": "Waterdeep%20-%20Map.jpg",
           "mutable": true,
           "command": false,

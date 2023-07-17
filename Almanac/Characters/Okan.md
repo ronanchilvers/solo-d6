@@ -7,7 +7,7 @@ aliases: Okan Ladang
 
 > [!abstract] Character
 > - **Name:** Okan Ladang
-> - **Homeland:** The mountains of the south
+> - **Homeland:** The Storm Horns in central Faerun
 > - **Family Trade:** Trade? What trade?
 > - **Belief:** He who dares, gets the best pickings
 
