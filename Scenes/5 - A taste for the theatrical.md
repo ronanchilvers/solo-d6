@@ -26,8 +26,20 @@ tags: [tiny-d6,scene]
 
 Francio turns pale at this, stands up, gathers his papers together and with a - "By your leave, Lord Armas" - sweeps out of the room without a second word. [[Armas Valtaistuin|Armas]] slumps down into a chair. 
 
-"The problem is, no one can write material of sufficient quality to match my skill. It all falls flat when faced with talent such as mine." - He waves at a barmaid walking past. She nods and hurries off to the bar. - "There was a time when good playwrights were ten-a-nib. Now you're lucky to get one that knows which end of the quill has the ink on it." - He sighs thetrically and throws his head back - "Meanwhile I am left, devoid of material, bereft of the performance that I crave. I weep, Okan, I really do - fuck knows what the world is coming to!"
+"The problem is, no one can write material of sufficient quality to match my skill. It all falls flat when faced with talent such as mine." - He waves at a barmaid walking past. She nods and hurries off to the bar. - "There was a time when good playwrights were ten-a-nib. Now you're lucky to get one that knows which end of the quill has the ink on it." - He sighs theatrically and throws his head back - "Meanwhile I am left, devoid of material, bereft of the performance that I crave. I weep, Okan, I really do - fuck knows what the world is coming to!"
 
 [[Okan]] leans forward - "Write your own material Armas - only a performer of your stature can fully understand how to create material befitting your level. I think you're flogging a dead horse trying to find someone to do it for you."
 
-[[Armas Valtaistuin|Armas]] laughs again - "Ah Okan! Always the compliments drip from your silver tongue!" - He leans forward and clas
+[[Armas Valtaistuin|Armas]] laughs again - "Ah Okan! Always the compliments drip from your silver tongue!" - He leans forward and clasps [[Okan]]'s shoulder - "I've missed it!!"
+
+He sits back - "However I'm not yet senile enough to know that you want something."
+
+[[Okan]] assumes a hurt countenance - "Armas! I'm hurt!! I'm merely seeking the benefit of your great knowledge and wisdom." - When [[Armas]] just raises an eyebrow and looks at him sideways he continues - "I'm looking for someone. Someone by the name of Wellby. Someone who might be in a profession which may cause their name to be discovered in connection with dealings of a less ... savoury nature. Ring any bells with you?"
+
+> [!oracle] Does Armas know the name Wellby?
+> **Twist Roll:** -
+> **Twist:** None
+> **Roll:** 2
+> **Outcome:** No
+
+[[Armas Valtaistuin|Armas]] 
