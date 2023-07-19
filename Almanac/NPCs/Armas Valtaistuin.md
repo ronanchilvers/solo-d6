@@ -1,7 +1,8 @@
 ---
 created: 2023-07-12 08:16
 tags: [tiny-d6,npc]
-summary: Mindless Actor 
+aliases: Armas
+summary: Theatrical kahru leader of the Shatterfists
 ---
 > [!abstract] Stats
 > **Heritage:** Kahru

@@ -89,12 +89,12 @@ Between mouthfuls of meat, [[Sakari]] says "Mmmspapssh"
 [[Okan]] grabs it - "Excellent! We'll place an advert - shouldn't be more than a few coppers. Something like 'Found! Small wooden box. On the corner of Villars Lane. Enquiries to the Splintered Stair, Dock Ward." He frowns. "Small chance of the right person seeing it but you never know."
 
 > [!question] Thread
-> - [ ] #thread Place an advert in the Waterdeep News 
+> - [x] #thread Place an advert in the Waterdeep News
 
 "Right!" He continues - "I'm going to go and see about this newspaper thing and then I'll start making some discreet enquiries about the pendant. Saki, you go with Kaapo and see if you can find a sage or hunter or something, someone who can tell you what creature that skin belongs to."
 
 > [!question] Thread
-> - [ ] #thread Find a sage to identify the fragment of skin 
+> - [x] #thread Find a sage to identify the fragment of skin
 
 He pushes his chair back - "Meet you back here later!" - he turns to go and then pauses, turns back again - "I'd better take the cash - I'll need to pay for the newspaper ad and so on."
 
