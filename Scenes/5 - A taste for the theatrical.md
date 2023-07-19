@@ -74,3 +74,6 @@ The boy wrenches his arm free looking back with terror - "Let go! Let go!!! It's
 "The creature! It's coming!!" - the boy pulls his arm free of [[Okan]]'s grip and runs away up the street, vanishing into the gloom. [[Okan]] looks after him for a moment, then back at the alley. Nothing.
 
 He pulls his cloak a tighter around him and sets off, following a different path that will not take him near the alley entrance.
+
+> [!question] Thread
+> - [ ] #thread What was the creature in the shadows? 
