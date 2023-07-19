@@ -18,4 +18,12 @@ tags: [tiny-d6,scene]
 
 "OKAAANN!!!" - the kahru roars, showing an impressive set of pearly white canine teeth - "My favourite theatre critic!!! Come, sit down - listen to my latest monologue. It is the lay of Villiful the Brave as he fights for the honour of his lady love."
 
-[[Okan]] enters the room - "Armas! Good to see you! ... And hear you!!" - he smiles broadly - "I thought such potent del"
+[[Okan]] enters the room - "Armas! Good to see you! ... And hear you!!" - he smiles broadly - "I thought such potent delivery as I heard when I entered the establishment could only come from the lips of a skilled orator such as yourself!"
+
+[[Armas Valtaistuin|Armas]] roars with laughter and claps [[Okan]] on the back with a huge paw, knocking the wind out of him.
+
+"This is Francio, my master playwright ... although" - he adds in a theatrical whisper - "I could probably do a better job myself! Man's an idiot!"
+
+Francio turns pale at this, stands up, gathers his papers together and with a - "By your leave, Lord Armas" - sweeps out of the room without a second word. [[Armas Valtaistuin|Armas]] slumps down into a chair. 
+
+"The problem is, no one can write material of sufficient quality to match my skill. It all falls flat when faced with talent such as m"
