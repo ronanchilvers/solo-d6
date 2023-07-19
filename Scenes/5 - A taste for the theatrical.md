@@ -8,8 +8,10 @@ tags: [tiny-d6,scene]
 > **Scene roll:** 2
 > **Scene Type:** Dramatic Scene
 
-> [!oracle] Does [[Okan]] owe [[Armas Valtaistuin|Armas]]
-> **Twist Roll:** <% tp.file.cursor(2) %>
-> **Twist:** None
-> **Roll:** <% tp.file.cursor(3) %>
-> **Outcome:** <% tp.file.cursor(4) %>
+> [!oracle] Is [[Armas Valtaistuin|Armas]] well disposed towards [[Okan]]?
+> **Twist Roll:** 1
+> **Twist:** Item Ends The Scene
+> **Roll:** 4
+> **Outcome:** Yes but...
+
+[[Okan]] makes his way across the bar room of [[The Jolly Guardian]] towards the loud voice which seems to be declaiming poetry at the same time as swearing at those around it. At the back of the bar is a small side room in which is three figures - two seated and one standing. [[Okan]] recognises [[Armas Valtaistuin]], the leader of the [[Shatterfists]] gang. A huge brown kahru, [[Armas Valtaistuin|Armas]] is nearly 
