@@ -44,4 +44,7 @@ The gnome whispers - "A Shadowclaw Lynx. A terrible creature - intelligent and b
 
 "They are rarely seen, indeed I know of no one who has encountered one for many years. Their skin was often sold as an ingredient in various rather dark rituals of which I shall not speak. There were rumours that some brave souls had managed to communicate with one or two specimens and even form bonds of friendship but I very much doubt the veracity of the claim. I suspect that one would be too busy being eaten to attempt polite conversation!!" He chuckles rather thinly and then looks up at [[Kaapo]] again.
 
-"All I can advise, my young friend, is that you tread carefully. Even with the aid of your superb kahru "
+"All I can advise, my young friend, is that you tread carefully. Even with the aid of your superb kahru companion, I fear creatures such as these would prove extremely dangerous were you to encounter them."
+
+> [!question] Thread
+> - [ ] #thread Where did the skin of the Shadowclaw Lynx come from?

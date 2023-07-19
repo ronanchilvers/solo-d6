@@ -1,6 +1,7 @@
 ---
 created: 2023-07-12 08:16
 tags: [tiny-d6,npc]
+aliases: Armas
 summary: Mindless Actor 
 ---
 > [!abstract] Stats
