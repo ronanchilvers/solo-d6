@@ -157,7 +157,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1689801245074,
+      "lastAccessed": 1689801904724,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -626,7 +626,7 @@
     },
     {
       "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1689801782367,
+      "lastAccessed": 1689801905791,
       "markers": [
         {
           "id": "ID_99682ac8994b",
@@ -644,6 +644,40 @@
             0.673955613362685
           ],
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_2b99e878b818",
+          "type": "default",
+          "loc": [
+            -5.8876953125,
+            2.86181640625
+          ],
+          "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_59490909aaaa",
+          "type": "default",
+          "loc": [
+            -6.34510201215744,
+            3.3847476840019226
+          ],
+          "link": "Pallabar Reddlepop",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Pallabar Reddlepop's Shop",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"

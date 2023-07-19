@@ -10,7 +10,7 @@ tags: [tiny-d6,scene]
 
 > [!oracle] Is [[Armas Valtaistuin|Armas]] well disposed towards [[Okan]]?
 > **Twist Roll:** 1
-> **Twist:** Item Ends The Scene
+> **Twist:** Helpfully Petite
 > **Roll:** 4
 > **Outcome:** Yes but...
 
@@ -50,4 +50,16 @@ He sits back - "However I'm not yet senile enough to know that you want somethin
 
 [[Okan]] bows - "Of course! Far be it from me to cause delay in the delivery of such oratory as yours!" - he bows a theatrically low bow and retreats out of the room, the embattled playwright Francio passing him as he does so. As he walks back across the bar he hears again the raised voice of [[Armas Valtaistuin|Armas]] declaiming verse.
 
-He steps out onto the street. The rain is still lashing down and the evening is beginning to draw in. The two bouncers are huddled back in the porch and barely give him a second glance as he steps past them. He pulls his cloak around his shoulders and 
+He steps out onto the street. The rain is still lashing down and the evening is beginning to draw in. The two bouncers are huddled back in the porch and barely give him a second glance as he steps past them. He pulls his cloak around his shoulders and sets off along Fish Street.
+
+> [!oracle] Is everything as expected in the street?
+> **Twist Roll:** -
+> **Twist:** None
+> **Roll:** 2
+> **Outcome:** No
+
+A little way along the street he sees a small child - a little boy. He has a cap on and is drenched in the rain. As Okan approaches him, the boy trips over, slipping in a puddle on the
+
+> [!roll] To see if Okan notices anything untoward
+> **Result:** <% tp.file.cursor(2) %>
+
