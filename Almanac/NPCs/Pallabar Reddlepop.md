@@ -1,6 +1,7 @@
 ---
 created: 2023-07-18 22:16
 tags: [tiny-d6,npc]
+aliases: Pallabar
 summary: Gnome sage - his eyes twitch a lot
 ---
 > [!abstract] Stats
