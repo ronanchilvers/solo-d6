@@ -48,4 +48,6 @@ He sits back - "However I'm not yet senile enough to know that you want somethin
 
 [[Armas Valtaistuin|Armas]] nods and then his attention is distracted by the arrival of the barmaid with a tray of tankards - "Ah!! Sustenance! FRANCIO!!! Where is the lazy bastard? FRANCIO!!! You'll have to excuse me Okan - the muse calls and I must answer!"
 
-[[Okan]] bows 
+[[Okan]] bows - "Of course! Far be it from me to cause delay in the delivery of such oratory as yours!" - he bows a theatrically low bow and retreats out of the room, the embattled playwright Francio passing him as he does so. As he walks back across the bar he hears again the raised voice of [[Armas Valtaistuin|Armas]] declaiming verse.
+
+He steps out onto the street. The rain is still lashing down and the evening is beginning to draw in. The two bouncers are huddled back in the porch and barely give him a second glance as he steps past them. He pulls his cloak around his shoulders and 
