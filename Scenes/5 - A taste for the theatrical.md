@@ -42,4 +42,10 @@ He sits back - "However I'm not yet senile enough to know that you want somethin
 > **Roll:** 2
 > **Outcome:** No
 
-[[Armas Valtaistuin|Armas]] 
+[[Armas Valtaistuin|Armas]] ursine brows crease in concentration - "Wellby? Wellby... nothing springs to mind immediately, I must admit. Since it's you, I can make some enquiries. You'll owe me though Okan - don't forget." - For a moment his eyes focus on [[Okan]] and the goblinkin sees the coldness in those dark depths.
+
+"Much appreciated Armas! Anything you can discover would be most useful. Of course, you can call on me any time - it would be my honour to assist you with any small undertaking you might be engaged in. My honour indeed."
+
+[[Armas Valtaistuin|Armas]] nods and then his attention is distracted by the arrival of the barmaid with a tray of tankards - "Ah!! Sustenance! FRANCIO!!! Where is the lazy bastard? FRANCIO!!! You'll have to excuse me Okan - the muse calls and I must answer!"
+
+[[Okan]] bows 
