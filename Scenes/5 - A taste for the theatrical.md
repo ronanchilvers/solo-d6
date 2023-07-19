@@ -14,4 +14,4 @@ tags: [tiny-d6,scene]
 > **Roll:** 4
 > **Outcome:** Yes but...
 
-[[Okan]] makes his way across the bar room of [[The Jolly Guardian]] towards the loud voice which seems to be declaiming poetry at the same time as swearing at those around it. At the back of the bar is a small side room in which is three figures - two seated and one standing. [[Okan]] recognises [[Armas Valtaistuin]], the leader of the [[Shatterfists]] gang. A huge brown kahru, [[Armas Valtaistuin|Armas]] is nearly 
+[[Okan]] makes his way across the bar room of [[The Jolly Guardian]] towards the loud voice which seems to be declaiming poetry at the same time as swearing at those around it. At the back of the bar is a small side room in which is three figures - two seated and one standing. [[Okan]] recognises [[Armas Valtaistuin]], the leader of the [[Shatterfists]] gang. A huge brown kahru, [[Armas Valtaistuin|Armas]] is nearly 9 feet in height and powerfully built. 
