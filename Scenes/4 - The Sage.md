@@ -42,4 +42,6 @@ The book seems to be some sort of catalogue of creatures. On the left hand page 
 
 The gnome whispers - "A Shadowclaw Lynx. A terrible creature - intelligent and brutal. The fragment of skin you have comes, indisputably from the hide of a Shadowclaw Lynx." He looks up at them over his glasses that have once again slid down his nose, his eyes twitching alarmingly.
 
-"I would su"
+"They are rarely seen, indeed I know of no one who has encountered one for many years. Their skin was often sold as an ingredient in various rather dark rituals of which I shall not speak. There were rumours that some brave souls had managed to communicate with one or two specimens and even form bonds of friendship but I very much doubt the veracity of the claim. I suspect that one would be too busy being eaten to attempt polite conversation!!" He chuckles rather thinly and then looks up at [[Kaapo]] again.
+
+"All I can advise, my young friend, is that you tread carefully. Even with the aid of your superb kahru "
