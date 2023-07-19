@@ -3,7 +3,7 @@ created: 2023-07-07 22:37
 tags: [tiny-d6,character]
 aliases: Kaapo Torni
 ---
-![[Kaapo Torni.webp|250]]
+![[Kaapo Torni.webp|right|300]]
 
 > [!abstract] Character
 > - **Name:** Kaapo Torni

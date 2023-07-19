@@ -40,4 +40,6 @@ He scuttles over to a pile of books, grabs one (causing the rest to collapse), a
 
 The book seems to be some sort of catalogue of creatures. On the left hand page is a partial description of a creature, continued from the page before. On the right is a coloured painting, an artist's impression. The creature it shows is big, the size of a small pony, and cat like with too many teeth crowding it's open mouth. It has a whip-like tail and is crouched as if ready to spring. It's shape is indistinct, cloaked with darkness.
 
-The gnome whispers - "A Shadowclaw Lynx. A terrible creature - intelligent and brutal. The fragment of skin you have comes, indisputably from the hide of a Shadowclaw Lynx."
+The gnome whispers - "A Shadowclaw Lynx. A terrible creature - intelligent and brutal. The fragment of skin you have comes, indisputably from the hide of a Shadowclaw Lynx." He looks up at them over his glasses that have once again slid down his nose, his eyes twitching alarmingly.
+
+"I would su"
