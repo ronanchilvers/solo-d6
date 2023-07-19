@@ -26,4 +26,8 @@ tags: [tiny-d6,scene]
 
 Francio turns pale at this, stands up, gathers his papers together and with a - "By your leave, Lord Armas" - sweeps out of the room without a second word. [[Armas Valtaistuin|Armas]] slumps down into a chair. 
 
-"The problem is, no one can write material of sufficient quality to match my skill. It all falls flat when faced with talent such as m"
+"The problem is, no one can write material of sufficient quality to match my skill. It all falls flat when faced with talent such as mine." - He waves at a barmaid walking past. She nods and hurries off to the bar. - "There was a time when good playwrights were ten-a-nib. Now you're lucky to get one that knows which end of the quill has the ink on it." - He sighs thetrically and throws his head back - "Meanwhile I am left, devoid of material, bereft of the performance that I crave. I weep, Okan, I really do - fuck knows what the world is coming to!"
+
+[[Okan]] leans forward - "Write your own material Armas - only a performer of your stature can fully understand how to create material befitting your level. I think you're flogging a dead horse trying to find someone to do it for you."
+
+[[Armas Valtaistuin|Armas]] laughs again - "Ah Okan! Always the compliments drip from your silver tongue!" - He leans forward and clas
