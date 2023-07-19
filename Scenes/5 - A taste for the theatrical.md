@@ -50,7 +50,7 @@ He sits back - "However I'm not yet senile enough to know that you want somethin
 
 [[Okan]] bows - "Of course! Far be it from me to cause delay in the delivery of such oratory as yours!" - he bows a theatrically low bow and retreats out of the room, the embattled playwright Francio passing him as he does so. As he walks back across the bar he hears again the raised voice of [[Armas Valtaistuin|Armas]] declaiming verse.
 
-He steps out onto the street. The rain is still lashing down and the evening is beginning to draw in, gloomy and windswept. The two bouncers are huddled back in the porch and barely give him a second glance as he steps past them. He pulls his cloak around his shoulders and sets off along Fish Street.
+He steps out onto the street. The rain is still lashing down and the evening is beginning to draw in, gloomy and windswept. The two bouncers are huddled back in the porch and barely give him a second glance as he steps past them. He pulls his cloak around his shoulders and sets off along Fish Street, heading towards [[The Splintered Stair]].
 
 > [!oracle] Is everything as expected in the street?
 > **Twist Roll:** -
@@ -58,7 +58,7 @@ He steps out onto the street. The rain is still lashing down and the evening is 
 > **Roll:** 2
 > **Outcome:** No
 
-A little way along the street he sees a small child - a little boy - running along the street towards him. He has a cap on and is drenched in the rain. As Okan approaches him, the boy trips over, slipping in a puddle and sliding to a stop just in front of the goblinkin. Okan stoops to help him up.
+[[Okan]] is dreaming of a warm fire and full tankard of beer when he sees, a little way along the street, a small child - a little boy - running towards him. He has a cap on and is drenched in the rain. As Okan approaches him, the boy trips over, slipping in a puddle and sliding to a stop just in front of the goblinkin. Okan stoops to help him up.
 
 > [!roll] To see if Okan notices anything untoward
 > **Result:** 5
@@ -67,4 +67,10 @@ As he stoops, Okan notices something a little way up the street, barely visible 
 
 "There you go son. Take care in the rain - its easy to slip."
 
-The boy wrenches his arm free looking back with terror - "Let go!"
+The boy wrenches his arm free looking back with terror - "Let go! Let go!!! It's coming!" 
+
+[[Okan]] frowns down at him - "What's coming?"
+
+"The creature! It's coming!!" - the boy pulls his arm free of [[Okan]]'s grip and runs away up the street, vanishing into the gloom. [[Okan]] looks after him for a moment, then back at the alley. Nothing.
+
+He pulls his cloak a tighter around him and sets off, following a different path that will not take him near the alley entrance.
