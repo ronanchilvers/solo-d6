@@ -90,4 +90,11 @@ The padding steps and scrape of claws stops. There is silence. Then suddenly, wi
 [[Okan]] and [[Kaapo]] yell in shock as the creature leaps at them. [[Okan]] dives to one side, rolling across the floor to get out of the way (Move), slashing out with his blade as he does so (Attack).
 
 > [!roll] Attack - Okan slashes at the creature
-> **Result:** 
+> **Result:** 4 - Miss
+
+The creatures twists aside and [[Okan]]'s knife flashes past. As he rolls he hears [[Kaapo]] shouting words of magic.
+
+> [!roll] Test - Kaapo casts a fireball at the creature
+> **Result:** 5
+
+Suddenly there is a burst of firey light as [[Kaapo]] finishes the spell. His hands are stretched out towards the creatures and a gush of flame blasts towards it, catching it full sideways.
