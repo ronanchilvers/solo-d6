@@ -61,4 +61,13 @@ As they sneak quietly down the stair, [[Kaapo]] trips on a step and tumbles forw
 > [!roll] Sakari tries to catch Kaapo as he falls
 > **Result:** 5
 
-The
+The kahru's arm whips out and he grabs the young man by the arm as he tumbles, stopping his fall. He sets [[Kaapo]] carefully back on his feet and then looks at him through the gloom. His voice is a low growl - "Quietly my friend." They continue down the stair to the bottom and then slip along the corridor to the door of the taproom. It is deserted, the windows shuttered, the glow of the hearth the only light. [[Sakari]] murmurs - "Wait here. I go to look."
+
+[[Okan]] and [[Kaapo]] enter the empty bar. [[Kaapo]] pads over to the fireplace and warms his hands over the glowing embers. [[Okan]] pads over to the bar - he could do with a pick me up and this is too good a chance to miss.
+
+> [!oracle] Has the landlord been killed by the something?
+> **Twist Roll:** -
+> **Twist:** None
+> **Roll:** 6
+> **Outcome:** Yes and...
+
