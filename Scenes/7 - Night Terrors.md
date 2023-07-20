@@ -33,3 +33,9 @@ The door creaks loudly as he eases it open, the hinges shrill in the silence of 
 
 [[Kaapo]] and [[Okan]] both nod. The window in [[Sakari]]'s room is smaller than in the other rooms and is set to one side such that it can be approached without anyone ... or anything ... outside seeing. [[Sakari]] pads across the floor and peers out into the night.
 
+> [!oracle] Is the something outside?
+> **Twist Roll:** 1
+> **Twist:** Ruthlessly Shocking
+> **Roll:** 4
+> **Outcome:** Yes but
+
