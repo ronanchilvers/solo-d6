@@ -44,6 +44,14 @@ Where contains(file.tags, "mechanics")
 Sort file.name
 ```
 
+# Creatures
+```dataview
+List
+From -"_templates"
+Where contains(file.tags, "creature") 
+Sort file.name
+```
+
 # Places
 ```dataview
 List 

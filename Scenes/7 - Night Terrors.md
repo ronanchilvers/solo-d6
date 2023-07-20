@@ -77,12 +77,17 @@ The back door of the tavern is swinging open. Moonlight is streaming in, outlini
 
 "Kaapo... Kaapo!!! It's here. It's in the corridor."
 
-There's a sound of something large moving in the corridor, the scrape of claws on the wooden floor. [[Okan]] backs into the bar, casting about for some sort of barricade. [[Kaapo]] is scrabbling with his bag, pulling something out.
+There's a sound of something large moving in the corridor, the scrape of claws on the wooden floor. [[Okan]] backs into the bar, casting about for some sort of barricade. [[Kaapo]] is scrabbling with his bag, pulling something out, moving towards [[Okan]].
 
-The padding steps and scrape of claws stops. There is silence. Then suddenly, with preternatural agility, the creature leaps through the doorway and onto the bar. It's bulk is huge, the size of a small pony and it is wreathed in shadows. Its pelt seems almost liquid, rippling over bunched muscles as it moves. The head is large, huge jaws open in a snarl with too many teeth jutting out. The eyes are deep pits with no reflection of light.
+The padding steps and scrape of claws stops. There is silence. Then suddenly, with preternatural agility, the creature leaps through the doorway and onto the bar. It's bulk is huge, the size of a small pony and it is wreathed in shadows. Its pelt seems almost liquid, rippling over bunched muscles as it moves. The head is large, huge jaws open in a snarl with too many teeth jutting out. The eyes are deep pits with no reflection of light. It pauses for a moment and then leaps into the room towards them.
 
 > [!abstract] Initiative
 > - Okan - 10
 > - Kaapo - 11
 > - Creature - 5
 > - Sakari - 7
+
+[[Okan]] and [[Kaapo]] yell in shock as the creature leaps at them. [[Okan]] dives to one side, rolling across the floor to get out of the way (Move), slashing out with his blade as he does so (Attack).
+
+> [!roll] Attack - Okan slashes at the creature
+> **Result:** 
