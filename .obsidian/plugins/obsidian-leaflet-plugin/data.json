@@ -90,74 +90,9 @@
       ]
     },
     {
-      "id": "waterdeep-city-map",
-      "lastAccessed": 1689360031397,
-      "markers": [
-        {
-          "id": "ID_9bcb3809f988",
-          "type": "default",
-          "loc": [
-            -5.145335674285889,
-            2.629007717999484
-          ],
-          "link": "The Splintered Stair",
-          "layer": "Waterdeep%20-%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5948086396887918,
-            0.6586029663085937
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d96bf83bb879",
-          "type": "default",
-          "loc": [
-            -5.242548286914825,
-            2.3884419627804316
-          ],
-          "link": "The Jolly Guardian",
-          "layer": "Waterdeep%20-%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a93959d9f89b",
-          "type": "default",
-          "loc": [
-            -4.218148857355118,
-            3.0208414243236525
-          ],
-          "link": "Lina Devdan's House",
-          "layer": "Waterdeep%20-%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Almanac/Setting/Waterdeep Map.md"
-      ]
-    },
-    {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1689801904724,
+      "lastAccessed": 1689801245074,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -625,23 +560,24 @@
       ]
     },
     {
-      "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1689801905791,
+      "id": "waterdeep-city-map",
+      "locked": false,
+      "lastAccessed": 1689714482060,
       "markers": [
         {
-          "id": "ID_99682ac8994b",
+          "id": "ID_9bcb3809f988",
           "type": "default",
           "loc": [
-            -5.872101545333862,
-            3.129414439201355
+            -5.145335674285889,
+            2.629007717999484
           ],
           "link": "The Splintered Stair",
-          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "layer": "Waterdeep%20-%20Map.jpg",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5114140417718142,
-            0.673955613362685
+            0.5948086396887918,
+            0.6586029663085937
           ],
           "description": null,
           "minZoom": null,
@@ -649,11 +585,90 @@
           "tooltip": "always"
         },
         {
-          "id": "ID_2b99e878b818",
+          "id": "ID_d96bf83bb879",
           "type": "default",
           "loc": [
-            -5.8876953125,
-            2.86181640625
+            -5.242548286914825,
+            2.3884419627804316
+          ],
+          "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_a93959d9f89b",
+          "type": "default",
+          "loc": [
+            -4.218148857355118,
+            3.0208414243236525
+          ],
+          "link": "Lina Devdan's House",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_5bea6a2ae878",
+          "type": "default",
+          "loc": [
+            -3.020826578140259,
+            2.3721231818199158
+          ],
+          "link": "The Font of Knowledge",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Waterdeep Map.md"
+      ]
+    },
+    {
+      "id": "waterdeep-city-map-dragon-heist",
+      "lastAccessed": 1689801858589,
+      "markers": [
+        {
+          "id": "ID_59da8af9783b",
+          "type": "default",
+          "loc": [
+            -5.87622606754303,
+            3.1306723058223724
+          ],
+          "link": "The Splintered Stair",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_185b5a690a08",
+          "type": "default",
+          "loc": [
+            -5.8899452686309814,
+            2.862852841615677
           ],
           "link": "The Jolly Guardian",
           "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
@@ -666,11 +681,28 @@
           "tooltip": "always"
         },
         {
-          "id": "ID_59490909aaaa",
+          "id": "ID_aacaa98b5be8",
           "type": "default",
           "loc": [
-            -6.34510201215744,
-            3.3847476840019226
+            -3.4092100262641907,
+            2.124557912349701
+          ],
+          "link": "Font of Knowledge",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_091b0a3b690a",
+          "type": "default",
+          "loc": [
+            -6.347861468791962,
+            3.3838911652565002
           ],
           "link": "Pallabar Reddlepop",
           "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
@@ -721,19 +753,19 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 8,
+    "defaultZoom": 9,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "700px",
-    "image": "The Sword Coast.jpg",
+    "height": "100%",
+    "image": "Waterdeep - Map.jpg",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "The Sword Coast.jpg"
+      "Waterdeep - Map.jpg"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -747,16 +779,17 @@
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 400,
+    "scale": 3250,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
     "zoomDelta": 1,
     "zoomFeatures": false,
-    "id": "the-sword-coast-region",
-    "lat": 53,
-    "long": 60,
+    "id": "waterdeep-city-map",
+    "lat": 70,
+    "long": 65,
     "draw": false,
+    "unit": "feet",
     "filterTag": []
   },
   "enableDraw": false,
