@@ -22,12 +22,12 @@ tags: [tiny-d6,scene]
 
 [[Okan]] jerks awake. It is dark. Something has woken him, a nagging feeling of danger which becomes intense as he struggles to sit up. He can feel an odd sensation, almost as if something is pulling at him from the direction of the small window on the far side of the room. He shakes his head to clear it. Moonlight is dimily shining in through the window and as he moves slightly to peer out, a shadow passes across it, blocking the light for a few seconds.
 
-[[Okan]] slips out of bed, his feet making little noise on the floor.
+[[Okan]] slips out of bed, his feet making little noise on the floor. He grabs his blade and pads across to the door.
 
 > [!roll] Okan being stealthy as he crosses the room and slips out of the door.
-> **Result:** 2
+> **Result:** 2 - Fail
 
-The door creaks loudly as he eases it open, the hinges shrill in the silence of the night. He winces, pulling it open enough to slip through into the darkened corridor. As he does so he sees [[Kaapo]]'s door is already open and the young man is standing with his hand on the latch of [[Sakari]]'s door. [[Kaapo]] jumps as [[Okan]] whispers - "Did you feel it too? Something's outside."
+The door creaks loudly as he eases it open, the hinges shrill in the silence of the night. He winces, pulling it open enough to slip through into the darkened corridor. As he does so he sees [[Kaapo]]'s door is already open and the young man is standing with his hand on the latch of [[Sakari]]'s door. He is dressed and his satchel is slung over his shoulder. [[Kaapo]] jumps as [[Okan]] whispers - "Did you feel it too? Something's outside."
 
 > [!oracle] Did the something hear the creaking door?
 > **Twist Roll:** 5
@@ -54,12 +54,12 @@ The door creaks loudly as he eases it open, the hinges shrill in the silence of 
 [[Sakari]] is already moving, his huge frame silent in the darkness as he slips through the open door. As he passes them he whispers - "Follow. I go first."
 
 > [!roll] Do they get down the stairs quietly?
-> **Result:** 1
+> **Result:** 1 - Fail
 
 As they sneak quietly down the stair, [[Kaapo]] trips on a step and tumbles forwards. [[Sakari]] tries to catch him.
 
 > [!roll] Sakari tries to catch Kaapo as he falls
-> **Result:** 5
+> **Result:** 5 - Success
 
 The kahru's arm whips out and he grabs the young man by the arm as he tumbles, stopping his fall. He sets [[Kaapo]] carefully back on his feet and then looks at him through the gloom. His voice is a low growl - "Quietly my friend." They continue down the stair to the bottom and then slip along the corridor to the door of the taproom. It is deserted, the windows shuttered, the glow of the hearth the only light. [[Sakari]] murmurs - "Wait here. I go to look." and he slips quietly down the corridor towards the front of the tavern.
 
@@ -73,4 +73,10 @@ The kahru's arm whips out and he grabs the young man by the arm as he tumbles, s
 
 [[Okan]] steps around the end of the bar and begins to examine the bottles there. He's looking for something bracing. As he moves along he draws level with the door behind the bar that leads into the corridor to the kitchens. He glances down the corridor and freezes.
 
-The back door of the tavern is swinging open. Moonlight is streaming in, outlining the huge shadowed shape which is standing in the doorway, its head down. As [[Okan]] looks, the shadow creature lifts its head in a jerking motion. [[Okan]] sees that a body is on the floor beneath it's seemingly clawed feet. It rips something from the body, something that drips on the floor with a spattering sound. Then the thing 
+The back door of the tavern is swinging open. Moonlight is streaming in, outlining the huge shadowed shape which is standing in the doorway, its head down. As [[Okan]] looks, the shadow creature lifts its head in a jerking motion. [[Okan]] sees that a body is on the floor beneath it's seemingly clawed feet. It rips something from the body, something that drips on the floor with a spattering sound. Then the thing pauses. The shadowed head slowly turns towards [[Okan]] and he knows it has seen him. He steps backwards, hurriedly backing away.
+
+"Kaapo... Kaapo!!! It's here. It's in the corridor."
+
+There's a sound of something large moving in the corridor, the scrape of claws on the wooden floor. [[Okan]] backs into the bar, casting about for some sort of barricade. [[Kaapo]] is scrabbling with his bag, pulling something out.
+
+The padding steps and scra
