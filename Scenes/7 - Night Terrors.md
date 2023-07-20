@@ -29,6 +29,12 @@ tags: [tiny-d6,scene]
 
 The door creaks loudly as he eases it open, the hinges shrill in the silence of the night. He winces, pulling it open enough to slip through into the darkened corridor. As he does so he sees [[Kaapo]]'s door is already open and the young man is standing with his hand on the latch of [[Sakari]]'s door. [[Kaapo]] jumps as [[Okan]] whispers - "Did you feel it too? Something's outside."
 
+> [!oracle] Did the something hear the creaking door?
+> **Twist Roll:** 5
+> **Twist:** None
+> **Roll:** 3
+> **Outcome:** No but...
+
 [[Kaapo]] nods, his eyes wide in the gloom. There is no noise from downstairs and only an occasional distant noise from the city outside. [[Kaapo]] pushes open the door of [[Sakari]]'s room and jumps again. The kahru is standing just inside the door, his dark shape almost invisible in the gloom. His voice is a low growl - "You feel it? Something comes."
 
 [[Kaapo]] and [[Okan]] both nod. The window in [[Sakari]]'s room is smaller than in the other rooms and is set to one side such that it can be approached without anyone ... or anything ... outside seeing. [[Sakari]] pads across the floor and peers out into the night.
@@ -37,5 +43,6 @@ The door creaks loudly as he eases it open, the hinges shrill in the silence of 
 > **Twist Roll:** 1
 > **Twist:** Ruthlessly Shocking
 > **Roll:** 4
-> **Outcome:** Yes but
+> **Outcome:** Yes but...
 
+[[Sakari]] peers through the window - "Nothing there. Just the moonlight."
