@@ -61,7 +61,7 @@ As they sneak quietly down the stair, [[Kaapo]] trips on a step and tumbles forw
 > [!roll] Sakari tries to catch Kaapo as he falls
 > **Result:** 5
 
-The kahru's arm whips out and he grabs the young man by the arm as he tumbles, stopping his fall. He sets [[Kaapo]] carefully back on his feet and then looks at him through the gloom. His voice is a low growl - "Quietly my friend." They continue down the stair to the bottom and then slip along the corridor to the door of the taproom. It is deserted, the windows shuttered, the glow of the hearth the only light. [[Sakari]] murmurs - "Wait here. I go to look."
+The kahru's arm whips out and he grabs the young man by the arm as he tumbles, stopping his fall. He sets [[Kaapo]] carefully back on his feet and then looks at him through the gloom. His voice is a low growl - "Quietly my friend." They continue down the stair to the bottom and then slip along the corridor to the door of the taproom. It is deserted, the windows shuttered, the glow of the hearth the only light. [[Sakari]] murmurs - "Wait here. I go to look." and he slips quietly down the corridor towards the front of the tavern.
 
 [[Okan]] and [[Kaapo]] enter the empty bar. [[Kaapo]] pads over to the fireplace and warms his hands over the glowing embers. [[Okan]] pads over to the bar - he could do with a pick me up and this is too good a chance to miss.
 
@@ -71,3 +71,6 @@ The kahru's arm whips out and he grabs the young man by the arm as he tumbles, s
 > **Roll:** 6
 > **Outcome:** Yes and...
 
+[[Okan]] steps around the end of the bar and begins to examine the bottles there. He's looking for something bracing. As he moves along he draws level with the door behind the bar that leads into the corridor to the kitchens. He glances down the corridor and freezes.
+
+The back door of the tavern is swinging open. Moonlight is streaming in, outlining the huge shadowed shape which is standing in the doorway, its head down. As [[Okan]] looks, the shadow creature lifts its head in a jerking motion. [[Okan]] sees that a body is on the floor beneath it's seemingly clawed feet. It rips something from the body, something that drips on the floor with a spattering sound. Then the thing 
