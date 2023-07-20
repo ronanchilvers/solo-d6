@@ -54,4 +54,11 @@ The door creaks loudly as he eases it open, the hinges shrill in the silence of 
 [[Sakari]] is already moving, his huge frame silent in the darkness as he slips through the open door. As he passes them he whispers - "Follow. I go first."
 
 > [!roll] Do they get down the stairs quietly?
-> **Result:** 
+> **Result:** 1
+
+As they sneak quietly down the stair, [[Kaapo]] trips on a step and tumbles forwards. [[Sakari]] tries to catch him.
+
+> [!roll] Sakari tries to catch Kaapo as he falls
+> **Result:** 5
+
+The
