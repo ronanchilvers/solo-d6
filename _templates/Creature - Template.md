@@ -9,3 +9,4 @@ summary:
 > **HP:** 4
 > **Traits:**
 > - Trait 1
+> - Trait 2

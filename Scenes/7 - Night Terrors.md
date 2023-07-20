@@ -86,4 +86,3 @@ The padding steps and scrape of claws stops. There is silence. Then suddenly, wi
 > - Kaapo - 11
 > - Creature - 5
 > - Sakari - 7
-
