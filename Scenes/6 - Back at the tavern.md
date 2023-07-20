@@ -28,5 +28,13 @@ After dinner, [[Kaapo]] tells [[Okan]] what they learnt from [[Pallabar Reddlepo
 
 [[Kaapo]] scratches his beard in between shivers - "Think I have something. We can cast it on our rooms. I should have enough I think."
 
-> [!roll] Kaapo to cast the protective spell
-> **Result:** 
+They gather their things together and go up to their rooms. [[Kaapo]] opens his pack and brings out his precious books. Leafing through them he selects a particular parchment. 
+
+"Right - I think this will do it. It can place a protective barrier around our rooms which will alert us if broken by one with malign intent. That's what it says it does anyway!"
+
+He moves out into the corridor so he can see the doors of their rooms. Then concentrating hard, he infants the spell.
+
+> [!roll] Kaapo to cast the protective spell over their rooms
+> **Result:** 5
+
+As he finishes the last phrase of the incantation the parchment begins to smoke and then suddenly crumbles in a flash of fiery light. They feel a force descend around them, shrouding their rooms, invisible but tangible to them. [[Okan]] shudders - "I hate it when you do that.  Makes me feel funny. Going to bed." - He turns and goes into his room, the door swinging shut behind him. [[Sakari]] does the same leaving [[Kaapo]] in the corridor. He waits for a moment until he feels the magic of the spell root itself into the floor boards. Then he too vanishes into his room.
