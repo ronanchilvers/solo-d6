@@ -45,4 +45,13 @@ The door creaks loudly as he eases it open, the hinges shrill in the silence of 
 > **Roll:** 4
 > **Outcome:** Yes but...
 
-[[Sakari]] peers through the window - "Nothing there. Just the moonlight."
+[[Sakari]] peers through the window. His voice is a low rumbling whisper - "Nothing there... but I feel something." - Moonlight glints on something in the shadows next to him and [[Okan]] realises the kahru is holding his axe in one powerful paw.
+
+"What do we do?" - [[Kaapo]]'s whisper is strained, thin and reedy in the gloom.
+
+[[Okan]] whispers back - "We can't stay in here. If it's some sort of threat, we'll be caught like rats in a trap. I'd say we go downstairs, see if we can catch a glimpse of it."
+
+[[Sakari]] is already moving, his huge frame silent in the darkness as he slips through the open door. As he passes them he whispers - "Follow. I go first."
+
+> [!roll] Do they get down the stairs quietly?
+> **Result:** 
