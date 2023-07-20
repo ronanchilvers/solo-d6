@@ -6,5 +6,4 @@ tags: [tiny-d6,mechanics]
 Task
 From -"_templates"
 Where contains(tags, "thread")
-Group by file.link
 ```
