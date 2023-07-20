@@ -97,4 +97,9 @@ The creatures twists aside and [[Okan]]'s knife flashes past. As he rolls he hea
 > [!roll] Test - Kaapo casts a fireball at the creature
 > **Result:** 5
 
-Suddenly there is a burst of firey light as [[Kaapo]] finishes the spell. His hands are stretched out towards the creatures and a gush of flame blasts towards it, catching it full sideways.
+Suddenly there is a burst of firey light as [[Kaapo]] finishes the spell. His hands are stretched out towards the creatures and a gush of flame blasts towards it, catching it's full length. It howls in pain and twists away.
+
+> [!roll] Evade - The creature attempts to dodge the flames
+> **Result:** 3
+
+The creature's agility does not save it however and there is a terrible stench of scorched fur as the flames wash over it. It howls and roars in pain.
