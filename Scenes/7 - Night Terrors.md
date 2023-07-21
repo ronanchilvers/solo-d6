@@ -85,7 +85,15 @@ The padding steps and scrape of claws stops. There is silence. Then suddenly, wi
 > - Okan - 10
 > - Kaapo - 11
 > - Creature - 5
-> - Sakari - 7
+
+`class: track`
+> [!abstract] Shadow creature
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [ ] 
+> - [ ] 
 
 [[Okan]] and [[Kaapo]] yell in shock as the creature leaps at them. [[Okan]] dives to one side, rolling across the floor to get out of the way (Move), slashing out with his blade as he does so (Attack).
 
@@ -94,12 +102,63 @@ The padding steps and scrape of claws stops. There is silence. Then suddenly, wi
 
 The creatures twists aside and [[Okan]]'s knife flashes past. As he rolls he hears [[Kaapo]] shouting words of magic.
 
-> [!roll] Test - Kaapo casts a fireball at the creature
+> [!roll] Test - Kaapo casts fire at the creature (2HP on success)
 > **Result:** 5
 
-Suddenly there is a burst of firey light as [[Kaapo]] finishes the spell. His hands are stretched out towards the creatures and a gush of flame blasts towards it, catching it's full length. It howls in pain and twists away.
+Suddenly there is a burst of firey light as [[Kaapo]] finishes the spell (Attack). His hands are stretched out towards the creatures and a gush of flame blasts towards it, catching it's full length. It howls in pain and twists away.
 
 > [!roll] Evade - The creature attempts to dodge the flames
 > **Result:** 3
 
-The creature's agility does not save it however and there is a terrible stench of scorched fur as the flames wash over it. It howls and roars in pain.
+The creature's agility does not save it however and there is a terrible stench of scorched fur as the flames wash over it. It howls and roars in pain. It lashes out with a massive clawed paw at [[Okan]].
+
+> [!roll] Attack - Creatures claws Okan
+> **Result:** 3
+
+[[Okan]] manages to roll out of the way. The creature slashes at him again.
+
+> [!roll] Attack - Creature slashes a Okan again
+> **Result:** 4
+
+[[Okan]] scrambles away and the creature's claws gouge tears into the wooden floor. He shouts "SAKARI!! ITS HERE!!!" They need the kahru's axe!
+
+> [!oracle] Has Kaapo's spell set fire to the inn?
+> **Twist Roll:** -
+> **Twist:** None
+> **Roll:** 6
+> **Outcome:** Yes and...
+
+> [!abstract] Initiative
+> - Okan - 6
+> - Kaapo - 5
+> - Creature - 10
+
+The creature spins with horrible agility and leaps at [[Kaapo]], claws outstretched on both the massive front paws.
+
+> [!roll] Attack - Creature claws at Kaapo
+> **Result:** 2
+
+> [!roll] Attack - Creature claws at Kaapo
+> **Result:** 4
+
+[[Kaapo]] manages to scramble out of the way, tugging at the dagger in his belt as he does so.  [[Okan]] begins to throw things at the creature - books, logs from the fire, anything!
+
+> [!roll] Attack - Okan throws things
+> **Result:** 4
+
+> [!roll] Attack - Okan throws more things
+> **Result:** 4
+
+The books and logs seem to just bounce off the creature or go whistling past it. [[Kaapo]] bravely jumps forwards attempting to slash it with his dagger.
+
+> [!roll] Attack - Kaapo slashes with his dagger
+> **Result:** 5
+
+The creature roars as his blade bites deep.
+
+> [!roll] Attack - Kaapo stabs again
+> **Result:** 6
+
+He whips the knife away and slashes again. Blood sprays fro. The wound and the creature howls. It leaps back, the shadows closing around it as bounds over the bar counter and disappears down the corridor and out into the night.
+
+Tavern is on fire!!
