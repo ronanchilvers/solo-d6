@@ -8,4 +8,4 @@ A constant hum of busy activity pervades the warrens and neighborhoods where gno
 - 4 hit points
 - Gnomes start with the heritage trait *Skilled Tinkerer*
 
-**Skilled Tinkerer:** You are highly skilled with mechanical devices of all sorts. You gain Advantage when identifying the purpose of workings of any device.
+**Skilled Tinkerer:** You are highly skilled with mechanical devices of all sorts. You gain Advantage when identifying the purpose or workings of any device and when attempting to create complex devices.
