@@ -644,7 +644,7 @@
     },
     {
       "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1689801858589,
+      "lastAccessed": 1690028171857,
       "markers": [
         {
           "id": "ID_59da8af9783b",
@@ -719,6 +719,52 @@
       "shapes": [],
       "files": [
         "Almanac/Setting/Waterdeep Map.md"
+      ]
+    },
+    {
+      "id": "oakhaven-map",
+      "lastAccessed": 1690028171857,
+      "markers": [
+        {
+          "id": "ID_4a19781af8db",
+          "type": "default",
+          "loc": [
+            -3.5703370571136475,
+            4.211850166320801
+          ],
+          "layer": "oakhaven.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5266098376449939,
+            0.44640111678685895
+          ],
+          "description": "Town Hall",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b2a19a908ea",
+          "type": "default",
+          "loc": [
+            -3.8564453125,
+            3.56640625
+          ],
+          "layer": "oakhaven.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Oakhaven Scratchpad.md"
       ]
     }
   ],
