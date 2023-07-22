@@ -174,7 +174,7 @@
     },
     {
       "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1690028567989,
+      "lastAccessed": 1690029198531,
       "markers": [
         {
           "id": "ID_59da8af9783b",
@@ -253,7 +253,7 @@
     },
     {
       "id": "oakhaven-map",
-      "lastAccessed": 1690028567989,
+      "lastAccessed": 1690029198531,
       "markers": [
         {
           "id": "ID_4a19781af8db",
@@ -300,7 +300,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1690028567989,
+      "lastAccessed": 1690029198531,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -759,6 +759,38 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_4929483b8bd9",
+          "type": "default",
+          "loc": [
+            -1.2699785232543945,
+            3.784479081630707
+          ],
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Thana's Tower",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_e93ad85b58ca",
+          "type": "default",
+          "loc": [
+            -1.354937732219696,
+            3.605990707874298
+          ],
+          "layer": "The%20Sword%20Coast.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Oakhaven",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
         }
       ],
       "overlays": [],
