@@ -2,6 +2,6 @@
 ```leaflet
 id: oakhaven-map
 image: oakhaven.png
-defaultZoom: 7
+defaultZoom: 8
 height: 100%
 ```
