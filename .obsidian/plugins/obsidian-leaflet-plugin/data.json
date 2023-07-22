@@ -644,7 +644,7 @@
     },
     {
       "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1690028171857,
+      "lastAccessed": 1690028388535,
       "markers": [
         {
           "id": "ID_59da8af9783b",
@@ -723,7 +723,7 @@
     },
     {
       "id": "oakhaven-map",
-      "lastAccessed": 1690028171857,
+      "lastAccessed": 1690028388535,
       "markers": [
         {
           "id": "ID_4a19781af8db",
@@ -742,7 +742,7 @@
           "description": "Town Hall",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         },
         {
           "id": "ID_4b2a19a908ea",
@@ -755,10 +755,10 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
+          "description": "Dancing Goblin",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "hover"
+          "tooltip": "always"
         }
       ],
       "overlays": [],
