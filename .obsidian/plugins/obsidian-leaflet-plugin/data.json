@@ -174,7 +174,7 @@
     },
     {
       "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1690029773524,
+      "lastAccessed": 1690030577937,
       "markers": [
         {
           "id": "ID_59da8af9783b",
@@ -253,7 +253,7 @@
     },
     {
       "id": "oakhaven-map",
-      "lastAccessed": 1690029773525,
+      "lastAccessed": 1690030577937,
       "markers": [
         {
           "id": "ID_4a19781af8db",
@@ -278,13 +278,16 @@
           "id": "ID_4b2a19a908ea",
           "type": "default",
           "loc": [
-            -3.8564453125,
-            3.56640625
+            -3.8005530834198,
+            3.581456184387207
           ],
           "layer": "oakhaven.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.44779134710775337,
+            0.47518514742635837
+          ],
           "description": "Dancing Goblin",
           "minZoom": null,
           "maxZoom": null,
@@ -300,7 +303,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1690029773525,
+      "lastAccessed": 1690030577937,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
