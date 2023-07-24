@@ -4,10 +4,11 @@ tags: [tiny-d6,setting]
 ---
 ```leaflet
 id: waterdeep-city-map-dragon-heist 
-image: Waterdeep - Dragon Heist - DM Map.jpg
+image1: Waterdeep - Dragon Heist - DM Map.jpg
+image: waterdeep-3560-7256.jpg
 lat: 70
-long: 50
-defaultZoom: 9
+long: 52
+defaultZoom: 8
 height: 100%
 draw: false
 scale: 3250

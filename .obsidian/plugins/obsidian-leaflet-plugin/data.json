@@ -675,85 +675,6 @@
       ]
     },
     {
-      "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1690042412678,
-      "markers": [
-        {
-          "id": "ID_59da8af9783b",
-          "type": "default",
-          "loc": [
-            -5.87622606754303,
-            3.1306723058223724
-          ],
-          "link": "The Splintered Stair",
-          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_185b5a690a08",
-          "type": "default",
-          "loc": [
-            -5.8899452686309814,
-            2.862852841615677
-          ],
-          "link": "The Jolly Guardian",
-          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_aacaa98b5be8",
-          "type": "default",
-          "loc": [
-            -3.4092100262641907,
-            2.124557912349701
-          ],
-          "link": "Font of Knowledge",
-          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_091b0a3b690a",
-          "type": "default",
-          "loc": [
-            -6.347861468791962,
-            3.3838911652565002
-          ],
-          "link": "Pallabar Reddlepop",
-          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Pallabar Reddlepop's Shop",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Almanac/Setting/Waterdeep Map.md"
-      ]
-    },
-    {
       "id": "oakhaven-map",
       "lastAccessed": 1690208859309,
       "markers": [
@@ -799,6 +720,77 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "waterdeep-city-map-dragon-heist",
+      "lastAccessed": 1690234426919,
+      "markers": [
+        {
+          "id": "ID_59da8af9783b",
+          "type": "default",
+          "loc": [
+            -9.75912058353424,
+            3.86816668510437
+          ],
+          "link": "The Splintered Stair",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.556320601902651,
+            0.6886259287168593
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_185b5a690a08",
+          "type": "default",
+          "loc": [
+            -9.835839748382568,
+            3.5232226252555847
+          ],
+          "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5067106696996796,
+            0.6940394089266642
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_091b0a3b690a",
+          "type": "default",
+          "loc": [
+            -10.40398645401001,
+            4.180006980895996
+          ],
+          "link": "Pallabar Reddlepop",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6011695433198736,
+            0.7341291433921066
+          ],
+          "description": "Pallabar Reddlepop's Shop",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Waterdeep Map.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -832,7 +824,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 9,
+    "defaultZoom": 8,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -840,11 +832,11 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "height": "100%",
-    "image": "Waterdeep - Map.jpg",
+    "image": "waterdeep-3560-7256.jpg",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "Waterdeep - Map.jpg"
+      "waterdeep-3560-7256.jpg"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -864,9 +856,10 @@
     "verbose": false,
     "zoomDelta": 1,
     "zoomFeatures": false,
-    "id": "waterdeep-city-map",
+    "id": "waterdeep-city-map-dragon-heist",
+    "image1": "Waterdeep - Dragon Heist - DM Map.jpg",
     "lat": 70,
-    "long": 65,
+    "long": 52,
     "draw": false,
     "unit": "feet",
     "filterTag": []
