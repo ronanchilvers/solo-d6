@@ -90,9 +90,141 @@
       ]
     },
     {
+      "id": "waterdeep-city-map",
+      "locked": false,
+      "lastAccessed": 1689714482060,
+      "markers": [
+        {
+          "id": "ID_9bcb3809f988",
+          "type": "default",
+          "loc": [
+            -5.145335674285889,
+            2.629007717999484
+          ],
+          "link": "The Splintered Stair",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5948086396887918,
+            0.6586029663085937
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_d96bf83bb879",
+          "type": "default",
+          "loc": [
+            -5.242548286914825,
+            2.3884419627804316
+          ],
+          "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_a93959d9f89b",
+          "type": "default",
+          "loc": [
+            -4.218148857355118,
+            3.0208414243236525
+          ],
+          "link": "Lina Devdan's House",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_5bea6a2ae878",
+          "type": "default",
+          "loc": [
+            -3.020826578140259,
+            2.3721231818199158
+          ],
+          "link": "The Font of Knowledge",
+          "layer": "Waterdeep%20-%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Waterdeep Map.md"
+      ]
+    },
+    {
+      "id": "oakhaven-map",
+      "lastAccessed": 1690030577937,
+      "markers": [
+        {
+          "id": "ID_4a19781af8db",
+          "type": "default",
+          "loc": [
+            -3.5703370571136475,
+            4.211850166320801
+          ],
+          "layer": "oakhaven.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5266098376449939,
+            0.44640111678685895
+          ],
+          "description": "Town Hall",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_4b2a19a908ea",
+          "type": "default",
+          "loc": [
+            -3.8005530834198,
+            3.581456184387207
+          ],
+          "layer": "oakhaven.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44779134710775337,
+            0.47518514742635837
+          ],
+          "description": "Dancing Goblin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Oakhaven Scratchpad.md"
+      ]
+    },
+    {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1689801245074,
+      "lastAccessed": 1690039793193,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -551,86 +683,35 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Almanac/Setting/Regional Map.md"
-      ]
-    },
-    {
-      "id": "waterdeep-city-map",
-      "locked": false,
-      "lastAccessed": 1689714482060,
-      "markers": [
+        },
         {
-          "id": "ID_9bcb3809f988",
+          "id": "ID_4929483b8bd9",
           "type": "default",
           "loc": [
-            -5.145335674285889,
-            2.629007717999484
+            -1.2699785232543945,
+            3.784479081630707
           ],
-          "link": "The Splintered Stair",
-          "layer": "Waterdeep%20-%20Map.jpg",
+          "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
-          "percent": [
-            0.5948086396887918,
-            0.6586029663085937
-          ],
-          "description": null,
+          "percent": null,
+          "description": "Thana's Tower",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
         },
         {
-          "id": "ID_d96bf83bb879",
+          "id": "ID_e93ad85b58ca",
           "type": "default",
           "loc": [
-            -5.242548286914825,
-            2.3884419627804316
+            -1.354937732219696,
+            3.605990707874298
           ],
-          "link": "The Jolly Guardian",
-          "layer": "Waterdeep%20-%20Map.jpg",
+          "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_a93959d9f89b",
-          "type": "default",
-          "loc": [
-            -4.218148857355118,
-            3.0208414243236525
-          ],
-          "link": "Lina Devdan's House",
-          "layer": "Waterdeep%20-%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_5bea6a2ae878",
-          "type": "default",
-          "loc": [
-            -3.020826578140259,
-            2.3721231818199158
-          ],
-          "link": "The Font of Knowledge",
-          "layer": "Waterdeep%20-%20Map.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
+          "description": "Oakhaven",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
@@ -639,7 +720,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Almanac/Setting/Waterdeep Map.md"
+        "Almanac/Setting/Regional Map.md"
       ]
     },
     {
