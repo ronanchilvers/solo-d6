@@ -76,4 +76,4 @@ The boy wrenches his arm free looking back with terror - "Let go! Let go!!! It's
 He pulls his cloak a tighter around him and sets off, following a different path that will not take him near the alley entrance.
 
 > [!question] Thread
-> - [ ] #thread What was the creature in the shadows? 
+> - [x] #thread What was the creature in the shadows?

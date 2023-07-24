@@ -6,4 +6,5 @@ tags: [tiny-d6,mechanics]
 Task
 From -"_templates"
 Where contains(tags, "thread")
+Sort created ascending
 ```

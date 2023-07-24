@@ -1,7 +1,7 @@
 ---
 created: 2023-07-12 08:16
 tags: [tiny-d6,npc]
-aliases: Armas
+aliases: Armas, Master Valtaistuin
 summary: Theatrical kahru leader of the Shatterfists
 ---
 > [!abstract] Stats

@@ -33,11 +33,14 @@ They are standing outside a moderately well appointed town house - nothing too f
 > [!roll] UNE - Roll for the steward who opens the door
 > **Result:** 78 - depress, 29 - academia, 80 - Ranjeet
 
+> [!question] Thread
+> - [ ] #thread Why is Ranjeet "Depress Academia"?
+
 The door swings open, revealing a steward dressed in smart uniform.
 
 "Yes?" His tone is curt and he looks them up and down with distaste. [[Okan]]'s manner is a lesson in politeness as he sweeps a bow and says
 
-"We are here to meet the most esteemed Lina Devdan. We understand she has had a little trouble and desires our assisstance in setting matters right?"
+"We are here to meet the most esteemed Lina Devdan. We understand she has had a little trouble and desires our assistance in setting matters right?"
 
 The man frowns - "Wait." - and closes the door. [[Kaapo]] smiles weakly at [[Okan]] - "He seems a little out of sorts." [[Okan]] nods - "That, my friend, is the understatement of the year!"
 
@@ -54,7 +57,7 @@ They are led into a large room, well furnished but not too opulent. A woman is s
 
 The steward bows, glares at them and leaves, presumably to bring wine. [[Okan]] again does his politest bow.
 
-"My lady - it is a delight to meet you and yes, a small glass of wine would be most welcome. The day is hot and the streets are dusty. Ones throat becomes parched, I find. My name is Okan Ladang and this is Kaapo Torni."
+"My lady - it is a delight to meet you and yes, a small glass of wine would be most welcome. The day is hot and the streets are dusty. One's throat becomes parched, I find. My name is Okan Ladang and this is Kaapo Torni."
 
 [[Lady Devdan]] smiles and indicates a couple of chairs opposite her. 
 
@@ -130,6 +133,6 @@ The lady inclines her head.
 
 [[Lina Devdan|Lady Devdan]] smiles warmly and then leans forward slightly. She holds out a small leather bag which chinks. [[Okan]] takes it, a little too quickly! She pauses a moment before she releases it to him.
 
-"I expect results gentlemen. Do not tarry." - She hols their gaze for a few moments then says - "Ranjeet will give you full details of what happened."
+"I expect results gentlemen. Do not tarry." - She holds their gaze for a few moments then says - "Goodbye. I hope to hear news soon."
 
 [[Okan]] and [[Kaapo]] bow their way out of her presence. Ranjeet shows them to the door. [[Okan]] retains his composure for around 30 seconds before turning and impromptu cartwheel in the street!

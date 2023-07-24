@@ -28,7 +28,7 @@ tags: [tiny-d6,scene]
 
 [[Okan]] leans forward, speaking in low tones.
 
-"Before I arrived in Waterdeep, before I met you two, I spent some time down south in Baldur's Gate. I met a warrior there. He was named Fanir. He had worked with a group of warriors and thieves for a time and told me some of their secrets. It seems that when they had need of a little more luck or surety about their activities, they sometimes take a drug which gives them ... an advantage. He had a little with him - it had exactly that scent."
+"Before I arrived in Waterdeep, before I met you two, I spent some time down south in Baldur's Gate. I met a warrior there. He was named Fanir. He had worked with a group of warriors and thieves for a time and told me some of their secrets. It seems that when they had need of a little more luck or surety about their activities, they sometimes take a drug which gives them ... an advantage. They called it Arachnid. He had a little with him - it had exactly that scent."
 
 [[Kaapo]]'s face has gone a little white - "Warriors? Thieves? Ad.. advantage? That sounds dangerous! We don't want that sort of trouble... do we?"
 

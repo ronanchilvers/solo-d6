@@ -159,6 +159,27 @@ The creature roars as his blade bites deep.
 > [!roll] Attack - Kaapo stabs again
 > **Result:** 6
 
-He whips the knife away and slashes again. Blood sprays fro. The wound and the creature howls. It leaps back, the shadows closing around it as bounds over the bar counter and disappears down the corridor and out into the night.
+He whips the knife away and slashes again. Blood sprays from the wound and the creature howls. It leaps back, the shadows closing around it as bounds over the bar counter, down the corridor and out into the night.
 
-Tavern is on fire!!
+Okan and Kaapo stand for a moment, panting, trying to catch their breath. Then Kaapo says - "Oops!" - flames from his spell are licking along the bar top. Okan rushes over and begins to beat them out with his coat. Kaapo joins him.
+
+> [!oracle] Do they manage to put the fire out before it does a lot of damage?
+> **Twist Roll:** 2
+> **Twist:** None
+> **Roll:** 4
+> **Outcome:** Yes but...
+
+They beat the flames out but not before they have scorched the bar top badly. As they are doing so, other guests begin to appear, having been woken by the tumult. There are cries of alarm and horror as they find the remains of the landlord in the corridor.
+
+> [!oracle] Are Okan and Kaapo accused of murdering him?
+> **Twist Roll:** 2
+> **Twist:** None
+> **Roll:** 5
+> **Outcome:** Yes
+
+As Okan and Kaapo explain what happened the crowd begins to turn rather nasty. There are shouts of "Liars!" and "I don't trust goblinkin!". Okan senses the crowd is turning ugly and begins to edge to the door, Kaapo with him.
+
+Someone in the crowd yells "Grab them! Call the militia!! Murderers!!!". Okan seizes the opportunity, mutters "Run!!!" to Kaapo and sprints down the corridor, past the landlord's body and out into the street, Kaapo on his heels.
+
+> [!question] Thread
+> - [ ] #thread Prove they didn't murder the landlord of The Splintered Stair 

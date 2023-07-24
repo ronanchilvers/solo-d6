@@ -20,6 +20,14 @@ Where contains(file.tags, "setting")
 Sort file.name
 ```
 
+# Mechanics
+```dataview
+List
+From -"_templates"
+Where contains(file.tags, "mechanics") 
+Sort file.name
+```
+
 # Characters
 ```dataview
 List 
@@ -34,14 +42,6 @@ List
 From -"_templates"
 Where contains(file.tags, "scene") 
 Sort file.name desc
-```
-
-# Mechanics
-```dataview
-List
-From -"_templates"
-Where contains(file.tags, "mechanics") 
-Sort file.name
 ```
 
 # Creatures
