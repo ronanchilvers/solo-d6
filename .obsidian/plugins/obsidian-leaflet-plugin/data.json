@@ -725,7 +725,7 @@
     },
     {
       "id": "waterdeep-city-map-dragon-heist",
-      "lastAccessed": 1690058353111,
+      "lastAccessed": 1690042412678,
       "markers": [
         {
           "id": "ID_59da8af9783b",
@@ -752,6 +752,23 @@
             2.862852841615677
           ],
           "link": "The Jolly Guardian",
+          "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_aacaa98b5be8",
+          "type": "default",
+          "loc": [
+            -3.4092100262641907,
+            2.124557912349701
+          ],
+          "link": "Font of Knowledge",
           "layer": "Waterdeep%20-%20Dragon%20Heist%20-%20DM%20Map.jpg",
           "mutable": true,
           "command": false,
