@@ -1,7 +1,7 @@
 {
   "livePreview": false,
   "defaultViewMode": "preview",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "readableLineLength": false,
   "pdfExportSettings": {
     "includeName": true,
