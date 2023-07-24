@@ -2,7 +2,7 @@
 created: 2023-07-23 21:06
 tags: [tiny-d6,npc]
 aliases:
-summary: 
+summary: Serene Magister
 une: Serene Magister
 ---
 > [!abstract] Stats
