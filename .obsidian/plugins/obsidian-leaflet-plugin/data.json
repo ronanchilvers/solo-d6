@@ -755,7 +755,7 @@
     },
     {
       "id": "oakhaven-map",
-      "lastAccessed": 1690387096121,
+      "lastAccessed": 1690387545806,
       "markers": [
         {
           "id": "ID_4a19781af8db",
@@ -799,6 +799,33 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "waterdeep-city-map-with-markers",
+      "lastAccessed": 1690387545806,
+      "markers": [
+        {
+          "id": "ID_0ad869c968ca",
+          "type": "default",
+          "loc": [
+            -9.703125,
+            3.8798828125
+          ],
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Waterdeep City Map.md"
+      ]
     }
   ],
   "defaultMarker": {
