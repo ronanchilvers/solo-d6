@@ -136,3 +136,6 @@ The lady inclines her head.
 "I expect results gentlemen. Do not tarry." - She holds their gaze for a few moments then says - "Goodbye. I hope to hear news soon."
 
 [[Okan]] and [[Kaapo]] bow their way out of her presence. Ranjeet shows them to the door. [[Okan]] retains his composure for around 30 seconds before turning and impromptu cartwheel in the street!
+
+> [!question] Thread
+> - [ ] #thread Find the stolen cup belonging to Lina Devdan 
