@@ -38,4 +38,10 @@ They take their leave and find themselves on the street outside. It isn't long a
 
 Okan scratches his head - "Well my friend - we have a problem. We have a murder on our hands, Sakari is gods know where and we still need to find this damned cup if we're to have any chance of getting our cash. We have some decisions to make about our next steps I think!"
 
-Kaapo is looking up the street. He grins widely - "Well that's one problem fixed Okan. Look!" - He points and Okan turns to see the huge shape of Sakari walking down the street towards them. He is eating a large l
+Kaapo is looking up the street. He grins widely - "Well that's one problem fixed Okan. Look!" - He points and Okan turns to see the huge shape of Sakari walking down the street towards them. He is eating a large leg of meat, holding it in one hand while he walks and tearing off chunks with his teeth. He sees them and a large grin spreads across his face, bits of the meat falling from his jaws as he does so.
+
+"Okan! Kaapo!! I thought I might find you here!"
+
+Okan shakes his head - "At least we've all had a good breakfast!"
+
+END
