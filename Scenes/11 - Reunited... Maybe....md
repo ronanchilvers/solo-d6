@@ -22,4 +22,10 @@ Okan does his best concerned voice - "Oh I am sorry Kaapo - my chair creaked a b
 
 Kaapo blinks and yawns, rubbing his eyes - "No problem Okan. No problem at all... probably time I woke up anyway!"
 
-Okan goes in search of some tea or coffee and finds [[Rauf]] in the kitchen behind the bar, already up and having his own breakfast. The man is distant and cold but offers Okan breakfast. Kaapo joins him and they eat breakfast, a fairly silent affair since [[Rauf]] refuses to be drawn into conversation in any way. They've fin
+Okan goes in search of some tea or coffee and finds [[Rauf]] in the kitchen behind the bar, already up and having his own breakfast. The man is distant and cold but offers Okan breakfast. Kaapo joins him and they eat breakfast, a fairly silent affair since [[Rauf]] refuses to be drawn into conversation in any way.
+
+Finally, [[Rauf]] says - "You realise of course that [[Armas Valtaistuin|Master Valtaistuin]] will expect re-payment of his hospitality. He will expect a service from you commensurate with the service he has provided."
+
+Okan only just stops himself describing how uncomfortable the chairs were in graphic detail and instead says - "We shall be only too delighted to oblige Armas. We'll be on our way now - if you could pass on our best regards I'd be very grateful" - he grins broadly, giving the man a good view of his canines! [[Rauf]] sniffs and nods.
+
+They take their leave and find themselves on the street outside. It isn't long after sun
