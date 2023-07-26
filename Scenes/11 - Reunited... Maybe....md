@@ -3,7 +3,7 @@ created: 2023-07-24 22:18
 tags: [tiny-d6,scene]
 ---
 > [!scene] Sakari, Okan and Kaapo are reunited and share discoveries
-> **Weather:** Fair
+> **Weather:** Clear, sunny day
 > **Location:** The Jolly Guardian, Waterdeep
 > **Scene roll:** 3
 > **Scene Type:** Dramatic
@@ -28,4 +28,14 @@ Finally, [[Rauf]] says - "You realise of course that [[Armas Valtaistuin|Master 
 
 Okan only just stops himself describing how uncomfortable the chairs were in graphic detail and instead says - "We shall be only too delighted to oblige Armas. We'll be on our way now - if you could pass on our best regards I'd be very grateful" - he grins broadly, giving the man a good view of his canines! [[Rauf]] sniffs and nods.
 
-They take their leave and find themselves on the street outside. It isn't long after sun
+They take their leave and find themselves on the street outside. It isn't long after dawn and the streets glitter wetly in the morning sun. Other townsfolk are going about their business.
+
+> [!oracle] Is everything as they expect?
+> **Twist Roll:** 5
+> **Twist:** None
+> **Roll:** 3
+> **Outcome:** No but...
+
+Okan scratches his head - "Well my friend - we have a problem. We have a murder on our hands, Sakari is gods know where and we still need to find this damned cup if we're to have any chance of getting our cash. We have some decisions to make about our next steps I think!"
+
+Kaapo is looking up the street. He grins widely - "Well that's one problem fixed Okan. Look!" - He points and Okan turns to see the huge shape of Sakari walking down the street towards them. He is eating a large l
