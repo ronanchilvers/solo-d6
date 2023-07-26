@@ -16,4 +16,10 @@ Okan jerks awake to find the early sunrise sneaking through the shutters. He gro
 > **Roll:** 5
 > **Outcome:** Yes
 
-He stretches and then, seeing Kaapo still sleeping, accidentally-on0
+He stretches and then, seeing Kaapo still sleeping, accidentally-on-purpose scrapes his chair on the floor, making a loud screech. Kaapo wakes with a jump - "Whassat!! Where... wha..."
+
+Okan does his best concerned voice - "Oh I am sorry Kaapo - my chair creaked a bit there and I was trying to be so careful and not wake you up!"
+
+Kaapo blinks and yawns, rubbing his eyes - "No problem Okan. No problem at all... probably time I woke up anyway!"
+
+Okan goes in search of some tea or coffee and finds [[Rauf]] in the kitchen behind the bar, already up and having his own breakfast. The man is distant and cold but offers Okan breakfast. Kaapo joins him and they eat breakfast, a fairly silent affair since [[Rauf]] refuses to be drawn into conversation in any way. They've fin
