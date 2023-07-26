@@ -61,6 +61,6 @@ He freezes, waiting to see if anything happens, watching the entrance to the bui
 Sakari begins to wonder if he can risk moving when a dim glow appears at the top of the building. Gradually the glow moves, lighting up the very tip of the odd but highly intricate gargoyles on the roof. Sakari is, for a moment, confused and then realises - sunrise! Sakari sees the shadow in the entrance move and vanish into the depths of the building. Without wasting any more time, he pads quietly away, taking care not to disturb any more of the stonework. Once he is a safe distance away, he relaxes and begins to make his way back across town to the docks, intent on finding Okan and Kaapo. They must know about his discoveries!
 
 > [!question] Thread
-> - [ ] #thread Why is Ranjeet seemingly involved with the creature somehow?
+> - [ ] #thread Is Ranjeet involved with the creature somehow?
 
 END
