@@ -7,3 +7,5 @@ tags: [tiny-d6,scene]
 > **Location:** The docks, Waterdeep
 > **Scene roll:** 1
 > **Scene Type:** Dramatic
+
+The three of them are sitting 

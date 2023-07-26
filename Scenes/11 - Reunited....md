@@ -44,4 +44,7 @@ Kaapo is looking up the street. He grins widely - "Well that's one problem fixed
 
 Okan shakes his head - "At least we've all had a good breakfast!"
 
+> [!question] Thread
+> - [ ] #thread Okan and Kaapo owe Armas a favour 
+
 END
