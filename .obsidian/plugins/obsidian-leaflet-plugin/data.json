@@ -754,8 +754,56 @@
       ]
     },
     {
+      "id": "oakhaven-map",
+      "lastAccessed": 1690387663353,
+      "markers": [
+        {
+          "id": "ID_4a19781af8db",
+          "type": "default",
+          "loc": [
+            -3.5703370571136475,
+            4.211850166320801
+          ],
+          "layer": "oakhaven.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5266098376449939,
+            0.44640111678685895
+          ],
+          "description": "Town Hall",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_4b2a19a908ea",
+          "type": "default",
+          "loc": [
+            -3.8005530834198,
+            3.581456184387207
+          ],
+          "layer": "oakhaven.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44779134710775337,
+            0.47518514742635837
+          ],
+          "description": "Dancing Goblin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
       "id": "waterdeep-city-map-with-markers",
-      "lastAccessed": 1690387592561,
+      "locked": false,
+      "lastAccessed": 1690387663353,
       "markers": [
         {
           "id": "ID_0ad869c968ca",
@@ -817,53 +865,6 @@
       "files": [
         "Almanac/Setting/Waterdeep City Map.md"
       ]
-    },
-    {
-      "id": "oakhaven-map",
-      "lastAccessed": 1690387603821,
-      "markers": [
-        {
-          "id": "ID_4a19781af8db",
-          "type": "default",
-          "loc": [
-            -3.5703370571136475,
-            4.211850166320801
-          ],
-          "layer": "oakhaven.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5266098376449939,
-            0.44640111678685895
-          ],
-          "description": "Town Hall",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_4b2a19a908ea",
-          "type": "default",
-          "loc": [
-            -3.8005530834198,
-            3.581456184387207
-          ],
-          "layer": "oakhaven.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.44779134710775337,
-            0.47518514742635837
-          ],
-          "description": "Dancing Goblin",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": []
     }
   ],
   "defaultMarker": {
