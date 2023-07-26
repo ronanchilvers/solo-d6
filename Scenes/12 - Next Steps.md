@@ -8,4 +8,4 @@ tags: [tiny-d6,scene]
 > **Scene roll:** 1
 > **Scene Type:** Dramatic
 
-The three of them are sitting on the dock. Okan is eating an apple that he managed to pilfer as they made their way to the waterfront. They are at the less salubrious end of the docks, down by 
+The three of them are sitting on the dock. Okan is eating an apple that he managed to pilfer as they made their way to the waterfront. They are at the less salubrious end of the docks, down by Spices Street. The tide is out and the mud flats are shimmering in the morning sun, small burps of gaseous fumes occasionally disturbing the surface. Sakari is seated with his back against a 
