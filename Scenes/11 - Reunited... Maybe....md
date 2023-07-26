@@ -7,4 +7,3 @@ tags: [tiny-d6,scene]
 > **Location:** The Jolly Guardian, Waterdeep
 > **Scene roll:** 3
 > **Scene Type:** Dramatic
-
