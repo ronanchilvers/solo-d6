@@ -7,7 +7,7 @@ created: 2023-07-07 11:29
 
 An artifact has been stolen from a merchant in the Trade Ward. Their potential employer, a human merchant named [[Lina Devdan]] has asked to meet them to discuss the matter. They have two leads:
 
-- A sack made from the skin of some unknown creature
+- A scrap of skin from some unknown creature
 - A small wooden box (with a secret compartment)
 
 These were found after the robbery took place.
@@ -37,6 +37,12 @@ Sort file.name
 ```
 
 # Scenes
+```button
+name Create new scene
+type command
+action Quickadd: New Scene
+```
+^button-new-scene
 ```dataview
 List
 From -"_templates"

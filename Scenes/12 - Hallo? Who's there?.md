@@ -35,4 +35,4 @@ Okan nods - "Right. Saki - you and I will sneak over there and get a peek in the
 > [!roll] Test - Do they creep well? (Stealth)
 > **Result:** 5
 
-Kaapo is following a little way behind. Okan suddenly hears a gasp and then a crunching, crumbling sound. He looks back and sees Kaapo half submerged in a grave. He had put his foot on the wrong part of one of the smaller tombs and it gave way, his foot plunging through init the coffin beneath.
+Kaapo is following a little way behind. Okan suddenly hears a gasp and then a crunching, crumbling sound. He looks back and sees Kaapo half submerged in a grave. He had put his foot on the wrong part of one of the smaller tombs and it gave way, his foot plunging through into the coffin beneath.
