@@ -1,5 +1,6 @@
 ---
 created: 2023-07-10 20:45
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene]  The player characters, now back at the Splintered Stair, discuss plans to begin their search

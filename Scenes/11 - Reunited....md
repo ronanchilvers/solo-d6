@@ -1,5 +1,6 @@
 ---
 created: 2023-07-24 22:18
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene] Sakari, Okan and Kaapo are reunited and share discoveries

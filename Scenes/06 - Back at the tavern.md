@@ -1,5 +1,6 @@
 ---
 created: 2023-07-19 23:27
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene] The characters catch up on their findings

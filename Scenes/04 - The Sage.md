@@ -1,5 +1,6 @@
 ---
 created: 2023-07-14 19:31
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene] 

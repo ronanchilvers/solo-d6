@@ -1,5 +1,6 @@
 ---
 created: 2023-07-11 22:27
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene] Okan attempts to make enquiries about the pendant and it's owner

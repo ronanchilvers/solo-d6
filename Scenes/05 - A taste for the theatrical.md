@@ -1,5 +1,6 @@
 ---
 created: 2023-07-19 21:20
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene] Speak to [[Armas Valtaistuin]] to see if he knows who Wellby is

@@ -1,3 +1,7 @@
+---
+created: 2023-07-31 23:04
+tags: [tiny-d6,engines]
+---
 # Oracle
 
 Extremely Unlikely: `dice: 3d6dh2`

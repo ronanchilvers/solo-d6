@@ -1,5 +1,6 @@
 ---
 created: 2023-07-23 22:24
+gme: tss
 tags: [tiny-d6,scene]
 ---
 > [!scene] Sakari follows the Shadowclaw Lynx

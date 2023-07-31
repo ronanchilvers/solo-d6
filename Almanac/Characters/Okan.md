@@ -19,6 +19,8 @@ aliases: Okan Ladang
 > - Lucky - Re-roll 1 test per session
 > - Perceptive - Advantage on Testing to gain information even when asleep
 > - Quick Shot - Reload and fire ranged weapons in 1 round
+> - Sneaky - You gain Advantage when Testing to hide or sneak around without others noticing you
+> - Trapmaster - You gain Advantage when Testing to create, locate and disarm traps. You also gain Advantage on Save Tests against traps.
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
@@ -30,6 +32,8 @@ aliases: Okan Ladang
 > - [ ] 
 > - [ ] 
 > - [ ] 
+> - [ ]
+> - [ ]
 > 
 > (Add / remove HP boxes as required)
 
@@ -62,4 +66,4 @@ aliases: Okan Ladang
 > 
 > | Remaining | Spent | Total |
 > | -- | -- | -- |
-> | 8 | 0 | 0 |
+> |1 | 32 | 33 |
