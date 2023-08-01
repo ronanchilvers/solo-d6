@@ -37,10 +37,8 @@ aliases: Sakari Vinha, Saki
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ]
-> - [ ]
-> 
-> (Add / remove HP boxes as required)
+> - [ ] 
+> - [ ] 
 
 > [!help]- Combat
 > - Test to determine attack outcome

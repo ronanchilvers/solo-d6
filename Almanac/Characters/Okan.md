@@ -32,10 +32,8 @@ aliases: Okan Ladang
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ]
-> - [ ]
-> 
-> (Add / remove HP boxes as required)
+> - [ ] 
+> - [ ] 
 
 > [!help]- Combat
 > - Test to determine attack outcome

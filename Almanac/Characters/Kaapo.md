@@ -37,8 +37,6 @@ aliases: Kaapo Torni
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> 
-> (Add / remove HP boxes as required)
 
 > [!help]- Combat
 > - Test to determine attack outcome
