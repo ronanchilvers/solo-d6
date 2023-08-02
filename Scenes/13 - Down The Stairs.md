@@ -58,4 +58,64 @@ He recognises a faint scent on the cloth as the same scent he smelt in the taver
 > [!roll] Test - Find blood or other signs the creature is here.
 > **Result:** 5
 
-Sakari turns over the cloths with one tentative foot. There are blood stains on the cloth.
+Sakari turns over the cloths with one tentative foot. There are blood stains on the cloth. Kaapo grabs the parchments and stuffs them into his bag. "Lair? Don't like the sound of that. Let's go!" His whisper is a little shrill.
+
+Okan shakes his head - "I want to know what's going on down here. Besides - I want to know who that was who came in here AND we have unfinished business with that big cat. I want to introduce it to Sakari!" The big kahru chuckles, a noise somewhere between a growl and a laugh. Okan turns to the two doorways - "Which one do you think?" He steps towards the nearest and cocks his head to listen.
+
+> [!oracle] Does he hear anything?
+> **Roll:** 54
+> **Outcome:** No
+> **Random Event:** None
+
+He sniffs, testing the air.
+
+> [!roll] Test - Check for traps
+> **Result:** 5
+
+> [!oracle] Are there any traps?
+> **Roll:** 60
+> **Outcome:** No
+> **Random Event:** None
+
+Okan gives a small murmur of consideration before stepping over to the other doorway. Again he listens.
+
+> [!oracle] Does he hear anything?
+> **Roll:** 94
+> **Outcome:** No
+> **Random Event:** None
+
+Again there is nothing but the slight drip of water somewhere in the darkness. He peers into the gloom, checking the walls and arch of the door.
+
+> [!roll] Test - Check for traps
+> **Result:** 5
+
+> [!oracle] Is there a trap?
+> **Roll:** 62
+> **Outcome:** No
+> **Random Event:** None
+
+He steps back. "Not much to choose between them. I've always liked left - let's go left." He steps forward into the left hand doorway and they begin to cautiously edge along the tunnel. After a few steps Okan halts and whispers - "Wait! It's blocked - there's a gate."
+
+> [!roll] Test - Detect traps
+> **Result:** 6
+
+His tone becomes urgent - "There's something wrong here. Go back - carefully!" He edges away from the gate and as he does so a thin swirl of gaseous mist ebbs out around it. He throws his arm across his face - "Back back back!!"
+
+They emerge back into the previous room again. Sakari nods at the other doorway - "That one then?" - Kaapo says - "Maybe I could stay here? I mean we don't all need to go down there... do we?" 
+
+Okan gives Kaapo a 'look' - "What about your little light? We'll need it! You follow behind us." - He turns to Sakari - "Saki - I think it might be a good idea if you led the way - just in case that cat thing decides it wants to play!?" Sakari nods and steps forwards into the tunnel, his huge frame almost filling it. Kaapo's light flits ahead of them.
+
+> [!roll] Test - Stealth
+> **Result:** 6
+
+Sakari pads down the tunnel, his movements silent despite his huge frame. Okan follows behind. The tunnel twists and after a few moments they see a dim light round a corner ahead of them. Okan whispers - "Kaapo - douse that light." The floating orb immediately winks out, leaving them momentarily in blackness. As their eyes grow accustomed to the dark, the dim glimmer of torchlight is discernible again.
+
+> [!roll] Test - Sakari listens for noise
+> **Result:** 6
+
+> [!oracle] Can he hear the lynx?
+> **Roll:** 60
+> **Outcome:** Yes
+> **Random Event:** None
+
+Sakari holds up a paw - "Listen!". A sound comes to them down the tunnel, a thin whimper, as of a wounded animal.
