@@ -118,4 +118,11 @@ Sakari pads down the tunnel, his movements silent despite his huge frame. Okan f
 > **Outcome:** Yes
 > **Random Event:** None
 
-Sakari holds up a paw - "Listen!". A sound comes to them down the tunnel, a thin whimper, as of a wounded animal.
+> [!oracle] Does he hear whimpering?
+> **Roll:** 22
+> **Outcome:** Yes
+> **Random Event:** PC Negative, Relinquish Riches / Officially Rotten, 
+
+Sakari holds up a paw - "Listen!". A sound comes to them down the tunnel, a thin whimper, as of a wounded animal. Then there is silence. Sakari edges forwards along the tunnel towards the source of light, Okan behind him. Kaapo stays back a little. Sakari reaches the end of the tunnel. He holds a paw up to Okan indicating he should stay back and then carefully and slowly inches forward so he can see into the room.
+
+The room is quite large with a low ceiling. In the centre is a raised dais with an altar on it. Standing before the altar, arms raised, is a figure.
