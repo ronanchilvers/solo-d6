@@ -1,9 +1,6 @@
 ```dataview
-Table 
-	file.folder as Folder,
-	join(tags, ",") as Tags,
-	gme as Emulator
+List sort(rows.file.link)
 From -"_templates"
-Where file.name != "Index"
-Sort file.folder
+Where file.folder != ""
+Group by file.folder
 ```
