@@ -7,7 +7,7 @@ id: waterdeep-city-map-with-markers
 image: waterdeep-3560-7256.jpg
 lat: 72
 long: 55
-defaultZoom: 9
+defaultZoom: 7
 height: 100%
 draw: false
 scale: 1500
