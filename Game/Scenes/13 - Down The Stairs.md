@@ -172,7 +172,7 @@ Claws rake his side and he grunts in pain, blood welling from the wound.
 > 
 > - [x] 
 > - [x] 
-> - [ ] 
+> - [x] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
@@ -187,4 +187,12 @@ The lynx is slammed against the wall of the tunnel. It yelps in pain. Sakari whi
 > [!roll] Attack - Sakari axes the lynx
 > **Result:** 5
 
-The axe bites deep into the creatures flank and it bellows in pain but as it does so Okan hurls 
+The axe bites deep into the creatures flank and it bellows in pain but as it does so, Okan hurls his dagger at it.
+
+> [!roll] Attack - Okan throws his dagger
+> **Result:** 6
+
+> [!roll] Evade - The lynx twists and blurs to evade the attack
+> **Result:** 2
+
+The blade slashes a long gash in the creature's hide and it roars again in pain. Okan, pulls his bow 
