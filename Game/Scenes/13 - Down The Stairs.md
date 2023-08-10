@@ -166,3 +166,25 @@ Claws rake his side and he grunts in pain, blood welling from the wound.
 > - Okan - 6
 > - Unknown figure - 6
 > - Kaapo - 4
+
+`class: track`
+> [!abstract] Lynx
+> 
+> - [x] 
+> - [x] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+
+Sakari roars and grabbing the creature's forelimbs, attempts to throw it off.
+
+> [!roll] Test - Sakari hurl the lynx aside
+> **Result:** 6
+
+The lynx is slammed against the wall of the tunnel. It yelps in pain. Sakari whips his axe round and smashes it into the creature's side.
+
+> [!roll] Attack - Sakari axes the lynx
+> **Result:** 5
+
+The axe bites deep into the creatures flank and it bellows in pain but as it does so Okan hurls 
