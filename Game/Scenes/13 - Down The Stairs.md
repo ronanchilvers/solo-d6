@@ -125,9 +125,20 @@ Sakari pads down the tunnel, his movements silent despite his huge frame. Okan f
 
 Sakari holds up a paw - "Listen!". A sound comes to them down the tunnel, a thin whimper, as of a wounded animal. Then there is silence. Sakari edges forwards along the tunnel towards the source of light, Okan behind him. Kaapo stays back a little. Sakari reaches the end of the tunnel. He holds a paw up to Okan indicating he should stay back and then carefully and slowly inches forward so he can see into the room.
 
-The room is roughly square, with a raised dais in the centre on which is a low altar. The huge creature from the tavern is lying to one side of the cavern.
+The room is roughly square, with a raised dais in the centre on which is a low altar. Two torches in brackets are on the walls, casting some light across the room. The huge creature from the tavern is lying to one side of the cavern.
 
-> [!oracle] Are there more of the lynx?
+> [!oracle] Are there more lynx?
 > **Roll:** 36
 > **Outcome:** Yes
 > **Random Event:** None
+
+Another of the creatures again is pacing slowly around the edge of the dais. The figure that they saw enter the building is crouched by the side of the first creature, seeming to tend it's wounds. Sakari can see the scorch marks on its fur, caused by Kaapo's spell. As he watches from the shadows, the figure strokes the head of the injured creature. He wonders if they are doing some sort of healing magic.
+
+> [!oracle] Are they?
+> **Roll:** 41 (unlikely)
+> **Outcome:** No
+> **Random Event:** None
+
+The creature let's it's great head drop again to it's paws which are stretched out in front. Sakari watches the figure stand and step over towards the dais. It mounts the step and stands before the altar.
+
+Sakari eases back from the tunnel entrance and indicates silently to the others.
