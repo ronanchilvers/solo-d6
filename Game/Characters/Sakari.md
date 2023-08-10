@@ -38,7 +38,7 @@ aliases: Sakari Vinha, Saki
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ] 
+> - [x] 
 
 > [!help]- Combat
 > - Test to determine attack outcome

@@ -151,4 +151,18 @@ Sakari eases back from the tunnel entrance and indicates silently to the others.
 As Sakari turns back, in a frenzy of roaring, claws and teeth, a lynx explodes from the glom of the room and leaps at Sakari. He just has time to yell - "There are three of them!" - before he is bourne to the ground.
 
 > [!roll] Evade - Sakari attempts to twist out of the way
-> **Result:** 
+> **Result:** 3
+
+Sakari twists, trying to avoid the claws and teeth of the lynx but the creature has the drop on him. 
+
+> [!roll] Attack - Lynx claws Sakari
+> **Result:** 5
+
+Claws rake his side and he grunts in pain, blood welling from the wound.
+
+> [!abstract] Initiative
+> - Sakari - 7
+> - Lynx - 6
+> - Okan - 6
+> - Unknown figure - 6
+> - Kaapo - 4
