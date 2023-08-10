@@ -195,4 +195,14 @@ The axe bites deep into the creatures flank and it bellows in pain but as it doe
 > [!roll] Evade - The lynx twists and blurs to evade the attack
 > **Result:** 2
 
-The blade slashes a long gash in the creature's hide and it roars again in pain. Okan, pulls his bow 
+The blade slashes a long gash in the creature's hide and it roars again in pain. Okan, pulls his bow from his back and nocks an arrow.
+
+Behind the first creature the other two lynx have bounded to the tunnel entrance and are scrabbling to pass the first one and attack.
+
+> [!roll] Attack - Lynx claws Sakari
+> **Result:** 6
+
+> [!roll] Attack - Lynx tries to bite Sakari
+> **Result:** 6
+
+The lynx slashes at Sakari with its claws, wrenching him forward and biting down on his arm. Sakari yells in pain. Behind it the other two lynx are try

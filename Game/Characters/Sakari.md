@@ -36,8 +36,8 @@ aliases: Sakari Vinha, Saki
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ] 
-> - [ ] 
+> - [x] 
+> - [x] 
 > - [x] 
 
 > [!help]- Combat
