@@ -213,4 +213,5 @@ The lynx slashes at Sakari with its claws, wrenching him forward and biting down
 > [!roll] Attack - Kaapo attacks lynx again
 > **Result:** 5
 
-Kaapo's voice is shrill as his shrieks words of magic. Twin bolts of fire shoot past Okan and Sakari. There is a smell of sizzling hair and hide as they scorch the creature.
+Kaapo's voice is shrill as his shrieks words of magic. Twin bolts of fire shoot past Okan and Sakari. There is a smell of sizzling hair and hide as they scorch the creature. It roars and howls in pain, spitting and hissing, dark shadows coiling around it.
+
