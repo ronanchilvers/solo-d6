@@ -144,6 +144,11 @@ The creature lets its great head drop again to its paws which are stretched out 
 Sakari eases back from the tunnel entrance and indicates silently to the others.
 
 > [!oracle] Do the lynx hear something?
-> **Roll:** 
-> **Outcome:** <% tp.file.cursor(3) %>
+> **Roll:** 56 (very likely)
+> **Outcome:** Yes
 > **Random Event:** None
+
+As Sakari turns back, in a frenzy of roaring, claws and teeth, a lynx explodes from the glom of the room and leaps at Sakari. He just has time to yell - "There are three of them!" - before he is bourne to the ground.
+
+> [!roll] Evade - Sakari attempts to twist out of the way
+> **Result:** 
