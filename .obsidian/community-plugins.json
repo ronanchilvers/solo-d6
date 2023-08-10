@@ -5,5 +5,7 @@
   "obsidian-git",
   "custom-classes",
   "dataview",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "buttons",
+  "quickadd"
 ]
