@@ -139,6 +139,6 @@ Another of the creatures again is pacing slowly around the edge of the dais. The
 > **Outcome:** No
 > **Random Event:** None
 
-The creature let's it's great head drop again to it's paws which are stretched out in front. Sakari watches the figure stand and step over towards the dais. It mounts the step and stands before the altar.
+The creature lets its great head drop again to its paws which are stretched out in front. Sakari watches the figure stand and step over towards the dais. It mounts the step and stands before the altar.
 
 Sakari eases back from the tunnel entrance and indicates silently to the others.
