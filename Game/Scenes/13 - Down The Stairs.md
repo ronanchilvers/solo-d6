@@ -173,8 +173,8 @@ Claws rake his side and he grunts in pain, blood welling from the wound.
 > - [x] 
 > - [x] 
 > - [x] 
-> - [ ] 
-> - [ ] 
+> - [x] 
+> - [x] 
 > - [ ] 
 
 Sakari roars and grabbing the creature's forelimbs, attempts to throw it off.
@@ -205,4 +205,12 @@ Behind the first creature the other two lynx have bounded to the tunnel entrance
 > [!roll] Attack - Lynx tries to bite Sakari
 > **Result:** 6
 
-The lynx slashes at Sakari with its claws, wrenching him forward and biting down on his arm. Sakari yells in pain. Behind it the other two lynx are try
+The lynx slashes at Sakari with its claws, wrenching him forward and biting down on his arm. Sakari yells in pain. Behind it the other two lynx are trying to push past but can't fit into the tunnel.
+
+> [!roll] Attack - Kaapo attacks lynx
+> **Result:** 6
+
+> [!roll] Attack - Kaapo attacks lynx again
+> **Result:** 5
+
+Kaapo's voice is shrill as his shrieks words of magic. Twin bolts of fire shoot past Okan and Sakari. There is a smell of sizzling hair and hide as they scorch the creature.
