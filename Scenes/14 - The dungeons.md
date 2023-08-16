@@ -13,4 +13,13 @@ tags: [tiny-d6,scene]
 > **Focus:** New NPC (from previous session)
 > **Action:**  
 
-Okan walks slowly around the dais in the centre of the room, staring hard at the ground - "There must be another way out of here. That "
+Okan walks slowly around the dais in the centre of the room, staring hard at the ground - "There must be another way out of here. That creepy dude didn't just vanish, surely!"
+
+Sakari is chopping bits of the lynx corpses, much to Kaapo's disgust! "Do you have to do that Saki? Its horrible" - The kahru shrugs - "How else will I know I killed them? Ah - that's better!" - An lynx ear tears free and he straightens up, tucking the remnant into his armour. Kaapo shakes his head - "Truly disgusting."
+
+> [!roll] Test - Okan to find a hidden entrance in the dais
+> **Result:** 4
+
+Okan shakes his head - "There's nothing here. Not a thing! There must be some way other way out of here - I feel it in my bones! Kaapo - can you do something to help? Wave your hands around or something?"
+
+Kaapo scratches his head - "I'm not sure what I'd do. Hold on - let me look at my scrolls."
