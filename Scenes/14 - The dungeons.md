@@ -12,3 +12,5 @@ tags: [tiny-d6,scene]
 > [!danger] Random Event!
 > **Focus:** New NPC (from previous session)
 > **Action:**  
+
+Okan walks slowly around the dais in the centre of the room, staring hard at the ground - "There must be another way out of here. That "
