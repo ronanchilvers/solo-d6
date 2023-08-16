@@ -334,4 +334,4 @@ Sakari jumps backwards, away from the slowly spreading pool of gaseous smoke.
 > **Outcome:** No
 > **Random Event:** None
 
-The lynx backs off, snarling as Sakari edges away and then leaps for the tunnel entrance. Together they run as best they can, through the tunnel, through the room beyond and up the stairway. Sakari is bleeding freely from his wounds but seems undaunted.
+The lynx backs off, snarling as Sakari edges away and then leaps for the tunnel entrance. Sakari is bleeding freely from his wounds but seems undaunted. They scramble through the tunnel into the far room. Kaapo is heading for the stairs when Okan shouts
