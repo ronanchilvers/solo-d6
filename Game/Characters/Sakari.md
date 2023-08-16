@@ -13,14 +13,14 @@ aliases: Sakari Vinha, Saki
 
 > [!abstract] Heritage
 > **Name:** Black kahru
-> **Trait:** Powerful Claws - Claw as mastered weapon. Cannot use Ranged weapons.
+> **Trait:** **Powerful Claws** - Claw as mastered weapon. Cannot use Ranged weapons.
 
 > [!abstract] Traits
-> - Cleave - When enemy is at 0 HP, make another attack with disadvantage
-> - Strong - Advantage for brute force tests
-> - Tough - Additional 2 HP
-> - Vigilant - You gain Advantage on Initiative Tests
-> - Defender - When an adjacent ally is hit, before Evade Tests are made, you may choose to have that attack hit you instead
+> - **Cleave** - When enemy is at 0 HP, make another attack with disadvantage
+> - **Strong** - Advantage for brute force tests
+> - **Tough** - Additional 2 HP
+> - **Vigilant** - You gain Advantage on Initiative Tests
+> - **Defender** - When an adjacent ally is hit, before Evade Tests are made, you may choose to have that attack hit you instead
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP

@@ -13,14 +13,14 @@ aliases: Okan Ladang
 
 > [!abstract] Heritage
 > **Name:**  Goblin
-> **Trait:** Goblin Agility - When attacked test 1d6 to evade
+> **Trait:** **Goblin Agility** - When attacked test 1d6 to evade
 
 > [!abstract] Traits
-> - Lucky - Re-roll 1 test per session
-> - Perceptive - Advantage on Testing to gain information even when asleep
-> - Quick Shot - Reload and fire ranged weapons in 1 round
-> - Sneaky - You gain Advantage when Testing to hide or sneak around without others noticing you
-> - Trapmaster - You gain Advantage when Testing to create, locate and disarm traps. You also gain Advantage on Save Tests against traps.
+> - **Lucky** - Re-roll 1 test per session
+> - **Perceptive** - Advantage on Testing to gain information even when asleep
+> - **Quick Shot** - Reload and fire ranged weapons in 1 round
+> - **Sneaky** - You gain Advantage when Testing to hide or sneak around without others noticing you
+> - **Trapmaster** - You gain Advantage when Testing to create, locate and disarm traps. You also gain Advantage on Save Tests against traps.
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
