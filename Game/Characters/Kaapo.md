@@ -38,6 +38,13 @@ aliases: Kaapo Torni
 > - [ ] 
 > - [ ] 
 
+`class: track`
+> [!abstract] Scrolls
+> Maximum of 3 carried at any one time. Each scroll slot is 50gp to fill up.
+> - [ ] 
+> - [ ] 
+> - [ ] 
+
 > [!help]- Combat
 > - Test to determine attack outcome
 > - Roll a 5 or 6 to succeed

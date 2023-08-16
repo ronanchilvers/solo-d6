@@ -22,4 +22,11 @@ Sakari is chopping bits of the lynx corpses, much to Kaapo's disgust! "Do you ha
 
 Okan shakes his head - "There's nothing here. Not a thing! There must be some way other way out of here - I feel it in my bones! Kaapo - can you do something to help? Wave your hands around or something?"
 
-Kaapo scratches his head - "I'm not sure what I'd do. Hold on - let me look at my scrolls."
+Kaapo scratches his head - "I'm not sure what I'd do. Hold on - let me see what I have."
+
+> [!oracle] Does Kaapo have a scroll that might help?
+> **Roll:** 33 (50/50)
+> **Outcome:** Yes
+> **Random Event:** None (ignore as existing random event present)
+
+After a few minutes he stands up - "This might help. Faerie Fire - it makes hidden things visible." Okan rubs his hands together - "Great! Okay do your thing then." - He wiggles his fingers in front of him.
