@@ -5,6 +5,7 @@ aliases:
 summary: 
 une: 
 ---
+![[wellby.png]]
 > [!abstract] Stats
 > **Heritage:** Halfling
 > **HP:**

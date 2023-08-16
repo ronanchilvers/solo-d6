@@ -4,7 +4,7 @@ tags: [tiny-d6,creature]
 aliases: 
 summary: Huge cat like creature, wreathed in shadows
 ---
-![[shadowclaw-lynx.jpg]]
+![[Shadowclaw lynx.png]]
 > [!abstract] Stats
 > **Description:** A huge cat like creature, with a rippling black pelt and almost preternatural agility. The lynx is at home in darkness and can wreath itself in shadow to evade it's enemies.
 > **HP:** 6

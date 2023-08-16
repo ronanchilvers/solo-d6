@@ -4,6 +4,7 @@ tags: [tiny-d6,npc]
 aliases: Pallabar
 summary: Gnome sage - his eyes twitch a lot
 ---
+![[pallabar.png]]
 > [!abstract] Stats
 > **Heritage:** Gnome
 > **HP:** 4

@@ -4,6 +4,7 @@ tags: [tiny-d6,npc]
 aliases: Armas, Master Valtaistuin
 summary: Theatrical kahru leader of the Shatterfists
 ---
+![[armas.png]]
 > [!abstract] Stats
 > **Heritage:** Kahru
 >**HP:** 9

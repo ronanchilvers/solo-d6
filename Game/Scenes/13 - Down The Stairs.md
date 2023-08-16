@@ -175,7 +175,7 @@ Claws rake his side and he grunts in pain, blood welling from the wound.
 > - [x] 
 > - [x] 
 > - [x] 
-> - [ ] 
+> - [x] 
 
 Sakari roars and grabbing the creature's forelimbs, attempts to throw it off.
 
@@ -215,3 +215,123 @@ The lynx slashes at Sakari with its claws, wrenching him forward and biting down
 
 Kaapo's voice is shrill as his shrieks words of magic. Twin bolts of fire shoot past Okan and Sakari. There is a smell of sizzling hair and hide as they scorch the creature. It roars and howls in pain, spitting and hissing, dark shadows coiling around it.
 
+> [!roll] Attack - Sakari axes the lynx
+> **Result:** 6
+
+Sakari swings his axe as the lynx twists to escape. The war axe cuts straight through the creatures neck, blood spraying across the wall as it crashes into the stone floor, dead. The other two creatures stand just inside the room growling, teeth bared, ready to spring. Sakari roars at them - "Come on! Come and taste my steel!"
+
+> [!oracle] Is the figure still in the room?
+> **Roll:** 98 (Very unlikelly)
+> **Outcome:** Extreme no
+> **Random Event:** None
+
+The two lynx slowly back away, one of them limping a little as it moves. They are snarling, shadows wreathing around them. Sakari steps over the corpse of the lynx, his axe in his hands. He slowly moves out into the room, his eyes watching both creatures, waiting for them to move. Behind him Okan edges forwards and Kaapo moves to stand at the tunnel entrance, his hands poised to cast a spell.
+
+> [!oracle] Did the figure set a trap?
+> **Roll:** 24 (Very likely)
+> **Outcome:** Yes
+> **Random Event:** None
+
+> [!roll] Test - Okan detect traps
+> **Result:** 5
+
+Okan mutters - "Careful Saki - I think there's something else prepared for our arrival here as well as these overgrown pussy cats!"
+
+> [!oracle] Is there a pressure trap somewhere on the floor?
+> **Roll:** 63 (Very likely)
+> **Outcome:** Yes
+> **Random Event:** None
+
+The two lynx spring forward and Sakari roars, swinging his axe to meet them.
+
+> [!abstract] Initiative
+> - Sakari - 10
+> - Okan - 6
+> - Lynx - 6
+> - Kaapo - 5
+
+`class: track`
+> [!abstract] Lynx 2
+> 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+
+`class: track`
+> [!abstract] Lynx 3
+> - [x] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+
+Sakari leaps towards the lynx as they rush forwards, his axe swinging in a wide arc.
+
+> [!roll] Attack - Sakari hacks at a lynx
+> **Result:** 6
+
+The creature howls in pain as Sakari's blade slashes it. As it tumbles backwards Sakari can see that the animal is wounded. Sakari's voice is harsh and triumphant as he yells - "This is the creature from the tavern! I see your handiwork in its hide Okan!!"
+
+> [!oracle] Does Sakari step on the trap?
+> **Roll:** 14 (Unlikely)
+> **Outcome:** Yes
+> **Random Event:** None
+
+As he steps back to prepare his next blow, there is an audible grating sound from one of the flagstones beneath his feet. The stone shifts and for a moment Sakari wobbles on the spot. Okan yells - "You've triggered the trap! Run!!"
+
+At the same time Okan sends two arrows flashing towards the two lynx.
+
+> [!roll] Attack - Okan shoots at the lynx
+> **Result:** 6
+
+The first arrow buries itself in the side of the already wounded animal. It shrieks and howls in pain, staggering backwards before falling onto its side, dead.
+
+> [!roll] Attack - Okan fires his second arrow
+> **Result:** 4
+
+The arrow whistles towards the uninjured creature but it leaps aside and lunges forward towards Sakari, roaring.
+
+> [!roll] Attack - Lynx attacks Sakari
+> **Result:** 6
+
+Sakari's foot slips in the moving flagstone and the creature's claws rake his arm. The creature's jaws open wide to bite.
+
+> [!roll] Attack - Lynx bites Sakari
+> **Result:** 3
+
+Sakari manages to twist out of the way, roaring in pain, avoiding the cruel fangs of the beast.
+
+> [!roll] Attack - Kaapo shoots fire bolt at the lynx
+> **Result:** 4
+
+Suddenly a bolt of fiery energy shoots from the shadow of the tunnel as Kaapo hurls his magic at the lynx. It just misses, burning a furrow in the creature's fur but doing no other damage. A second bolt flashes towards it.
+
+> [!roll] Attack - Kaapo shoots another fire bolt at the lynx
+> **Result:** 5
+
+While the lynx was agile enough to avoid the first, the second bolt of energy catches it in the side. It howls in pain.
+
+> [!oracle] Is the trap a water trap?
+> **Roll:** 81
+> **Outcome:** No
+> **Random Event:** None
+
+> [!oracle] What is the nature of the trap?
+> **Roll:** 66,66
+> **Outcome:** Oppose Pain
+> **Random Event:** None
+
+As Sakari brings his axe back and tenses to leap at the lynx, a greenish gas begins to flow from the walls, puddle at the bottom and then begin to almost ooze across the floor towards them. Okan shouts - "We need to go!! Now!! Don't let that stuff touch you!"
+
+Sakari jumps backwards, away from the slowly spreading pool of gaseous smoke.
+
+> [!oracle] Does the lynx continue the attack?
+> **Roll:** 53 (Unlikely)
+> **Outcome:** No
+> **Random Event:** None
+
+The lynx backs off, snarling as Sakari edges away and then leaps for the tunnel entrance. Together they run as best they can, through the tunnel, through the room beyond and up the stairway. Sakari is bleeding freely from his wounds but seems undaunted.
