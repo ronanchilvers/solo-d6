@@ -339,4 +339,15 @@ The lynx backs off, snarling as Sakari edges away and then leaps for the tunnel 
 > [!roll] Test - Did the PCs notice anything about the figure?
 > **Result:** 4
 
-Sakari says - "I was too busy with those big pussy cats! Kaapo - you see anything?" - Kaapo shakes his head - "There's one of those pussy cats still very much alive! What do we do?" - Okan says - "Can you do something with t"
+Sakari says - "I was too busy with those big pussy cats! Kaapo - you see anything?" - Kaapo shakes his head - "There's one of those pussy cats still very much alive! What do we do?" - Okan says - "Can you do something with that tunnel? Stop the gas or whatever it is coming out here?" - "I'll try..."
+
+Kaapo frowns and drops his bag. Stepping forwards he concentrates on the tunnel entrance, holding his hands up towards it.
+
+> [!roll] Test - Kaapo cast a spell to temporarily block the entrance
+> **Result:** 6
+
+The air in the tunnel entrance shimmers and for a moment becomes opaque. Then it slowly fades until it seems a light mist is clouding the tunnel. Kaapo relaxes, breathing hard. 
+
+"Won't last for long but that should stop it for the moment."
+
+They slump down, watching as the greenish 
