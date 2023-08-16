@@ -365,4 +365,13 @@ They watch as the gas slowly subsides. After around 10 minutes, Kaapo's barrier 
 > **Outcome:** Yes
 > **Random Event:** New NPC
 
+Okan tentatively steps forward and waves a piece of wood (found in a pile in the corner of the room) in the tunnel entrance. He has his arm across his face as he does so.
 
+"Careful Okan - don't want to have to pull you out in bits!" - Sakari's voice is a low growl
+
+Okan steps slowly forwards. The last of the gas is dispersing now and he can see through to the far room.
+
+> [!oracle] 
+> **Roll:** 
+> **Outcome:** 
+> **Random Event:** None
