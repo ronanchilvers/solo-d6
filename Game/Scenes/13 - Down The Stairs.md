@@ -325,7 +325,7 @@ While the lynx was agile enough to avoid the first, the second bolt of energy ca
 > **Outcome:** Oppose Pain
 > **Random Event:** None
 
-As Sakari brings his axe back and tenses to leap at the lynx, a greenish gas begins to flow from the walls, puddle at the bottom and then begin to almost ooze across the floor towards them. Okan shouts - "We need to go!! Now!! Don't let that stuff touch you!"
+As Sakari brings his axe back and tenses to leap at the lynx, a greenish gas begins to flow from the walls, puddle at the bottom and then starts to almost ooze across the floor towards them. Okan shouts - "We need to go!! Now!! Don't let that stuff touch you!"
 
 Sakari jumps backwards, away from the slowly spreading pool of gaseous smoke.
 
@@ -334,4 +334,9 @@ Sakari jumps backwards, away from the slowly spreading pool of gaseous smoke.
 > **Outcome:** No
 > **Random Event:** None
 
-The lynx backs off, snarling as Sakari edges away and then leaps for the tunnel entrance. Sakari is bleeding freely from his wounds but seems undaunted. They scramble through the tunnel into the far room. Kaapo is heading for the stairs when Okan shouts
+The lynx backs off, snarling as Sakari edges away and then leaps for the tunnel entrance. Sakari is bleeding freely from his wounds but seems undaunted. They scramble through the tunnel into the far room. Kaapo is heading for the stairs when Okan shouts - "Wait! Where did that figure go? Who was it?"
+
+> [!roll] Test - Did the PCs notice anything about the figure?
+> **Result:** 4
+
+Sakari says - "I was too busy with those big pussy cats! Kaapo - you see anything?" - Kaapo shakes his head - "There's one of those pussy cats still very much alive! What do we do?" - Okan says - "Can you do something with t"
