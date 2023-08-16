@@ -69,4 +69,4 @@ aliases: Sakari Vinha, Saki
 > 
 > | Remaining | Spent | Total |
 > | -- | -- | -- |
-> | 8 | 0 | 0 |
+> | 4 | 32 | 36 |

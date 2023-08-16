@@ -371,7 +371,22 @@ Okan tentatively steps forward and waves a piece of wood (found in a pile in the
 
 Okan steps slowly forwards. The last of the gas is dispersing now and he can see through to the far room.
 
-> [!oracle] 
-> **Roll:** 
-> **Outcome:** 
+> [!oracle] Has the last lynx succumbed to the gas?
+> **Roll:** 49 (Nearly certain)
+> **Outcome:** Yes
 > **Random Event:** None
+
+"I can see that last pussy cat you were hitting Saki - it's lying on its side in the tunnel." - He edges into the tunnel and prods the lynx with his stick. - "Seems to be dead or at least very sleepy."
+
+Kaapo and Sakari gather their things and follow Okan. They emerge cautiously into the far room again. Sakari dispatches the unconscious Lynx with his axe.
+
+"Well! Where the hell did whoever it was vanish to?" - Okan scratches his head - "This is the only entrance!"
+
+***END***
+> [!help]- Experience Points
+> - 1 for the group as a whole for good roleplay. 
+> - 1 for the group as a whole for defeating enemies (not per 
+enemy, just if they defeated any enemies).
+> - 1 for the group as a whole for advancing the plot and their goals.
+
+Experience (per character): 3
