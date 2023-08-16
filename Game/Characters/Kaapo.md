@@ -41,7 +41,7 @@ aliases: Kaapo Torni
 `class: track`
 > [!abstract] Scrolls
 > Maximum of 3 carried at any one time. Each scroll slot is 50gp to fill up.
-> - [ ] 
+> - [x] 
 > - [ ] 
 > - [ ] 
 
