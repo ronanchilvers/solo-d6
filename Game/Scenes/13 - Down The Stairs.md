@@ -358,4 +358,11 @@ They slump down, watching as the greenish gas flows up the tunnel towards them a
 
 Kaapo stems the flow of blood and binds Sakari's arm tightly. He concentrates for a moment and a faint bluish glow spreads along the wound. Once he's done, the kahru flexes his muscles - "Much better. Thanks Kaapo."
 
-They watch as the gas slowly subsides. After around 10 minutes, Kaapo's barrier glitters, pulses and fades away. "That's it I'm afraid. Hopefully that stuff has gone!" - The young mage's voice is a little 
+They watch as the gas slowly subsides. After around 10 minutes, Kaapo's barrier glitters, pulses and fades away. "That's it I'm afraid. Hopefully that stuff has gone!" - The young mage's voice is a little nervous.
+
+> [!oracle] Has the gas gone?
+> **Roll:** 44 (Nearly certain)
+> **Outcome:** Yes
+> **Random Event:** New NPC
+
+
