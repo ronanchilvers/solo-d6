@@ -262,12 +262,14 @@ The two lynx spring forward and Sakari roars, swinging his axe to meet them.
 
 `class: track`
 > [!abstract] Lynx 3
+> 
 > - [x] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
+
 
 Sakari leaps towards the lynx as they rush forwards, his axe swinging in a wide arc.
 
@@ -363,7 +365,7 @@ They watch as the gas slowly subsides. After around 10 minutes, Kaapo's barrier 
 > [!oracle] Has the gas gone?
 > **Roll:** 44 (Nearly certain)
 > **Outcome:** Yes
-> **Random Event:** New NPC
+> **Random Event:** *New NPC*
 
 Okan tentatively steps forward and waves a piece of wood (found in a pile in the corner of the room) in the tunnel entrance. He has his arm across his face as he does so.
 
