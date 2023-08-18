@@ -1,6 +1,6 @@
 ---
 created: 2023-07-14 19:32
-tags: [tiny-d6,setting]
+tags: [tiny-d6,setting,map]
 ---
 ```leaflet
 id: waterdeep-city-map-with-markers
