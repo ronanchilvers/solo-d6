@@ -12,6 +12,20 @@ An artifact has been stolen from a merchant in the Trade Ward. Their potential e
 
 These were found after the robbery took place.
 
+# Scenes
+```button
+name Create new scene
+type command
+action Quickadd: New Scene
+```
+^button-new-scene
+```dataview
+List
+From -"_templates"
+Where contains(file.tags, "scene") 
+Sort file.name desc
+```
+
 # Setting
 ```dataview
 List 
@@ -34,20 +48,6 @@ List
 From -"_templates"
 Where contains(file.tags, "character")
 Sort file.name
-```
-
-# Scenes
-```button
-name Create new scene
-type command
-action Quickadd: New Scene
-```
-^button-new-scene
-```dataview
-List
-From -"_templates"
-Where contains(file.tags, "scene") 
-Sort file.name desc
 ```
 
 # Creatures
