@@ -1,6 +1,6 @@
 ---
 created: 2023-07-08 18:38
-tags: [tiny-d6,setting]
+tags: [tiny-d6,setting,map]
 ---
 ```leaflet
 id: the-sword-coast-region
