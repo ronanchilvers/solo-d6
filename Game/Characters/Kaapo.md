@@ -20,7 +20,7 @@ aliases: Kaapo Torni
 > - **Spell Reader** - You have spent years learning the sacred language of the arcane, allowing you to read power-laced words from magic scrolls.
 > - **Spell Touched** - You are able to subtly influence the world around you by merely willing it to happen
 > - **Insightful** - You gain Advantage when Testing to discern whether or not someone is telling the truth or lying.
-> - **Eidetic Memory** - When testing to recall information you have seen or hear previously you succeed on a roll of 4, 5 or 6
+> - **Eidetic Memory** - When testing to recall information you have seen or heard previously you succeed on a roll of 4, 5 or 6
 
 > [!help]- Health / Hit Points
 > - 6 hour rest restores all lost HP
@@ -74,4 +74,4 @@ aliases: Kaapo Torni
 > 
 > | Remaining | Spent | Total |
 > | -- | -- | -- |
->  |4 | 32 | 36 |
+>  |6 | 32 | 38 |

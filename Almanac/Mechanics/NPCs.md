@@ -6,4 +6,5 @@ tags: [tiny-d6,mechanics]
 List summary
 From -"_templates"
 Where contains(file.tags, "npc")
+Sort file.name
 ```

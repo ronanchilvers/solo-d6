@@ -301,7 +301,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1691566406890,
+      "lastAccessed": 1693513474659,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -765,17 +765,20 @@
           "id": "ID_4929483b8bd9",
           "type": "default",
           "loc": [
-            -1.2699785232543945,
-            3.784479081630707
+            -1.0943670272827148,
+            3.7727949619293213
           ],
           "layer": "The%20Sword%20Coast.jpg",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5377703286491683,
+            0.24109979258552067
+          ],
           "description": "Thana's Tower",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         },
         {
           "id": "ID_e93ad85b58ca",
@@ -791,7 +794,7 @@
           "description": "Oakhaven",
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "always"
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -803,7 +806,7 @@
     {
       "id": "waterdeep-city-map-with-markers",
       "locked": false,
-      "lastAccessed": 1691566500784,
+      "lastAccessed": 1693598926379,
       "markers": [
         {
           "id": "ID_0ad869c968ca",
@@ -867,6 +870,23 @@
             5.527166843414307
           ],
           "link": "Mausoleum",
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_c9384a482ba9",
+          "type": "default",
+          "loc": [
+            -7.8668060302734375,
+            4.6328125
+          ],
+          "link": "Lina Devdan's House",
           "layer": "waterdeep-3560-7256.jpg",
           "mutable": true,
           "command": false,
