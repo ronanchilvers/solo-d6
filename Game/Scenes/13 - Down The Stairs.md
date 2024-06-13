@@ -148,7 +148,7 @@ Sakari eases back from the tunnel entrance and indicates silently to the others.
 > **Outcome:** Yes
 > **Random Event:** None
 
-As Sakari turns back, in a frenzy of roaring, claws and teeth, a lynx explodes from the glom of the room and leaps at Sakari. He just has time to yell - "There are three of them!" - before he is bourne to the ground.
+As Sakari turns back, in a frenzy of roaring, claws and teeth, a lynx explodes from the gloom of the room and leaps at Sakari. He just has time to yell - "There are three of them!" - before he is bourne to the ground.
 
 > [!roll] Evade - Sakari attempts to twist out of the way
 > **Result:** 3

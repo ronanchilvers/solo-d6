@@ -2,12 +2,17 @@
   "returnAllTags": true,
   "rollLinksForTags": false,
   "copyContentButton": true,
-  "customFormulas": [],
+  "customFormulas": [
+    "1d6",
+    "1d6+1d4"
+  ],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
   "displayFormulaAfter": true,
   "displayLookupRoll": true,
-  "formulas": {},
+  "formulas": {
+    "mune": "1d6 + 1d8"
+  },
   "persistResults": false,
   "results": {},
   "defaultRoll": 1,

@@ -12,6 +12,10 @@ created: 2023-07-07 11:29
 > 
 > These were found after the robbery took place.
 
+> [!readme] System Synopsis
+> **System:** Tiny Dungeon 2e / Advanced Tiny Dungeon
+> **Oracle:** Modified MUNE
+
 # Maps
 ```dataview
 List 

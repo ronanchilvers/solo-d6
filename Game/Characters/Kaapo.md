@@ -74,4 +74,4 @@ aliases: Kaapo Torni
 > 
 > | Remaining | Spent | Total |
 > | -- | -- | -- |
->  |6 | 32 | 38 |
+> | 6 | 32 | 38 |

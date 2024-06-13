@@ -100,7 +100,7 @@ Almost simultaneously, Okan and Sakari (who is edging round the other side of th
 
 They ready themselves and then Okan, hooking his fingers round the edge of the door, gently pulls it open. Their tension eases slightly - inside is a dark space with the top steps of what seems to be a stone staircase, leading downwards. Okan peers down it but sees nothing. He looks at the others.
 
-"We've come this far - might as well carry on?" He raises his eyebrows questioningly at them both. They nod. Sakari steps forward - "I go first little goblin friend." He grins a toothy grin and ducking his head, enters. Okan glances at Kaapo - "Nearly enough nobility to bring a tear to my eye!". THey follow their companion in.
+"We've come this far - might as well carry on?" He raises his eyebrows questioningly at them both. They nod. Sakari steps forward - "I go first little goblin friend." He grins a toothy grin and ducking his head, enters. Okan glances at Kaapo - "Nearly enough nobility to bring a tear to my eye!". They follow their companion in.
 
 ***END***
 > [!help]- Experience Points
