@@ -65,6 +65,6 @@ Okan stares at him for a moment - "Yes... exactly right." - He throws the apple 
 They gather their things and set off towards the City of the Dead.
 
 > [!question] Thread
-> - [ ] #thread Investigate the building in the City of the Dead 
+> - [x] #thread Investigate the building in the City of the Dead
 
 END
