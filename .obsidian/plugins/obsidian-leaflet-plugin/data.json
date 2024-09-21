@@ -299,9 +299,109 @@
       "files": []
     },
     {
+      "id": "waterdeep-city-map-with-markers",
+      "locked": false,
+      "lastAccessed": 1693598926379,
+      "markers": [
+        {
+          "id": "ID_0ad869c968ca",
+          "type": "default",
+          "loc": [
+            -9.759578168392181,
+            3.8681827783584595
+          ],
+          "link": "The Splintered Stair",
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5563229164380705,
+            0.6886582169538034
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_992afa7948bb",
+          "type": "default",
+          "loc": [
+            -9.85546875,
+            3.5634765625
+          ],
+          "link": "The Jolly Guardian",
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_7949b82aa838",
+          "type": "default",
+          "loc": [
+            -10.40625,
+            4.1865234375
+          ],
+          "link": "Pallabar Reddlepop",
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_4abaea0b580b",
+          "type": "default",
+          "loc": [
+            -7.332213401794434,
+            5.527166843414307
+          ],
+          "link": "Mausoleum",
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_c9384a482ba9",
+          "type": "default",
+          "loc": [
+            -7.8668060302734375,
+            4.6328125
+          ],
+          "link": "Lina Devdan's House",
+          "layer": "waterdeep-3560-7256.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Setting/Waterdeep City Map.md"
+      ]
+    },
+    {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1693513474659,
+      "lastAccessed": 1726930104136,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -801,106 +901,6 @@
       "shapes": [],
       "files": [
         "Almanac/Setting/Regional Map.md"
-      ]
-    },
-    {
-      "id": "waterdeep-city-map-with-markers",
-      "locked": false,
-      "lastAccessed": 1693598926379,
-      "markers": [
-        {
-          "id": "ID_0ad869c968ca",
-          "type": "default",
-          "loc": [
-            -9.759578168392181,
-            3.8681827783584595
-          ],
-          "link": "The Splintered Stair",
-          "layer": "waterdeep-3560-7256.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5563229164380705,
-            0.6886582169538034
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_992afa7948bb",
-          "type": "default",
-          "loc": [
-            -9.85546875,
-            3.5634765625
-          ],
-          "link": "The Jolly Guardian",
-          "layer": "waterdeep-3560-7256.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_7949b82aa838",
-          "type": "default",
-          "loc": [
-            -10.40625,
-            4.1865234375
-          ],
-          "link": "Pallabar Reddlepop",
-          "layer": "waterdeep-3560-7256.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_4abaea0b580b",
-          "type": "default",
-          "loc": [
-            -7.332213401794434,
-            5.527166843414307
-          ],
-          "link": "Mausoleum",
-          "layer": "waterdeep-3560-7256.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_c9384a482ba9",
-          "type": "default",
-          "loc": [
-            -7.8668060302734375,
-            4.6328125
-          ],
-          "link": "Lina Devdan's House",
-          "layer": "waterdeep-3560-7256.jpg",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Almanac/Setting/Waterdeep City Map.md"
       ]
     }
   ],
