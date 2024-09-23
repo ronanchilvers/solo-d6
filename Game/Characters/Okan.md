@@ -64,4 +64,4 @@ aliases: Okan Ladang
 > 
 > | Remaining | Spent | Total |
 > | -- | -- | -- |
-> |6 | 32 | 38 |
+> |8 | 32 | 38 |

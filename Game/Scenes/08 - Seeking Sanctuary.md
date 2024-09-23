@@ -58,7 +58,7 @@ Okan mutters under his breath and then says - "Well... Can we come in anyway? We
 > [!roll] Test - Persuasion to let them in
 > **Result:** 4, Lucky: 5
 
-There is another short pause and then - "Very well. But no mess and no theft. Master Valtaistuin wouldmbe most displeased with either."
+There is another short pause and then - "Very well. But no mess and no theft. Master Valtaistuin would be most displeased with either."
 
 Okan nods enthusiastically - "Of course! Fully understood."
 

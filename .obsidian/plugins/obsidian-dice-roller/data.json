@@ -3,16 +3,15 @@
   "rollLinksForTags": false,
   "copyContentButton": true,
   "customFormulas": [
+    "2d6kh",
     "1d6",
-    "1d6+1d4"
+    "2d6dh"
   ],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
   "displayFormulaAfter": true,
   "displayLookupRoll": true,
-  "formulas": {
-    "mune": "1d6 + 1d8"
-  },
+  "formulas": {},
   "persistResults": false,
   "results": {},
   "defaultRoll": 1,
@@ -20,8 +19,8 @@
   "renderer": true,
   "renderAllDice": true,
   "renderTime": 2000,
-  "diceColor": "#0f0f0f",
-  "textColor": "#ffffff",
+  "diceColor": "#faf7eb",
+  "textColor": "#000000",
   "showLeafOnStartup": true,
   "showDice": true,
   "displayAsEmbed": true,

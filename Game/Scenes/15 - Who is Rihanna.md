@@ -60,13 +60,32 @@ Rihanna says - "I've found no trace of the artifact but I did discover that othe
 
 "Stupidly, as it turns out, I followed them. They led me across the city, a meandering route, to this place. I should have known something was amiss - as we left the more populous streets, the lynx creature vanished and I couldn't see where it went. Then, before I knew what was happening, it had crept up on me, pinned me to the ground. The halfling came then and he would have killed me I think, but something stayed his hand. They dragged me inside and questioned me. It didn't take long for them to find out my purpose."
 
-"Before I left the Dale, my teacher gave me a gift for when I found the chalice. It was a scroll of travelling and when uttered opens a portal to the Dale which lasts for a couple of days I think. It was so that I could return quickly rather than risk an arduous journey with the chalice. When he searched me, the halfling found it. They dragged me down into that dungeon and forced me to use themscroll to open the portal. He said they had business with the chalice in the north, in the Dale. He left me for hours in the dark with only the flickering light of the portal to see by."
+"Before I left the Dale, my teacher gave me a gift for when I found the chalice. It was a scroll of travelling and when uttered opens a portal to the Dale which lasts for a couple of days I think. It was so that I could return quickly rather than risk an arduous journey with the chalice. When he searched me, the halfling found it. They dragged me down into that dungeon and forced me to use the scroll to open the portal. He said they had business with the chalice in the north, in the Dale. He left me for hours in the dark with only the flickering light of the portal to see by."
 
-"When he returned, I think he was on the verge of killing me. He spoke about some rite he had to perform but then the lynx creature seemed to warn him of something and he went init the upper chambers. I suppose it was your arrival the creature warned of - the next thing I knew, he was running back down the stairs and without preamble, picked up his bag containing the chalice and ran through the portal."
+"When he returned, I think he was on the verge of killing me. He spoke about some rite he had to perform but then the lynx creature seemed to warn him of something and he went to the upper chambers. I suppose it was your arrival the creature warned of - the next thing I knew, he was running back down the stairs and without saying anything, picked up the bag containing the chalice and ran through the portal."
 
 Okan raises his eyebrows - "That's quite a story!"
 
 Rihanna says - "I saw something else as well, when he was questioning me - a ring the halfling was wearing. A ring with a symbol on it - a descending dragon, mouth agape, surrounded by flame. The symbol of the Zhentarim."
 
-> [!roll] Does anyone in the party recognise the name Zhentarim?
-> **Result:** 
+> [!roll] Does Okan recognise the name Zhentarim?
+> **Result:** 4,5
+
+Okan looks down at her for a long moment, his face suddenly pale. Then he looks at Kaapo and Sakari. His voice is slightly hoarse as he says
+
+"That's not good"
+
+> [!question] Thread
+> - [ ] #thread Why are the Zhentarim involved?
+
+> [!question] Thread
+> - [ ] #thread Where did Welby travel to?
+
+***END***
+> [!help]- Experience Points
+> - 1 for the group as a whole for good roleplay. 
+> - 1 for the group as a whole for defeating enemies (not per 
+enemy, just if they defeated any enemies).
+> - 1 for the group as a whole for advancing the plot and their goals.
+
+Experience (per character): 2
