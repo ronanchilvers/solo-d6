@@ -1,11 +1,13 @@
 [
+  "templater-obsidian",
   "obsidian-dice-roller",
   "table-editor-obsidian",
-  "templater-obsidian",
-  "obsidian-git",
-  "custom-classes",
+  "obsidian-sort-and-permute-lines",
+  "settings-profiles",
   "dataview",
+  "obsidian-git",
   "obsidian-leaflet-plugin",
   "buttons",
-  "quickadd"
+  "quickadd",
+  "custom-classes"
 ]

@@ -1,15 +1,17 @@
 {
+  "promptDelete": false,
   "livePreview": false,
-  "defaultViewMode": "preview",
-  "showFrontmatter": false,
-  "readableLineLength": false,
+  "mobilePullAction": "switcher:open",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 70
   },
-  "mobilePullAction": "templater-obsidian:insert-templater",
-  "alwaysUpdateLinks": true
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
 }

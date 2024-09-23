@@ -401,7 +401,7 @@
     {
       "id": "the-sword-coast-region",
       "locked": false,
-      "lastAccessed": 1724446487173,
+      "lastAccessed": 1726930104136,
       "markers": [
         {
           "id": "ID_1ba86b78287b",
@@ -922,11 +922,11 @@
   "long": -82.98333,
   "notePreview": true,
   "layerMarkers": true,
-  "previousVersion": "5.7.1",
+  "previousVersion": "6.0.5",
   "version": {
-    "major": 5,
-    "minor": 7,
-    "patch": 1
+    "major": 6,
+    "minor": 0,
+    "patch": 5
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,

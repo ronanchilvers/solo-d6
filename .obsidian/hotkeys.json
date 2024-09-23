@@ -1,10 +1,8 @@
 {
-  "workspace:toggle-pin": [
+  "switcher:open": [
     {
       "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Shift"
+        "Mod"
       ],
       "key": "P"
     }
@@ -18,48 +16,10 @@
       "key": "P"
     }
   ],
-  "switcher:open": [
+  "obsidian-sort-and-permute-lines:sort-alphabetically": [
     {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
-  "templater-obsidian:insert-templater": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": ";"
-    }
-  ],
-  "workspace:next-tab": [],
-  "templater-obsidian:jump-to-next-cursor-location": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Tab"
+      "modifiers": [],
+      "key": "F9"
     }
   ]
 }
